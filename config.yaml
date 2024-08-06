@@ -35,7 +35,7 @@ dblp:
     - "decentralized%20learning%20venue%3AICDE%3A"
     - "decentralized%20learning%20streamid%3Ajournals%2Fpvldb%3A"
     - "decentralized%20learning%20venue%3ASIGCOMM%3A"
-    - "decentralized%20learning%20venue%3AINFOCOM%3A"
+    - decentralized%20learning%20streamid%3Aconf%2Finfocom%3A
     - "decentralized%20learning%20venue%3AMobiCom%3A"
     - "decentralized%20learning%20venue%3ANSDI%3A"
     - "decentralized%20learning%20venue%3AWWW%3A"
@@ -56,5 +56,6 @@ dblp:
     - "decentralized%20learning%20streamid%3Aconf%2Ficse%3A"
     - "decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A"
     - "decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A"
+    - "decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A"
     - "decentralized%20learning%20streamid%3Aconf%2Fstoc%3A"
     - "decentralized%20learning%20streamid%3Aseries%2Flncs%3A"

@@ -1,6 +1,7 @@
 dblp:
   url: https://dblp.org/search/publ/api?q={}&format=json&h=1000
   topics:
+    - "decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A"
     - "decentralized%20learning%20venue%3AIJCAI%3A"
     - "decentralized%20learning%20venue%3AAAAI%3A"
     - "decentralized%20learning%20venue%3AAISTATS%3A"

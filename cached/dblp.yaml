@@ -1810,3 +1810,905 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2019.2924685
   ee: https://doi.org/10.1109/ACCESS.2019.2924685
   url: https://dblp.org/rec/journals/access/EseyeLTUM19a
+decentralized%20learning%20venue%3AMiddleware%3A:
+- author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
+    Andreas Polze
+  title: Implicit model specialization through dag-based decentralized federated learning.
+  venue: Middleware
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/middleware/BeilharzPSGAP21
+  doi: 10.1145/3464298.3493403
+  ee: https://doi.org/10.1145/3464298.3493403
+  url: https://dblp.org/rec/conf/middleware/BeilharzPSGAP21
+decentralized%20learning%20venue%3AICDCS%3A:
+- author: Oluwaseun T. Ajayi, Yu Cheng 0003
+  title: Decentralized Learning of Bayesian Networks from Private Data with Applications
+    to Global Pandemic.
+  venue: ICDCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/AjayiC23
+  doi: 10.1109/ICDCS57875.2023.00105
+  ee: https://doi.org/10.1109/ICDCS57875.2023.00105
+  url: https://dblp.org/rec/conf/icdcs/AjayiC23
+- author: Akash Dhasade, Anne-Marie Kermarrec, Rafael Pires, Rishi Sharma 0001, Milos
+    Vujasinovic, Jeffrey Wigger
+  title: Get More for Less in Decentralized Learning Systems.
+  venue: ICDCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/DhasadeKPSVW23
+  doi: 10.1109/ICDCS57875.2023.00067
+  ee: https://doi.org/10.1109/ICDCS57875.2023.00067
+  url: https://dblp.org/rec/conf/icdcs/DhasadeKPSVW23
+- author: Qiang Liu 0013, Tao Han 0002, Ephraim Moges
+  title: 'EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep
+    Reinforcement Learning.'
+  venue: ICDCS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/00130M20
+  doi: 10.1109/ICDCS47774.2020.00028
+  ee: https://doi.org/10.1109/ICDCS47774.2020.00028
+  url: https://dblp.org/rec/conf/icdcs/00130M20
+- author: Zhenheng Tang, Shaohuai Shi, Xiaowen Chu 0001
+  title: Communication-Efficient Decentralized Learning with Sparsification and Adaptive
+    Peer Selection.
+  venue: ICDCS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/TangSC20
+  doi: 10.1109/ICDCS47774.2020.00153
+  ee: https://doi.org/10.1109/ICDCS47774.2020.00153
+  url: https://dblp.org/rec/conf/icdcs/TangSC20
+- author: Liyao Xiang, Lingdong Wang, Shufan Wang, Baochun Li
+  title: Achieving Consensus in Privacy-Preserving Decentralized Learning.
+  venue: ICDCS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/XiangWWL20
+  doi: 10.1109/ICDCS47774.2020.00086
+  ee: https://doi.org/10.1109/ICDCS47774.2020.00086
+  url: https://dblp.org/rec/conf/icdcs/XiangWWL20
+decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
+- author: Anne-Marie Kermarrec
+  title: Frugal Decentralized Learning.
+  venue: IPDPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/Kermarrec22
+  doi: 10.1109/IPDPS53621.2022.00088
+  ee: https://doi.org/10.1109/IPDPS53621.2022.00088
+  url: https://dblp.org/rec/conf/ipps/Kermarrec22
+- author: Robert Schmid, Bjarne Pfitzner, Jossekin Beilharz, Bert Arnrich, Andreas
+    Polze
+  title: Tangle Ledger for Decentralized Learning.
+  venue: IPDPS Workshops
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/SchmidPBAP20
+  doi: 10.1109/IPDPSW50202.2020.00144
+  ee: https://doi.org/10.1109/IPDPSW50202.2020.00144
+  url: https://dblp.org/rec/conf/ipps/SchmidPBAP20
+- author: Ghadir Ayache, Salim El Rouayheb
+  title: Random Walk Gradient Descent for Decentralized Learning on Graphs.
+  venue: IPDPS Workshops
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/AyacheR19
+  doi: 10.1109/IPDPSW.2019.00157
+  ee: https://doi.org/10.1109/IPDPSW.2019.00157
+  url: https://dblp.org/rec/conf/ipps/AyacheR19
+decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
+- author: Lei Yang 0024, Yanyan Lu, Jiannong Cao 0001, Jiaming Huang, Mingjin Zhang
+  title: 'E-Tree Learning: A Novel Decentralized Model Learning Framework for Edge
+    AI.'
+  venue: IEEE Internet Things J.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/YangLCHZ21
+  doi: 10.1109/JIOT.2021.3052195
+  ee: https://doi.org/10.1109/JIOT.2021.3052195
+  url: https://dblp.org/rec/journals/iotj/YangLCHZ21
+- author: Montdher Alabadi, Adib Habbal, Mohsen Guizani
+  title: An Innovative Decentralized and Distributed Deep Learning Framework for Predictive
+    Maintenance in the Industrial Internet of Things.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/AlabadiHG24
+  doi: 10.1109/JIOT.2024.3372375
+  ee: https://doi.org/10.1109/JIOT.2024.3372375
+  url: https://dblp.org/rec/journals/iotj/AlabadiHG24
+- author: Saeed Hamood Alsamhi, Raushan Myrzashova, Ammar Hawbani, Santosh Kumar 0006,
+    Sumit Srivastava, Liang Zhao 0004, Xi Wei, Mohsen Guizani, Edward Curry
+  title: 'Federated Learning Meets Blockchain in Decentralized Data Sharing: Healthcare
+    Use Case.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/iotj/AlsamhiMHKSZWGC24
+  doi: 10.1109/JIOT.2024.3367249
+  ee: https://doi.org/10.1109/JIOT.2024.3367249
+  url: https://dblp.org/rec/journals/iotj/AlsamhiMHKSZWGC24
+- author: Tao Chen, Xiaofen Wang, Hong-Ning Dai, Haomiao Yang
+  title: A Dropout-Tolerated Privacy-Preserving Method for Decentralized Crowdsourced
+    Federated Learning.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ChenWDY24
+  doi: 10.1109/JIOT.2023.3315730
+  ee: https://doi.org/10.1109/JIOT.2023.3315730
+  url: https://dblp.org/rec/journals/iotj/ChenWDY24
+- author: Mengxuan Du, Haifeng Zheng, Min Gao, Xinxin Feng
+  title: Adaptive Decentralized Federated Learning in Resource-Constrained IoT Networks.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/DuZGF24
+  doi: 10.1109/JIOT.2023.3329128
+  ee: https://doi.org/10.1109/JIOT.2023.3329128
+  url: https://dblp.org/rec/journals/iotj/DuZGF24
+- author: Yan Gou, Shangyin Weng, Muhammad Ali Imran 0001, Lei Zhang 0035
+  title: Voting Consensus-Based Decentralized Federated Learning.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/GouWIZ24
+  doi: 10.1109/JIOT.2024.3355853
+  ee: https://doi.org/10.1109/JIOT.2024.3355853
+  url: https://dblp.org/rec/journals/iotj/GouWIZ24
+- author: "Mintae Kim, Hoon Lee, Sangwon Hwang, Minseok Kim, M\xE9rouane Debbah, Inkyu\
+    \ Lee"
+  title: 'Decentralized Learning Framework for Hierarchical Wireless Networks: A Tree
+    Neural Network Approach.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/KimLHKDL24
+  doi: 10.1109/JIOT.2024.3359674
+  ee: https://doi.org/10.1109/JIOT.2024.3359674
+  url: https://dblp.org/rec/journals/iotj/KimLHKDL24
+- author: Hoon Lee, Seung-Wook Kim 0002
+  title: 'Task-Oriented Edge Networks: Decentralized Learning Over Wireless Fronthaul.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LeeK24b
+  doi: 10.1109/JIOT.2023.3347234
+  ee: https://doi.org/10.1109/JIOT.2023.3347234
+  url: https://dblp.org/rec/journals/iotj/LeeK24b
+- author: Baosheng Li, Weifeng Gao, Jin Xie 0003, Maoguo Gong, Ling Wang 0001, Hong
+    Li 0007
+  title: Prototype-Based Decentralized Federated Learning for the Heterogeneous Time-Varying
+    IoT Systems.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiGXGWL24
+  doi: 10.1109/JIOT.2023.3313118
+  ee: https://doi.org/10.1109/JIOT.2023.3313118
+  url: https://dblp.org/rec/journals/iotj/LiGXGWL24
+- author: Xuyang Ma, Du Xu
+  title: 'TORR: A Lightweight Blockchain for Decentralized Federated Learning.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/MaX24
+  doi: 10.1109/JIOT.2023.3288078
+  ee: https://doi.org/10.1109/JIOT.2023.3288078
+  url: https://dblp.org/rec/journals/iotj/MaX24
+- author: Kulaea Taueveeve Pauu, Jun Wu 0001, Yixin Fan, Qianqian Pan, Mafua-&apos;i-Vai&apos;utukakau
+    Maka
+  title: Differential Privacy and Blockchain-Empowered Decentralized Graph Federated
+    Learning-Enabled UAVs for Disaster Response.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/PauuWFPM24
+  doi: 10.1109/JIOT.2023.3332216
+  ee: https://doi.org/10.1109/JIOT.2023.3332216
+  url: https://dblp.org/rec/journals/iotj/PauuWFPM24
+- author: Guoping Tan, Hui Yuan, Hexuan Hu 0001, Siyuan Zhou, Zhenyu Zhang
+  title: A Framework of Decentralized Federated Learning With Soft Clustering and
+    1-Bit Compressed Sensing for Vehicular Networks.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/TanYHZZ24
+  doi: 10.1109/JIOT.2024.3385913
+  ee: https://doi.org/10.1109/JIOT.2024.3385913
+  url: https://dblp.org/rec/journals/iotj/TanYHZZ24
+- author: Chengyu Xia, Danny H. K. Tsang, Vincent K. N. Lau
+  title: 'Structured Bayesian Federated Learning for Green AI: A Decentralized Model
+    Compression Using Turbo-VBI-Based Approach.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/XiaTL24
+  doi: 10.1109/JIOT.2023.3335971
+  ee: https://doi.org/10.1109/JIOT.2023.3335971
+  url: https://dblp.org/rec/journals/iotj/XiaTL24
+- author: Biao Xie, Chunqiang Hu, Hongyu Huang, Jiguo Yu, Hui Xia 0001
+  title: 'DCI-PFGL: Decentralized Cross-Institutional Personalized Federated Graph
+    Learning for IoT Service Recommendation.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/XieHHYX24
+  doi: 10.1109/JIOT.2023.3340880
+  ee: https://doi.org/10.1109/JIOT.2023.3340880
+  url: https://dblp.org/rec/journals/iotj/XieHHYX24
+- author: Fan Zhang 0014, Guangjie Han, Li Liu 0022, Yu Zhang 0001, Yan Peng 0001,
+    Chao Li
+  title: Cooperative Partial Task Offloading and Resource Allocation for IIoT Based
+    on Decentralized Multiagent Deep Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangHLZPL24
+  doi: 10.1109/JIOT.2023.3306803
+  ee: https://doi.org/10.1109/JIOT.2023.3306803
+  url: https://dblp.org/rec/journals/iotj/ZhangHLZPL24
+- author: Hamideh Hajizadeh, Majid Nabi, Kees Goossens
+  title: 'Decentralized Configuration of TSCH-Based IoT Networks for Distinctive QoS:
+    A Deep Reinforcement Learning Approach.'
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HajizadehNG23
+  doi: 10.1109/JIOT.2023.3272561
+  ee: https://doi.org/10.1109/JIOT.2023.3272561
+  url: https://dblp.org/rec/journals/iotj/HajizadehNG23
+- author: Yijing Lin, Zhipeng Gao, Weisong Shi, Qian Wang 0015, Huangqi Li, Miaomiao
+    Wang 0003, Yang Yang 0006, Lanlan Rui
+  title: A Novel Architecture Combining Oracle With Decentralized Learning for IIoT.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LinGSWLWYR23
+  doi: 10.1109/JIOT.2022.3150789
+  ee: https://doi.org/10.1109/JIOT.2022.3150789
+  url: https://dblp.org/rec/journals/iotj/LinGSWLWYR23
+- author: Zhihan Lv, Chen Cheng, Haibin Lv
+  title: Blockchain-Based Decentralized Learning for Security in Digital Twins.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LvCL23
+  doi: 10.1109/JIOT.2023.3295499
+  ee: https://doi.org/10.1109/JIOT.2023.3295499
+  url: https://dblp.org/rec/journals/iotj/LvCL23
+- author: Tharindu Ranathunga, Alan McGibney, Susan Rea, Sourabh Bharti
+  title: Blockchain-Based Decentralized Model Aggregation for Cross-Silo Federated
+    Learning in Industry 4.0.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/iotj/RanathungaMRB23
+  doi: 10.1109/JIOT.2022.3218704
+  ee: https://doi.org/10.1109/JIOT.2022.3218704
+  url: https://dblp.org/rec/journals/iotj/RanathungaMRB23
+- author: Chenghao Xu, Wei Song 0001
+  title: Decentralized Task Assignment for Mobile Crowdsensing With Multi-Agent Deep
+    Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/XuS23
+  doi: 10.1109/JIOT.2023.3268846
+  ee: https://doi.org/10.1109/JIOT.2023.3268846
+  url: https://dblp.org/rec/journals/iotj/XuS23
+- author: Bolei Zhang, Bin Tang, Fu Xiao 0001
+  title: Learning to Coordinate in Mobile-Edge Computing for Decentralized Task Offloading.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangTX23
+  doi: 10.1109/JIOT.2022.3209714
+  ee: https://doi.org/10.1109/JIOT.2022.3209714
+  url: https://dblp.org/rec/journals/iotj/ZhangTX23
+- author: Chen Zhao, Zhipeng Gao, Yang Yang 0006, Qian Wang 0015, Zijia Mo, Xinlei
+    Yu
+  title: 'FedUSC: Collaborative Unsupervised Representation Learning From Decentralized
+    Data for Internet of Things.'
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhaoGYWMY23
+  doi: 10.1109/JIOT.2023.3262669
+  ee: https://doi.org/10.1109/JIOT.2023.3262669
+  url: https://dblp.org/rec/journals/iotj/ZhaoGYWMY23
+- author: Ahmed Abdelghany, Bernard Uguen, Christophe Moy, Dominique Lemur
+  title: Decentralized Adaptive Spectrum Learning in Wireless IoT Networks Based on
+    Channel Quality Information.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/AbdelghanyUML22
+  doi: 10.1109/JIOT.2022.3167016
+  ee: https://doi.org/10.1109/JIOT.2022.3167016
+  url: https://dblp.org/rec/journals/iotj/AbdelghanyUML22
+- author: Biao Dong, Yuchao Liu, Guan Gui 0001, Xue Fu, Heng Dong, Bamidele Adebisi,
+    Haris Gacanin, Hikmet Sari
+  title: A Lightweight Decentralized-Learning-Based Automatic Modulation Classification
+    Method for Resource-Constrained Edge Devices.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/DongLGFDAGS22
+  doi: 10.1109/JIOT.2022.3194508
+  ee: https://doi.org/10.1109/JIOT.2022.3194508
+  url: https://dblp.org/rec/journals/iotj/DongLGFDAGS22
+- author: Wanlu Lei, Yu Ye 0001, Ming Xiao 0001, Mikael Skoglund, Zhu Han 0001
+  title: Adaptive Stochastic ADMM for Decentralized Reinforcement Learning in Edge
+    IoT.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LeiYXSH22
+  doi: 10.1109/JIOT.2022.3187067
+  ee: https://doi.org/10.1109/JIOT.2022.3187067
+  url: https://dblp.org/rec/journals/iotj/LeiYXSH22
+- author: Chengxi Li 0001, Gang Li 0008, Pramod K. Varshney
+  title: Decentralized Federated Learning via Mutual Knowledge Transfer.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiLV22
+  doi: 10.1109/JIOT.2021.3078543
+  ee: https://doi.org/10.1109/JIOT.2021.3078543
+  url: https://dblp.org/rec/journals/iotj/LiLV22
+- author: Hongbiao Zhu, Qiong Wu 0002, Xiao-Jun Wu 0001, Qiang Fan, Pingyi Fan, Jiangzhou
+    Wang
+  title: Decentralized Power Allocation for MIMO-NOMA Vehicular Edge Computing Based
+    on Deep Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/Zhu0WFFW22
+  doi: 10.1109/JIOT.2021.3138434
+  ee: https://doi.org/10.1109/JIOT.2021.3138434
+  url: https://dblp.org/rec/journals/iotj/Zhu0WFFW22
+- author: Prateek Chhikara, Prabhjot Singh, Rajkumar Tekchandani, Neeraj Kumar 0001,
+    Mohsen Guizani
+  title: 'Federated Learning Meets Human Emotions: A Decentralized Framework for Human-Computer
+    Interaction for IoT Applications.'
+  venue: IEEE Internet Things J.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ChhikaraSTKG21
+  doi: 10.1109/JIOT.2020.3037207
+  ee: https://doi.org/10.1109/JIOT.2020.3037207
+  url: https://dblp.org/rec/journals/iotj/ChhikaraSTKG21
+- author: Yifu Wu, Gihan J. Mendis, Jin Wei
+  title: 'DDLPF: A Practical Decentralized Deep Learning Paradigm for Internet-of-Things
+    Applications.'
+  venue: IEEE Internet Things J.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WuMW21
+  doi: 10.1109/JIOT.2020.3033482
+  ee: https://doi.org/10.1109/JIOT.2020.3033482
+  url: https://dblp.org/rec/journals/iotj/WuMW21
+- author: Xiaofei Wang 0001, Chenyang Wang 0001, Xiuhua Li, Victor C. M. Leung, Tarik
+    Taleb
+  title: Federated Deep Reinforcement Learning for Internet of Things With Decentralized
+    Cooperative Edge Caching.
+  venue: IEEE Internet Things J.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/0001WLLT20
+  doi: 10.1109/JIOT.2020.2986803
+  ee: https://doi.org/10.1109/JIOT.2020.2986803
+  url: https://dblp.org/rec/journals/iotj/0001WLLT20
+- author: Mengqi Han, Jianli Duan, Sami Khairy, Lin X. Cai
+  title: 'Enabling Sustainable Underwater IoT Networks With Energy Harvesting: A Decentralized
+    Reinforcement Learning Approach.'
+  venue: IEEE Internet Things J.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HanDKC20
+  doi: 10.1109/JIOT.2020.2990733
+  ee: https://doi.org/10.1109/JIOT.2020.2990733
+  url: https://dblp.org/rec/journals/iotj/HanDKC20
+- author: Youyang Qu, Longxiang Gao, Tom H. Luan, Yong Xiang 0001, Shui Yu 0001, Bai
+    Li, Gavin Zheng
+  title: Decentralized Privacy Using Blockchain-Enabled Federated Learning in Fog
+    Computing.
+  venue: IEEE Internet Things J.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/QuGLXYLZ20
+  doi: 10.1109/JIOT.2020.2977383
+  ee: https://doi.org/10.1109/JIOT.2020.2977383
+  url: https://dblp.org/rec/journals/iotj/QuGLXYLZ20
+- author: Jingzhi Hu, Hongliang Zhang 0001, Lingyang Song
+  title: Reinforcement Learning for Decentralized Trajectory Design in Cellular UAV
+    Networks With Sense-and-Send Protocol.
+  venue: IEEE Internet Things J.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HuZS19
+  doi: 10.1109/JIOT.2018.2876513
+  ee: https://doi.org/10.1109/JIOT.2018.2876513
+  url: https://dblp.org/rec/journals/iotj/HuZS19
+decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
+- author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
+  title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
+    with Prudent Q-Learning.
+  venue: WISA
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/IEEEwisa/WeiWTHW22
+  doi: 10.1007/978-3-031-20309-1_35
+  ee: https://doi.org/10.1007/978-3-031-20309-1_35
+  url: https://dblp.org/rec/conf/IEEEwisa/WeiWTHW22
+- author: "Istv\xE1n Heged\xFCs, G\xE1bor Danner, M\xE1rk Jelasity"
+  title: Gossip Learning as a Decentralized Alternative to Federated Learning.
+  venue: DAIS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dais/HegedusDJ19
+  doi: 10.1007/978-3-030-22496-7_5
+  ee: https://doi.org/10.1007/978-3-030-22496-7_5
+  url: https://dblp.org/rec/conf/dais/HegedusDJ19
+- author: Tao Chen, Xiaofen Wang, Hong-Ning Dai
+  title: 'R-PPDFL: A Robust and Privacy-Preserving Decentralized Federated Learning
+    System.'
+  venue: ACISP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acisp/ChenWD24
+  doi: 10.1007/978-981-97-5101-3_9
+  ee: https://doi.org/10.1007/978-981-97-5101-3_9
+  url: https://dblp.org/rec/conf/acisp/ChenWD24
+- author: Bakary Dolo, Faiza Loukil, Khouloud Boukadi
+  title: Data Distribution Impact on Preserving Privacy in Centralized and Decentralized
+    Learning.
+  venue: DBSec
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dbsec/DoloLB23
+  doi: 10.1007/978-3-031-37586-6_10
+  ee: https://doi.org/10.1007/978-3-031-37586-6_10
+  url: https://dblp.org/rec/conf/dbsec/DoloLB23
+- author: Dawid Polap, Katarzyna Prokop, Gautam Srivastava 0001, Jerry Chun-Wei Lin
+  title: Decentralized Federated Learning Loop with Constrained Trust Mechanism.
+  venue: ICAISC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icaisc/PolapPSL23
+  doi: 10.1007/978-3-031-42505-9_17
+  ee: https://doi.org/10.1007/978-3-031-42505-9_17
+  url: https://dblp.org/rec/conf/icaisc/PolapPSL23
+- author: "Carolina Ameijeiras-Rodriguez, Rita Rb-Silva, Jos\xE9 Miguel Diniz, J\xFA\
+    lio Souza, Alberto Freitas"
+  title: 'Use of Decentralized-Learning Methods Applied to Healthcare: A Bibliometric
+    Analysis.'
+  venue: ICCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccS/Ameijeiras-Rodriguez23
+  doi: 10.1007/978-3-031-36024-4_25
+  ee: https://doi.org/10.1007/978-3-031-36024-4_25
+  url: https://dblp.org/rec/conf/iccS/Ameijeiras-Rodriguez23
+- author: Andras Ferenczi, Costin Badica
+  title: A Fully Decentralized Privacy-Enabled Federated Learning System.
+  venue: ICCCI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccci/FerencziB23
+  doi: 10.1007/978-3-031-41456-5_34
+  ee: https://doi.org/10.1007/978-3-031-41456-5_34
+  url: https://dblp.org/rec/conf/iccci/FerencziB23
+- author: Ziwen Cheng, Yi Liu, Chao Wu, Yongqi Pan, Liushun Zhao, Cheng Zhu
+  title: 'PoShapley-BCFL: A Fair and Robust Decentralized Federated Learning Based
+    on Blockchain and the Proof of Shapley-Value.'
+  venue: ICONIP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/ChengLWPZZ23
+  doi: 10.1007/978-981-99-8082-6_41
+  ee: https://doi.org/10.1007/978-981-99-8082-6_41
+  url: https://dblp.org/rec/conf/iconip/ChengLWPZZ23
+- author: "Miguel Rebollo, Jaime Andres Rincon, Luis Hern\xE1ndez 0001, Francisco\
+    \ Enguix Andr\xE9s, Carlos Carrascosa"
+  title: 'GTG-CoL: A New Decentralized Federated Learning Based on Consensus for Dynamic
+    Networks.'
+  venue: PAAMS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/paams/RebolloRHEC23
+  doi: 10.1007/978-3-031-37616-0_24
+  ee: https://doi.org/10.1007/978-3-031-37616-0_24
+  url: https://dblp.org/rec/conf/paams/RebolloRHEC23
+- author: Dhruba Chakraborty, Mahima Rabbi, Maisha Hossain, Saraf Noor Khaled, Maria
+    Khanom Oishi, Md. Golam Rabiul Alam
+  title: Deep Learning Based Predictive Analytics for Decentralized Content Caching
+    in Hierarchical Edge Networks.
+  venue: IDEAL
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ideal/ChakrabortyRHKO22
+  doi: 10.1007/978-3-031-21753-1_12
+  ee: https://doi.org/10.1007/978-3-031-21753-1_12
+  url: https://dblp.org/rec/conf/ideal/ChakrabortyRHKO22
+- author: Garima Aggarwal, Chun-Yin Huang, Di Fan, Xiaoxiao Li, Zehua Wang
+  title: 'DeMed: A Novel and Efficient Decentralized Learning Framework for Medical
+    Images Classification on Blockchain.'
+  venue: DeCaF/FAIR@MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/AggarwalHFLW22
+  doi: 10.1007/978-3-031-18523-6_10
+  ee: https://doi.org/10.1007/978-3-031-18523-6_10
+  url: https://dblp.org/rec/conf/miccai/AggarwalHFLW22
+- author: Nanqing Dong, Michael Kampffmeyer, Irina Voiculescu
+  title: Learning Underrepresented Classes from Decentralized Partially Labeled Medical
+    Images.
+  venue: MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/DongKV22
+  doi: 10.1007/978-3-031-16452-1_7
+  ee: https://doi.org/10.1007/978-3-031-16452-1_7
+  url: https://dblp.org/rec/conf/miccai/DongKV22
+- author: Wadhah Zai El Amri, Luca Hermes, Malte Schilling
+  title: Hierarchical Decentralized Deep Reinforcement Learning Architecture for a
+    Simulated Four-Legged Agent.
+  venue: LOD
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mod/AmriHS22
+  doi: 10.1007/978-3-031-25891-6_20
+  ee: https://doi.org/10.1007/978-3-031-25891-6_20
+  url: https://dblp.org/rec/conf/mod/AmriHS22
+- author: Peter Atrazhev, Petr Musilek
+  title: Investigating Effects of Centralized Learning Decentralized Execution on
+    Team Coordination in the Level Based Foraging Environment as a Sequential Social
+    Dilemma.
+  venue: PAAMS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/paams/AtrazhevM22
+  doi: 10.1007/978-3-031-18192-4_2
+  ee: https://doi.org/10.1007/978-3-031-18192-4_2
+  url: https://dblp.org/rec/conf/paams/AtrazhevM22
+- author: Massinissa Hamidi, Aomar Osmani
+  title: Context Abstraction to Improve Decentralized Machine Learning in Structured
+    Sensing Environments.
+  venue: ECML/PKDD
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pkdd/HamidiO22
+  doi: 10.1007/978-3-031-26409-2_39
+  ee: https://doi.org/10.1007/978-3-031-26409-2_39
+  url: https://dblp.org/rec/conf/pkdd/HamidiO22
+- author: Carlo Brunetta, Georgia Tsaloli, Bei Liang, Gustavo Banegas, Aikaterini
+    Mitrokotsa
+  title: Non-interactive, Secure Verifiable Aggregation for Decentralized, Privacy-Preserving
+    Learning.
+  venue: ACISP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acisp/BrunettaTLBM21
+  doi: 10.1007/978-3-030-90567-5_26
+  ee: https://doi.org/10.1007/978-3-030-90567-5_26
+  url: https://dblp.org/rec/conf/acisp/BrunettaTLBM21
+- author: Kshitija Taywade, Judy Goldsmith, Brent Harrison
+  title: Multi-agent Reinforcement Learning for Decentralized Stable Matching.
+  venue: ADT
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aldt/TaywadeGH21
+  doi: 10.1007/978-3-030-87756-9_24
+  ee: https://doi.org/10.1007/978-3-030-87756-9_24
+  url: https://dblp.org/rec/conf/aldt/TaywadeGH21
+- author: Malte Schilling
+  title: 'Avoid Overfitting in Deep Reinforcement Learning: Increasing Robustness
+    Through Decentralized Control.'
+  venue: ICANN
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/Schilling21
+  doi: 10.1007/978-3-030-86380-7_52
+  ee: https://doi.org/10.1007/978-3-030-86380-7_52
+  url: https://dblp.org/rec/conf/icann/Schilling21
+- author: Jian Zhao, Xin Wu, Yan Zhang, Yu Wu, Zhi Wang
+  title: A Blockchain Based Decentralized Gradient Aggregation Design for Federated
+    Learning.
+  venue: ICANN
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/ZhaoWZWW21
+  doi: 10.1007/978-3-030-86340-1_29
+  ee: https://doi.org/10.1007/978-3-030-86340-1_29
+  url: https://dblp.org/rec/conf/icann/ZhaoWZWW21
+- author: Wennan Wang, Linkai Zhu, Baoping Wang, Li Guang, Sheng Peng, Zhiming Cai
+  title: Decentralized M-Learning Platform with Trusted Execution Environment.
+  venue: ICWL
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icwl/WangZWGPC21
+  doi: 10.1007/978-3-030-90785-3_1
+  ee: https://doi.org/10.1007/978-3-030-90785-3_1
+  url: https://dblp.org/rec/conf/icwl/WangZWGPC21
+- author: "Amaury Bouchra Pilet, Davide Frey, Fran\xE7ois Ta\xEFani"
+  title: Simple, Efficient and Convenient Decentralized Multi-task Learning for Neural
+    Networks.
+  venue: IDA
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ida/PiletFT21
+  doi: 10.1007/978-3-030-74251-5_4
+  ee: https://doi.org/10.1007/978-3-030-74251-5_4
+  url: https://dblp.org/rec/conf/ida/PiletFT21
+- author: Georgia Tsaloli, Bei Liang, Carlo Brunetta, Gustavo Banegas, Aikaterini
+    Mitrokotsa
+  title: 'sf DEVA: Decentralized, Verifiable Secure Aggregation for Privacy-Preserving
+    Learning.'
+  venue: ISC
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isw/TsaloliLBBM21
+  doi: 10.1007/978-3-030-91356-4_16
+  ee: https://doi.org/10.1007/978-3-030-91356-4_16
+  url: https://dblp.org/rec/conf/isw/TsaloliLBBM21
+- author: Nanqing Dong, Irina Voiculescu
+  title: Federated Contrastive Learning for Decentralized Unlabeled Medical Images.
+  venue: MICCAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/DongV21
+  doi: 10.1007/978-3-030-87199-4_36
+  ee: https://doi.org/10.1007/978-3-030-87199-4_36
+  url: https://dblp.org/rec/conf/miccai/DongV21
+- author: Qingrui Zhang, Hao Dong 0003, Wei Pan 0004
+  title: Lyapunov-Based Reinforcement Learning for Decentralized Multi-agent Control.
+  venue: DAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dai2/Zhang0P20
+  doi: 10.1007/978-3-030-64096-5_5
+  ee: https://doi.org/10.1007/978-3-030-64096-5_5
+  url: https://dblp.org/rec/conf/dai2/Zhang0P20
+- author: Thorsten Wittkopp, Alexander Acker
+  title: Decentralized Federated Learning Preserves Model and Data Privacy.
+  venue: ICSOC Workshops
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icsoc/WittkoppA20
+  doi: 10.1007/978-3-030-76352-7_20
+  ee: https://doi.org/10.1007/978-3-030-76352-7_20
+  url: https://dblp.org/rec/conf/icsoc/WittkoppA20
+- author: Fadi Younis, Ali Miri
+  title: Using Honeypots in a Decentralized Framework to Defend Against Adversarial
+    Machine-Learning Attacks.
+  venue: ACNS Workshops
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acns/YounisM19
+  doi: 10.1007/978-3-030-29729-9_2
+  ee: https://doi.org/10.1007/978-3-030-29729-9_2
+  url: https://dblp.org/rec/conf/acns/YounisM19
+- author: Hsin-Pai Cheng, Patrick Yu, Haojing Hu, Syed Zawad, Feng Yan 0001, Shiyu
+    Li, Hai Helen Li, Yiran Chen 0001
+  title: Towards Decentralized Deep Learning with Differential Privacy.
+  venue: CLOUD
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cloud2/ChengYHZ0LLC19
+  doi: 10.1007/978-3-030-23502-4_10
+  ee: https://doi.org/10.1007/978-3-030-23502-4_10
+  url: https://dblp.org/rec/conf/cloud2/ChengYHZ0LLC19
+- author: Lei Song, Chunguang Ma, Peng Wu, Yun Zhang 0009
+  title: 'PPD-DL: Privacy-Preserving Decentralized Deep Learning.'
+  venue: ICAIS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icccsec/SongMWZ19
+  doi: 10.1007/978-3-030-24274-9_24
+  ee: https://doi.org/10.1007/978-3-030-24274-9_24
+  url: https://dblp.org/rec/conf/icccsec/SongMWZ19
+- author: Mingyang Geng, Xing Zhou, Bo Ding, Huaimin Wang, Lei Zhang 0200
+  title: Learning to Cooperate in Decentralized Multi-robot Exploration of Dynamic
+    Environments.
+  venue: ICONIP
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/GengZDWZ18
+  doi: 10.1007/978-3-030-04239-4_4
+  ee: https://doi.org/10.1007/978-3-030-04239-4_4
+  url: https://dblp.org/rec/conf/iconip/GengZDWZ18
+- author: "Michael Kamp, Linara Adilova, Joachim Sicking, Fabian H\xFCger, Peter Schlicht,\
+    \ Tim Wirtz, Stefan Wrobel"
+  title: Efficient Decentralized Deep Learning by Dynamic Model Averaging.
+  venue: ECML/PKDD
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pkdd/KampASHSWW18
+  doi: 10.1007/978-3-030-10925-7_24
+  ee: https://doi.org/10.1007/978-3-030-10925-7_24
+  url: https://dblp.org/rec/conf/pkdd/KampASHSWW18
+- author: Chao Yu 0004, Dongxu Wang, Jiankang Ren, Hongwei Ge, Liang Sun 0003
+  title: Decentralized Multiagent Reinforcement Learning for Efficient Robotic Control
+    by Coordination Graphs.
+  venue: PRICAI
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pricai/YuWRGS18
+  doi: 10.1007/978-3-319-97304-3_15
+  ee: https://doi.org/10.1007/978-3-319-97304-3_15
+  url: https://dblp.org/rec/conf/pricai/YuWRGS18
+- author: Bo Dong 0002, Keping Liu, Hui Li, Yuanchun Li
+  title: A Learning-Based Decentralized Optimal Control Method for Modular and Reconfigurable
+    Robots with Uncertain Environment.
+  venue: ICONIP
+  year: '2017'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/DongLLL17
+  doi: 10.1007/978-3-319-70136-3_2
+  ee: https://doi.org/10.1007/978-3-319-70136-3_2
+  url: https://dblp.org/rec/conf/iconip/DongLLL17
+- author: Kenzo Lobos-Tsunekawa, David Leonardo Leottau, Javier Ruiz-del-Solar
+  title: Toward Real-Time Decentralized Reinforcement Learning Using Finite Support
+    Basis Functions.
+  venue: RoboCup
+  year: '2017'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/robocup/Lobos-Tsunekawa17
+  doi: 10.1007/978-3-030-00308-1_8
+  ee: https://doi.org/10.1007/978-3-030-00308-1_8
+  url: https://dblp.org/rec/conf/robocup/Lobos-Tsunekawa17
+- author: Mauro Caporuscio, Mirko D&apos;Angelo, Vincenzo Grassi, Raffaela Mirandola
+  title: Reinforcement Learning Techniques for Decentralized Self-adaptive Service
+    Assembly.
+  venue: ESOCC
+  year: '2016'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/esocc/CaporuscioDGM16
+  doi: 10.1007/978-3-319-44482-6_4
+  ee: https://doi.org/10.1007/978-3-319-44482-6_4
+  url: https://dblp.org/rec/conf/esocc/CaporuscioDGM16
+- author: David Leonardo Leottau, Aashish Vatsyayan, Javier Ruiz-del-Solar, Robert
+    Babuska
+  title: Decentralized Reinforcement Learning Applied to Mobile Robots.
+  venue: RoboCup
+  year: '2016'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/robocup/LeottauVRB16
+  doi: 10.1007/978-3-319-68792-6_31
+  ee: https://doi.org/10.1007/978-3-319-68792-6_31
+  url: https://dblp.org/rec/conf/robocup/LeottauVRB16
+- author: "Javier de Lope Asia\xEDn, Dar\xEDo Maravall, Yadira Qui\xF1onez"
+  title: Decentralized Multi-tasks Distribution in Heterogeneous Robot Teams by Means
+    of Ant Colony Optimization and Learning Automata.
+  venue: HAIS
+  year: '2012'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/hais/AsiainMQ12
+  doi: 10.1007/978-3-642-28942-2_10
+  ee: https://doi.org/10.1007/978-3-642-28942-2_10
+  url: https://dblp.org/rec/conf/hais/AsiainMQ12
+- author: Ole-Christoffer Granmo, Sondre Glimsdal
+  title: A Two-Armed Bandit Based Scheme for Accelerated Decentralized Learning.
+  venue: IEA/AIE
+  year: '2011'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ieaaie/GranmoG11
+  doi: 10.1007/978-3-642-21827-9_54
+  ee: https://doi.org/10.1007/978-3-642-21827-9_54
+  url: https://dblp.org/rec/conf/ieaaie/GranmoG11
+- author: "Mihail Mihaylov, Karl Tuyls, Ann Now\xE9"
+  title: Decentralized Learning in Wireless Sensor Networks.
+  venue: ALA
+  year: '2009'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/atal/MihaylovTN09
+  doi: 10.1007/978-3-642-11814-2_4
+  ee: https://doi.org/10.1007/978-3-642-11814-2_4
+  url: https://dblp.org/rec/conf/atal/MihaylovTN09
+- author: Ivana Dusparic, Vinny Cahill
+  title: Using Reinforcement Learning for Multi-policy Optimization in Decentralized
+    Autonomic Systems - An Experimental Evaluation.
+  venue: ATC
+  year: '2009'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/atc/DusparicC09
+  doi: 10.1007/978-3-642-02704-8_9
+  ee: https://doi.org/10.1007/978-3-642-02704-8_9
+  url: https://dblp.org/rec/conf/atc/DusparicC09
+- author: Edward Nawarecki, Grzegorz Dobrowolski
+  title: Decentralized Computer Learning Systems Based on Autonomous Agent Approach.
+  venue: CALISCE
+  year: '1996'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/calisce/NawareckiD96
+  doi: 10.1007/BFB0022597
+  ee: https://doi.org/10.1007/BFb0022597
+  url: https://dblp.org/rec/conf/calisce/NawareckiD96

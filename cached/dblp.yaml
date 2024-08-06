@@ -2712,3 +2712,233 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/BFB0022597
   ee: https://doi.org/10.1007/BFb0022597
   url: https://dblp.org/rec/conf/calisce/NawareckiD96
+decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
+- author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
+    Qiao
+  title: Learning-Driven Decentralized Machine Learning in Resource-Constrained Wireless
+    Edge Computing.
+  venue: INFOCOM
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/MengXCXZQ21
+  doi: 10.1109/INFOCOM42981.2021.9488817
+  ee: https://doi.org/10.1109/INFOCOM42981.2021.9488817
+  url: https://dblp.org/rec/conf/infocom/MengXCXZQ21
+- author: Yunming Liao, Yang Xu 0020, Hongli Xu, Lun Wang, Chen Qian 0001
+  title: Adaptive Configuration for Heterogeneous Participants in Decentralized Federated
+    Learning.
+  venue: INFOCOM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/LiaoXXWQ23
+  doi: 10.1109/INFOCOM53939.2023.10228945
+  ee: https://doi.org/10.1109/INFOCOM53939.2023.10228945
+  url: https://dblp.org/rec/conf/infocom/LiaoXXWQ23
+- author: Yi Shi 0001, Yalin E. Sagduyu, Tugba Erpek
+  title: Jamming Attacks on Decentralized Federated Learning in General Multi-Hop
+    Wireless Networks.
+  venue: INFOCOM Workshops
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/ShiSE23
+  doi: 10.1109/INFOCOMWKSHPS57453.2023.10226025
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS57453.2023.10226025
+  url: https://dblp.org/rec/conf/infocom/ShiSE23
+- author: Yunhe Xu, Min Ma, Xue Fu, Yu Wang 0078, Guan Gui 0001, Tomoaki Ohtsuki
+  title: Automatic Modulation Classification Based on Decentralized Learning and Model
+    Averaging.
+  venue: INFOCOM Workshops
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/XuMFWGO23
+  doi: 10.1109/INFOCOMWKSHPS57453.2023.10225859
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS57453.2023.10225859
+  url: https://dblp.org/rec/conf/infocom/XuMFWGO23
+- author: Jie Zhang, Li Chen, Xiaohui Chen, Guo Wei
+  title: A Novel Hierarchically Decentralized Federated Learning Framework in 6G Wireless
+    Networks.
+  venue: INFOCOM Workshops
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/ZhangCCW23
+  doi: 10.1109/INFOCOMWKSHPS57453.2023.10226164
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS57453.2023.10226164
+  url: https://dblp.org/rec/conf/infocom/ZhangCCW23
+- author: Wei Liu 0115, Li Chen 0015, Weidong Wang
+  title: General Decentralized Federated Learning for Communication-Computation Tradeoff.
+  venue: INFOCOM Workshops
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/LiuCW22
+  doi: 10.1109/INFOCOMWKSHPS54753.2022.9797891
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS54753.2022.9797891
+  url: https://dblp.org/rec/conf/infocom/LiuCW22
+- author: Jing Tan, Ramin Khalili, Holger Karl, Artur Hecker
+  title: Multi-Agent Distributed Reinforcement Learning for Making Decentralized Offloading
+    Decisions.
+  venue: INFOCOM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/TanKKH22
+  doi: 10.1109/INFOCOM48880.2022.9796717
+  ee: https://doi.org/10.1109/INFOCOM48880.2022.9796717
+  url: https://dblp.org/rec/conf/infocom/TanKKH22
+- author: Beomyeol Jeon, S. M. Ferdous, Muntasir Raihan Rahman, Anwar Walid
+  title: Privacy-Preserving Decentralized Aggregation for Federated Learning.
+  venue: INFOCOM Workshops
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/JeonFRW21
+  doi: 10.1109/INFOCOMWKSHPS51825.2021.9484437
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484437
+  url: https://dblp.org/rec/conf/infocom/JeonFRW21
+- author: Xin Zhang 0054, Jia Liu 0002, Zhengyuan Zhu, Elizabeth Serena Bentley
+  title: 'Low Sample and Communication Complexities in Decentralized Learning: A Triple
+    Hybrid Approach.'
+  venue: INFOCOM
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/Zhang0ZB21
+  doi: 10.1109/INFOCOM42981.2021.9488686
+  ee: https://doi.org/10.1109/INFOCOM42981.2021.9488686
+  url: https://dblp.org/rec/conf/infocom/Zhang0ZB21
+- author: Anastasios A. Economides, Petros A. Ioannou, John A. Silvester
+  title: Decentralized adaptive routing for virtual circuit networks using stochastic
+    learning automata.
+  venue: INFOCOM
+  year: '1988'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/EconomidesIS88
+  doi: 10.1109/INFCOM.1988.12972
+  ee: https://doi.org/10.1109/INFCOM.1988.12972
+  url: https://dblp.org/rec/conf/infocom/EconomidesIS88
+decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
+- author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
+    Yokota
+  title: Natural Gradient Primal-Dual Method for Decentralized Learning.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/NiwaISFHY24
+  doi: 10.1109/TSIPN.2024.3388948
+  ee: https://doi.org/10.1109/TSIPN.2024.3388948
+  url: https://dblp.org/rec/journals/tsipn/NiwaISFHY24
+- author: Iifan Tyou, Tomoya Murata, Takumi Fukami, Yuki Takezawa, Kenta Niwa
+  title: A Localized Primal-Dual Method for Centralized/Decentralized Federated Learning
+    Robust to Data Heterogeneity.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tsipn/TyouMFTN24
+  doi: 10.1109/TSIPN.2023.3343616
+  ee: https://doi.org/10.1109/TSIPN.2023.3343616
+  url: https://dblp.org/rec/journals/tsipn/TyouMFTN24
+- author: Yufan Fan, Minh Trinh-Hoang, Cemil Emre Ardic, Marius Pesavento
+  title: Decentralized Eigendecomposition for Online Learning Over Graphs With Applications.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/FanTAP23
+  doi: 10.1109/TSIPN.2023.3302658
+  ee: https://doi.org/10.1109/TSIPN.2023.3302658
+  url: https://dblp.org/rec/journals/tsipn/FanTAP23
+- author: Geethu Joseph, Chen Zhong, Mustafa Cenk Gursoy, Senem Velipasalar, Pramod
+    K. Varshney
+  title: Scalable and Decentralized Algorithms for Anomaly Detection via Learning-Based
+    Controlled Sensing.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/JosephZGVV23
+  doi: 10.1109/TSIPN.2023.3313818
+  ee: https://doi.org/10.1109/TSIPN.2023.3313818
+  url: https://dblp.org/rec/journals/tsipn/JosephZGVV23
+- author: Yuki Takezawa, Kenta Niwa, Makoto Yamada
+  title: Communication Compression for Decentralized Learning With Operator Splitting
+    Methods.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/tsipn/TakezawaNY23
+  doi: 10.1109/TSIPN.2023.3307894
+  ee: https://doi.org/10.1109/TSIPN.2023.3307894
+  url: https://dblp.org/rec/journals/tsipn/TakezawaNY23
+- author: Wei Liu 0115, Li Chen 0015, Wenyi Zhang 0001
+  title: 'Decentralized Federated Learning: Balancing Communication and Computing
+    Costs.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/LiuCZ22
+  doi: 10.1109/TSIPN.2022.3151242
+  ee: https://doi.org/10.1109/TSIPN.2022.3151242
+  url: https://dblp.org/rec/journals/tsipn/LiuCZ22
+- author: Akihito Taya, Takayuki Nishio, Masahiro Morikura, Koji Yamamoto 0001
+  title: 'Decentralized and Model-Free Federated Learning: Consensus-Based Distillation
+    in Function Space.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/TayaNMY22
+  doi: 10.1109/TSIPN.2022.3205549
+  ee: https://doi.org/10.1109/TSIPN.2022.3205549
+  url: https://dblp.org/rec/journals/tsipn/TayaNMY22
+- author: Zhixiong Yang, Waheed U. Bajwa
+  title: 'ByRDiE: Byzantine-Resilient Distributed Coordinate Descent for Decentralized
+    Learning.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/YangB19
+  doi: 10.1109/TSIPN.2019.2928176
+  ee: https://doi.org/10.1109/TSIPN.2019.2928176
+  url: https://dblp.org/rec/journals/tsipn/YangB19
+- author: Saurabh Khanna, Chandra R. Murthy
+  title: 'Decentralized Joint-Sparse Signal Recovery: A Sparse Bayesian Learning Approach.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/KhannaM17
+  doi: 10.1109/TSIPN.2016.2612120
+  ee: https://doi.org/10.1109/TSIPN.2016.2612120
+  url: https://dblp.org/rec/journals/tsipn/KhannaM17
+- author: Saurabh Khanna, Chandra R. Murthy
+  title: Communication-Efficient Decentralized Sparse Bayesian Learning of Joint Sparse
+    Signals.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/KhannaM17a
+  doi: 10.1109/TSIPN.2016.2632041
+  ee: https://doi.org/10.1109/TSIPN.2016.2632041
+  url: https://dblp.org/rec/journals/tsipn/KhannaM17a
+- author: Alec Koppel, Garrett Warnell, Ethan Stump, Alejandro Ribeiro
+  title: 'D4L: Decentralized Dynamic Discriminative Dictionary Learning.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/KoppelWSR17
+  doi: 10.1109/TSIPN.2017.2662618
+  ee: https://doi.org/10.1109/TSIPN.2017.2662618
+  url: https://dblp.org/rec/journals/tsipn/KoppelWSR17

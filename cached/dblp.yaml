@@ -1462,3 +1462,351 @@ decentralized%20learning%20streamid%3Ajournals%2Ftc%3A:
 decentralized%20learning%20streamid%3Aconf%2Ficse%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fstoc%3A: []
+decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
+- author: Yuwei Sun, Hideya Ochiai
+  title: 'Homogeneous Learning: Self-Attention Decentralized Deep Learning.'
+  venue: IEEE Access
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/access/SunO22
+  doi: 10.1109/ACCESS.2022.3142899
+  ee: https://doi.org/10.1109/ACCESS.2022.3142899
+  url: https://dblp.org/rec/journals/access/SunO22
+- author: Anastasios E. Giannopoulos, Sotirios T. Spantideas, Nikolaos C. Kapsalis,
+    Panagiotis Karkazis, Panagiotis Trakadas
+  title: 'Deep Reinforcement Learning for Energy-Efficient Multi-Channel Transmissions
+    in 5G Cognitive HetNets: Centralized, Decentralized and Transfer Learning Based
+    Solutions.'
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/GiannopoulosSKK21
+  doi: 10.1109/ACCESS.2021.3113501
+  ee: https://doi.org/10.1109/ACCESS.2021.3113501
+  url: https://dblp.org/rec/journals/access/GiannopoulosSKK21
+- author: Meng-Lin Li, Shaofei Chen, Jing Chen
+  title: 'Adaptive Learning: A New Decentralized Reinforcement Learning Approach for
+    Cooperative Multiagent Systems.'
+  venue: IEEE Access
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/access/LiCC20a
+  doi: 10.1109/ACCESS.2020.2997899
+  ee: https://doi.org/10.1109/ACCESS.2020.2997899
+  url: https://dblp.org/rec/journals/access/LiCC20a
+- author: Yaser Alhasawi, Salem Alghamdi
+  title: Federated Learning for Decentralized DDoS Attack Detection in IoT Networks.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlhasawiA24
+  doi: 10.1109/ACCESS.2024.3378727
+  ee: https://doi.org/10.1109/ACCESS.2024.3378727
+  url: https://dblp.org/rec/journals/access/AlhasawiA24
+- author: Fahad F. Alruwaili, Manal Abdullah Alohali, Nouf Aljaffan, Asma Alhashmi,
+    Ahmed Mahmud, Mohammed Assiri
+  title: 'A Decentralized Approach to Smart Home Security: Blockchain With Red-Tailed
+    Hawk-Enabled Deep Learning.'
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlruwailiAAAMA24
+  doi: 10.1109/ACCESS.2024.3352502
+  ee: https://doi.org/10.1109/ACCESS.2024.3352502
+  url: https://dblp.org/rec/journals/access/AlruwailiAAAMA24
+- author: Ganesh Chandrasekaran, Abhinay Kumar, Karthikeyan Subramaniam, N. Sunil,
+    Rajesh Challa
+  title: 'EDgE: Enhancing Predictability in Decentralized Network Slices Through Federated
+    Learning - A Multi Layered Ecosystem.'
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChandrasekaranKSSC24
+  doi: 10.1109/ACCESS.2024.3429631
+  ee: https://doi.org/10.1109/ACCESS.2024.3429631
+  url: https://dblp.org/rec/journals/access/ChandrasekaranKSSC24
+- author: Salabat Khan, Fariha Nosheen, Syed Shehryar Ali Naqvi, Harun Jamil, Muhammad
+    Faseeh, Murad-Ali Khan, Dohyeun Kim 0001
+  title: Bilevel Hyperparameter Optimization and Neural Architecture Search for Enhanced
+    Breast Cancer Detection in Smart Hospitals Interconnected With Decentralized Federated
+    Learning Environment.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/KhanNNJFKK24
+  doi: 10.1109/ACCESS.2024.3392572
+  ee: https://doi.org/10.1109/ACCESS.2024.3392572
+  url: https://dblp.org/rec/journals/access/KhanNNJFKK24
+- author: Hung Duy Le, Vu Tuan Truong, Long Bao Le
+  title: 'Blockchain-Empowered Metaverse: Decentralized Crowdsourcing and Marketplace
+    for Trading Machine Learning Data and Models.'
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/LeTL24
+  doi: 10.1109/ACCESS.2024.3401076
+  ee: https://doi.org/10.1109/ACCESS.2024.3401076
+  url: https://dblp.org/rec/journals/access/LeTL24
+- author: Hanyue Xu, Kah Phooi Seng, Li-Minn Ang, Jeremy Smith
+  title: 'Decentralized and Distributed Learning for AIoT: A Comprehensive Review,
+    Emerging Challenges, and Opportunities.'
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/XuSAS24
+  doi: 10.1109/ACCESS.2024.3422211
+  ee: https://doi.org/10.1109/ACCESS.2024.3422211
+  url: https://dblp.org/rec/journals/access/XuSAS24
+- author: Dana Alsagheer, Lei Xu 0012, Weidong Shi
+  title: 'Decentralized Machine Learning Governance: Overview, Opportunities, and
+    Challenges.'
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlsagheerXS23
+  doi: 10.1109/ACCESS.2023.3311713
+  ee: https://doi.org/10.1109/ACCESS.2023.3311713
+  url: https://dblp.org/rec/journals/access/AlsagheerXS23
+- author: Anna Anikina, Oleg Y. Rogov, Dmitry V. Dylov
+  title: 'Detect to Focus: Latent-Space Autofocusing System With Decentralized Hierarchical
+    Multi-Agent Reinforcement Learning.'
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/AnikinaRD23
+  doi: 10.1109/ACCESS.2023.3303844
+  ee: https://doi.org/10.1109/ACCESS.2023.3303844
+  url: https://dblp.org/rec/journals/access/AnikinaRD23
+- author: Luca Barbieri, Stefano Savazzi, Monica Nicoli
+  title: A Layer Selection Optimizer for Communication-Efficient Decentralized Federated
+    Deep Learning.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/BarbieriSN23
+  doi: 10.1109/ACCESS.2023.3251571
+  ee: https://doi.org/10.1109/ACCESS.2023.3251571
+  url: https://dblp.org/rec/journals/access/BarbieriSN23
+- author: Bor-Sen Chen, Po-Chun Chao
+  title: "Robust Decentralized H\u221E Attack-Tolerant Observer-Based Team Formation\
+    \ Network Control of Large-Scale Quadrotor UAVs: HJIE-Reinforcement Learning-Based\
+    \ Deep Neural Network Method."
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChenC23a
+  doi: 10.1109/ACCESS.2023.3290306
+  ee: https://doi.org/10.1109/ACCESS.2023.3290306
+  url: https://dblp.org/rec/journals/access/ChenC23a
+- author: Bor-Sen Chen, Hung-Yu Lin
+  title: "Decentralized H\u221E Observer-Based Attack-Tolerant Formation Tracking\
+    \ Network Control of Large-Scale LEO Satellites via HJIE-Reinforced Deep Learning\
+    \ Approach."
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChenL23
+  doi: 10.1109/ACCESS.2023.3246182
+  ee: https://doi.org/10.1109/ACCESS.2023.3246182
+  url: https://dblp.org/rec/journals/access/ChenL23
+- author: Qazi Waqas Khan, Anam Nawaz Khan, Atif Rizwan, Rashid Ahmad 0004, Salabat
+    Khan, Dohyeun Kim 0001
+  title: 'Decentralized Machine Learning Training: A Survey on Synchronization, Consolidation,
+    and Topologies.'
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/KhanKRAKK23
+  doi: 10.1109/ACCESS.2023.3284976
+  ee: https://doi.org/10.1109/ACCESS.2023.3284976
+  url: https://dblp.org/rec/journals/access/KhanKRAKK23
+- author: Minseok Kim, Hoon Lee, Mintae Kim, Inkyu Lee
+  title: Deep Learning Based Decentralized Beamforming Methods for Multi-Antenna Interference
+    Channels.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/KimLKL23
+  doi: 10.1109/ACCESS.2023.3340250
+  ee: https://doi.org/10.1109/ACCESS.2023.3340250
+  url: https://dblp.org/rec/journals/access/KimLKL23
+- author: Danilo Menegatti, Alessandro Giuseppi, Sabato Manfredi, Antonio Pietrabissa
+  title: A Discrete-Time Multi-Hop Consensus Protocol for Decentralized Federated
+    Learning.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/MenegattiGMP23
+  doi: 10.1109/ACCESS.2023.3299443
+  ee: https://doi.org/10.1109/ACCESS.2023.3299443
+  url: https://dblp.org/rec/journals/access/MenegattiGMP23
+- author: Olusola Tolulope Odeyomi, Bassey Ude, Kaushik Roy 0003
+  title: Online Decentralized Multi-Agents Meta-Learning With Byzantine Resiliency.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/OdeyomiUR23
+  doi: 10.1109/ACCESS.2023.3291677
+  ee: https://doi.org/10.1109/ACCESS.2023.3291677
+  url: https://dblp.org/rec/journals/access/OdeyomiUR23
+- author: Abdelaziz Salama, Achilleas Stergioulis, Ali Mohammad Hayajneh, Syed Ali
+    Raza Zaidi, Des McLernon, Ian D. Robertson
+  title: Decentralized Federated Learning Over Slotted ALOHA Wireless Mesh Networking.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/SalamaSHZMR23
+  doi: 10.1109/ACCESS.2023.3246924
+  ee: https://doi.org/10.1109/ACCESS.2023.3246924
+  url: https://dblp.org/rec/journals/access/SalamaSHZMR23
+- author: Abdelaziz Salama, Achilleas Stergioulis, Syed Ali Raza Zaidi, Des McLernon
+  title: Decentralized Federated Learning on the Edge Over Wireless Mesh Networks.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/SalamaSZM23
+  doi: 10.1109/ACCESS.2023.3329362
+  ee: https://doi.org/10.1109/ACCESS.2023.3329362
+  url: https://dblp.org/rec/journals/access/SalamaSZM23
+- author: Chamani Shiranthika, Parvaneh Saeedi, Ivan V. Bajic
+  title: 'Decentralized Learning in Healthcare: A Review of Emerging Techniques.'
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/ShiranthikaSB23
+  doi: 10.1109/ACCESS.2023.3281832
+  ee: https://doi.org/10.1109/ACCESS.2023.3281832
+  url: https://dblp.org/rec/journals/access/ShiranthikaSB23
+- author: Ahyun Song, Euiseong Seo, Heeyoul Kim
+  title: 'Anomaly VAE-Transformer: A Deep Learning Approach for Anomaly Detection
+    in Decentralized Finance.'
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/SongSK23a
+  doi: 10.1109/ACCESS.2023.3313448
+  ee: https://doi.org/10.1109/ACCESS.2023.3313448
+  url: https://dblp.org/rec/journals/access/SongSK23a
+- author: "Vahid Babaei Ajabshir, Mehmet Serdar G\xFCzel, Erkan Bostanci"
+  title: A Low-Cost Q-Learning-Based Approach to Handle Continuous Space Problems
+    for Decentralized Multi-Agent Robot Navigation in Cluttered Environments.
+  venue: IEEE Access
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/access/AjabshirGB22
+  doi: 10.1109/ACCESS.2022.3163393
+  ee: https://doi.org/10.1109/ACCESS.2022.3163393
+  url: https://dblp.org/rec/journals/access/AjabshirGB22
+- author: Bernardo Camajori Tedeschini, Stefano Savazzi, Roman Stoklasa, Luca Barbieri,
+    Ioannis Stathopoulos, Monica Nicoli, Luigi Serio
+  title: 'Decentralized Federated Learning for Healthcare Networks: A Case Study on
+    Tumor Segmentation.'
+  venue: IEEE Access
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/access/TedeschiniSSBSN22
+  doi: 10.1109/ACCESS.2022.3141913
+  ee: https://doi.org/10.1109/ACCESS.2022.3141913
+  url: https://dblp.org/rec/journals/access/TedeschiniSSBSN22
+- author: Pramod Abichandani, Christian Speck, Donald J. Bucci, William McIntyre,
+    Deepan Lobo
+  title: Implementation of Decentralized Reinforcement Learning-Based Multi-Quadrotor
+    Flocking.
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/AbichandaniSBML21
+  doi: 10.1109/ACCESS.2021.3115711
+  ee: https://doi.org/10.1109/ACCESS.2021.3115711
+  url: https://dblp.org/rec/journals/access/AbichandaniSBML21
+- author: Aoto Kaburaki, Koichi Adachi, Osamu Takyu, Mai Ohta, Takeo Fujii
+  title: Autonomous Decentralized Traffic Control Using Q-Learning in LPWAN.
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/KaburakiATOF21
+  doi: 10.1109/ACCESS.2021.3093421
+  ee: https://doi.org/10.1109/ACCESS.2021.3093421
+  url: https://dblp.org/rec/journals/access/KaburakiATOF21
+- author: Dinh Hoa Nguyen
+  title: A Cooperative Learning Approach for Decentralized Peer-to-Peer Energy Trading
+    Markets and its Structural Robustness Against Cyberattacks.
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/Nguyen21c
+  doi: 10.1109/ACCESS.2021.3125031
+  ee: https://doi.org/10.1109/ACCESS.2021.3125031
+  url: https://dblp.org/rec/journals/access/Nguyen21c
+- author: Sandi Rahmadika, Kyung-Hyune Rhee
+  title: 'Unlinkable Collaborative Learning Transactions: Privacy-Awareness in Decentralized
+    Approaches.'
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/RahmadikaR21
+  doi: 10.1109/ACCESS.2021.3076205
+  ee: https://doi.org/10.1109/ACCESS.2021.3076205
+  url: https://dblp.org/rec/journals/access/RahmadikaR21
+- author: Dmitriy Shutin, Ban-Sok Shin
+  title: Variational Bayesian Learning for Decentralized Blind Deconvolution of Seismic
+    Signals Over Sensor Networks.
+  venue: IEEE Access
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/access/ShutinS21
+  doi: 10.1109/ACCESS.2021.3134126
+  ee: https://doi.org/10.1109/ACCESS.2021.3134126
+  url: https://dblp.org/rec/journals/access/ShutinS21
+- author: Lin Zhang, Yufeng Sun, Andrew Barth, Ou Ma
+  title: Decentralized Control of Multi-Robot System in Cooperative Object Transportation
+    Using Deep Reinforcement Learning.
+  venue: IEEE Access
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/access/ZhangSBM20
+  doi: 10.1109/ACCESS.2020.3025287
+  ee: https://doi.org/10.1109/ACCESS.2020.3025287
+  url: https://dblp.org/rec/journals/access/ZhangSBM20
+- author: Abinet Tesfaye Eseye, Matti Lehtonen, Toni Tukia, Semen Uimonen, R. John
+    Millar
+  title: Machine Learning Based Integrated Feature Selection Approach for Improved
+    Electricity Demand Forecasting in Decentralized Energy Systems.
+  venue: IEEE Access
+  year: '2019'
+  type: Journal Articles
+  access: open
+  key: journals/access/EseyeLTUM19a
+  doi: 10.1109/ACCESS.2019.2924685
+  ee: https://doi.org/10.1109/ACCESS.2019.2924685
+  url: https://dblp.org/rec/journals/access/EseyeLTUM19a

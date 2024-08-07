@@ -8652,3 +8652,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/0804.2831
   url: https://dblp.org/rec/journals/corr/abs-0804-2831
+- author: Haihui Xie, Minghua Xia, Peiran Wu, Shuai Wang 0004, Kaibin Huang
+  title: Decentralized Federated Learning with Asynchronous Parameter Sharing for
+    Large-scale IoT Networks.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2401-07122
+  doi: 10.48550/ARXIV.2401.07122
+  ee: https://doi.org/10.48550/arXiv.2401.07122
+  url: https://dblp.org/rec/journals/corr/abs-2401-07122
+- author: Andrew Campbell, Hang Liu 0007, Leah Woldemariam, Anna Scaglione
+  title: 'MALCOM-PSGD: Inexact Proximal Stochastic Gradient Descent for Communication-Efficient
+    Decentralized Machine Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-05760
+  doi: 10.48550/ARXIV.2311.05760
+  ee: https://doi.org/10.48550/arXiv.2311.05760
+  url: https://dblp.org/rec/journals/corr/abs-2311-05760

@@ -76,6 +76,17 @@ decentralized%20learning%20venue%3AIJCAI%3A:
   doi: 10.24963/IJCAI.2019/181
   ee: https://doi.org/10.24963/ijcai.2019/181
   url: https://dblp.org/rec/conf/ijcai/PengXCMH19
+- author: Yawen Wu, Zhepeng Wang 0001, Dewen Zeng, Meng Li 0004, Yiyu Shi 0001, Jingtong
+    Hu
+  title: Decentralized Unsupervised Learning of Visual Representations.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/WuWZ0SH22
+  doi: 10.24963/IJCAI.2022/323
+  ee: https://doi.org/10.24963/ijcai.2022/323
+  url: https://dblp.org/rec/conf/ijcai/WuWZ0SH22
 decentralized%20learning%20venue%3AAAAI%3A:
 - author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
     Aleksandr Panov
@@ -662,6 +673,17 @@ decentralized%20learning%20venue%3ANeurIPS%3A:
   doi: ''
   ee: https://proceedings.neurips.cc/paper/2018/hash/05a70454516ecd9194c293b0e415777f-Abstract.html
   url: https://dblp.org/rec/conf/nips/HeBJ18
+- author: Martijn de Vos, Sadegh Farhadkhani, Rachid Guerraoui, Anne-Marie Kermarrec,
+    Rafael Pires 0001, Rishi Sharma 0001
+  title: 'Epidemic Learning: Boosting Decentralized Learning with Randomized Communication.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/VosFGKP023
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/7172e147d916eef4cb1eb30016ce725f-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/VosFGKP023
 decentralized%20learning%20venue%3AICML%3A:
 - author: Matthieu Zimmer, Claire Glanois, Umer Siddique, Paul Weng
   title: Learning Fair Policies in Decentralized Cooperative Multi-Agent Reinforcement
@@ -1877,6 +1899,17 @@ decentralized%20learning%20venue%3AICDCS%3A:
   doi: 10.1109/ICDCS47774.2020.00086
   ee: https://doi.org/10.1109/ICDCS47774.2020.00086
   url: https://dblp.org/rec/conf/icdcs/XiangWWL20
+- author: Akash Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi Sharma 0001,
+    Milos Vujasinovic, Jeffrey Wigger
+  title: Get More for Less in Decentralized Learning Systems.
+  venue: ICDCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/DhasadeKPSVW23
+  doi: 10.1109/ICDCS57875.2023.00067
+  ee: https://doi.org/10.1109/ICDCS57875.2023.00067
+  url: https://dblp.org/rec/conf/icdcs/DhasadeKPSVW23
 decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
 - author: Anne-Marie Kermarrec
   title: Frugal Decentralized Learning.
@@ -1909,6 +1942,17 @@ decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
   doi: 10.1109/IPDPSW.2019.00157
   ee: https://doi.org/10.1109/IPDPSW.2019.00157
   url: https://dblp.org/rec/conf/ipps/AyacheR19
+- author: Martijn de Vos, Akash Dhasade, Paolo Dini, Elia Guerra, Anne-Marie Kermarrec,
+    Marco Miozzo, Rafael Pires, Rishi Sharma 0001
+  title: Energy-Aware Decentralized Learning with Intermittent Model Training.
+  venue: IPDPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/VosDDGKMP024
+  doi: 10.1109/IPDPSW63119.2024.00196
+  ee: https://doi.org/10.1109/IPDPSW63119.2024.00196
+  url: https://dblp.org/rec/conf/ipps/VosDDGKMP024
 decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
 - author: Lei Yang 0024, Yanyan Lu, Jiannong Cao 0001, Jiaming Huang, Mingjin Zhang
   title: 'E-Tree Learning: A Novel Decentralized Model Learning Framework for Edge
@@ -2277,6 +2321,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2018.2876513
   ee: https://doi.org/10.1109/JIOT.2018.2876513
   url: https://dblp.org/rec/journals/iotj/HuZS19
+- author: Fan Zhang 0014, Guangjie Han, Li Liu 0022, Yu Zhang 0001, Yan Peng 0001,
+    Chao Li 0028
+  title: Cooperative Partial Task Offloading and Resource Allocation for IIoT Based
+    on Decentralized Multiagent Deep Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangHLZPL24
+  doi: 10.1109/JIOT.2023.3306803
+  ee: https://doi.org/10.1109/JIOT.2023.3306803
+  url: https://dblp.org/rec/journals/iotj/ZhangHLZPL24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -8674,3 +8730,69 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2311.05760
   ee: https://doi.org/10.48550/arXiv.2311.05760
   url: https://dblp.org/rec/journals/corr/abs-2311-05760
+- author: Martijn de Vos, Sadegh Farhadkhani, Rachid Guerraoui, Anne-Marie Kermarrec,
+    Rafael Pires 0001, Rishi Sharma 0001
+  title: 'Epidemic Learning: Boosting Decentralized Learning with Randomized Communication.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-01972
+  doi: 10.48550/ARXIV.2310.01972
+  ee: https://doi.org/10.48550/arXiv.2310.01972
+  url: https://dblp.org/rec/journals/corr/abs-2310-01972
+- author: "Sayan Biswas, Davide Frey, Romaric Gaudel, Anne-Marie Kermarrec, Dimitri\
+    \ Ler\xE9v\xE9rend, Rafael Pires 0001, Rishi Sharma 0001, Fran\xE7ois Ta\xEFani"
+  title: Low-Cost Privacy-Aware Decentralized Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2403-11795
+  doi: 10.48550/ARXIV.2403.11795
+  ee: https://doi.org/10.48550/arXiv.2403.11795
+  url: https://dblp.org/rec/journals/corr/abs-2403-11795
+- author: "Sayan Biswas, Mathieu Even, Anne-Marie Kermarrec, Laurent Massouli\xE9\
+    , Rafael Pires 0001, Rishi Sharma 0001, Martijn de Vos"
+  title: 'Beyond Noise: Privacy-Preserving Decentralized Learning with Virtual Nodes.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2404-09536
+  doi: 10.48550/ARXIV.2404.09536
+  ee: https://doi.org/10.48550/arXiv.2404.09536
+  url: https://dblp.org/rec/journals/corr/abs-2404-09536
+- author: Sayan Biswas, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi Sharma 0001,
+    Milos Vujasinovic
+  title: Secure Aggregation Meets Sparsification in Decentralized Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-07708
+  doi: 10.48550/ARXIV.2405.07708
+  ee: https://doi.org/10.48550/arXiv.2405.07708
+  url: https://dblp.org/rec/journals/corr/abs-2405-07708
+- author: Akash Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi Sharma 0001,
+    Milos Vujasinovic
+  title: Decentralized Learning Made Easy with DecentralizePy.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-08322
+  doi: 10.48550/ARXIV.2304.08322
+  ee: https://doi.org/10.48550/arXiv.2304.08322
+  url: https://dblp.org/rec/journals/corr/abs-2304-08322
+- author: Akash Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi Sharma 0001,
+    Milos Vujasinovic, Jeffrey Wigger
+  title: Get More for Less in Decentralized Learning Systems.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-04377
+  doi: 10.48550/ARXIV.2306.04377
+  ee: https://doi.org/10.48550/arXiv.2306.04377
+  url: https://dblp.org/rec/journals/corr/abs-2306-04377

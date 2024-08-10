@@ -8817,3 +8817,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2011.02608
   url: https://dblp.org/rec/journals/corr/abs-2011-02608
+- author: Akash Dhasade, Paolo Dini, Elia Guerra, Anne-Marie Kermarrec, Marco Miozzo,
+    Rafael Pires, Rishi Sharma 0001, Martijn de Vos
+  title: Energy-Aware Decentralized Learning with Intermittent Model Training.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-01283
+  doi: 10.48550/ARXIV.2407.01283
+  ee: https://doi.org/10.48550/arXiv.2407.01283
+  url: https://dblp.org/rec/journals/corr/abs-2407-01283
+- author: Minghong Fang, Zifan Zhang, Hairi, Prashant Khanduri, Jia Liu 0002, Songtao
+    Lu, Yuchen Liu 0001, Neil Zhenqiang Gong
+  title: Byzantine-Robust Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2406-10416
+  doi: 10.48550/ARXIV.2406.10416
+  ee: https://doi.org/10.48550/arXiv.2406.10416
+  url: https://dblp.org/rec/journals/corr/abs-2406-10416
+- author: Shenglong Zhou 0001, Kaidi Xu, Geoffrey Ye Li
+  title: Communication-Efficient Decentralized Federated Learning via One-Bit Compressive
+    Sensing.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-16671
+  doi: 10.48550/ARXIV.2308.16671
+  ee: https://doi.org/10.48550/arXiv.2308.16671
+  url: https://dblp.org/rec/journals/corr/abs-2308-16671

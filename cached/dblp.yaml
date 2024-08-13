@@ -8850,3 +8850,49 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2308.16671
   ee: https://doi.org/10.48550/arXiv.2308.16671
   url: https://dblp.org/rec/journals/corr/abs-2308-16671
+- author: Lin Wang, Yang Chen, Yongxin Guo, Xiaoying Tang
+  title: 'Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-04460
+  doi: 10.48550/ARXIV.2407.04460
+  ee: https://doi.org/10.48550/arXiv.2407.04460
+  url: https://dblp.org/rec/journals/corr/abs-2407-04460
+- author: Siddhartha Bhattacharya, Daniel Helo, Joshua Siegel
+  title: Impact of Network Topology on Byzantine Resilience in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-05141
+  doi: 10.48550/ARXIV.2407.05141
+  ee: https://doi.org/10.48550/arXiv.2407.05141
+  url: https://dblp.org/rec/journals/corr/abs-2407-05141
+- author: Minghao Yang, Jingjing Zhang, Shengyun Liu
+  title: 'DFedSat: Communication-Efficient and Robust Decentralized Federated Learning
+    for LEO Satellite Constellations.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-05850
+  doi: 10.48550/ARXIV.2407.05850
+  ee: https://doi.org/10.48550/arXiv.2407.05850
+  url: https://dblp.org/rec/journals/corr/abs-2407-05850
+- author: "Jorge D. C\xE1rdenas, Omar Contreras-Ponce, Carlos A. Guti\xE9rrez-D\xED\
+    az-de-Le\xF3n, Ruth Aguilar-Ponce, Francisco Rub\xE9n Castillo Soria, Cesar A.\
+    \ Azurdia-Meza"
+  title: Experimental Assessment of a Forward-Collision Warning System Fusing Deep
+    Learning and Decentralized Radio Sensing.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-08737
+  doi: 10.48550/ARXIV.2309.08737
+  ee: https://doi.org/10.48550/arXiv.2309.08737
+  url: https://dblp.org/rec/journals/corr/abs-2309-08737

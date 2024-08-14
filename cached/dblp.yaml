@@ -848,6 +848,17 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: http://proceedings.mlr.press/v70/omidshafiei17a.html
   url: https://dblp.org/rec/conf/icml/OmidshafieiPAHV17
+- author: Zhuqing Liu, Xin Zhang 0054, Prashant Khanduri, Songtao Lu, Jia Liu 0002
+  title: 'Prometheus: Taming Sample and Communication Complexities in Constrained
+    Decentralized Stochastic Bilevel Learning.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiuZKLL23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/liu23az.html
+  url: https://dblp.org/rec/conf/icml/LiuZKLL23
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'
@@ -8896,3 +8907,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2309.08737
   ee: https://doi.org/10.48550/arXiv.2309.08737
   url: https://dblp.org/rec/journals/corr/abs-2309-08737
+- author: Akash Dhasade, Paolo Dini, Elia Guerra, Anne-Marie Kermarrec, Marco Miozzo,
+    Rafael Pires 0001, Rishi Sharma 0001, Martijn de Vos
+  title: Energy-Aware Decentralized Learning with Intermittent Model Training.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-01283
+  doi: 10.48550/ARXIV.2407.01283
+  ee: https://doi.org/10.48550/arXiv.2407.01283
+  url: https://dblp.org/rec/journals/corr/abs-2407-01283
+- author: Seyed Mahmoud Sajjadi Mohammadabadi, Lei Yang 0001, Feng Yan, Junshan Zhang
+  title: Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent
+    Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-00839
+  doi: 10.48550/ARXIV.2405.00839
+  ee: https://doi.org/10.48550/arXiv.2405.00839
+  url: https://dblp.org/rec/journals/corr/abs-2405-00839

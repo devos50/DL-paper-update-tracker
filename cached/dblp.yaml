@@ -8929,3 +8929,49 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2405.00839
   ee: https://doi.org/10.48550/arXiv.2405.00839
   url: https://dblp.org/rec/journals/corr/abs-2405-00839
+- author: "Chao Feng, Alberto Huertas Celdr\xE1n, Jan von der Assen, Enrique Tom\xE1\
+    s Mart\xEDnez Beltr\xE1n, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'DART: A Solution for Decentralized Federated Learning Model Robustness Analysis.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-08652
+  doi: 10.48550/ARXIV.2407.08652
+  ee: https://doi.org/10.48550/arXiv.2407.08652
+  url: https://dblp.org/rec/journals/corr/abs-2407-08652
+- author: "Shun Kotoku, Takatomo Mihana, Andr\xE9 R\xF6hm, Ryoichi Horisaki"
+  title: Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized
+    laser network.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-09124
+  doi: 10.48550/ARXIV.2407.09124
+  ee: https://doi.org/10.48550/arXiv.2407.09124
+  url: https://dblp.org/rec/journals/corr/abs-2407-09124
+- author: "Wenrui Yu, Qiongxiu Li, Milan Lopuha\xE4-Zwakenberg, Mads Gr\xE6sb\xF8\
+    ll Christensen, Richard Heusdens"
+  title: Provable Privacy Advantages of Decentralized Federated Learning via Distributed
+    Optimization.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-09324
+  doi: 10.48550/ARXIV.2407.09324
+  ee: https://doi.org/10.48550/arXiv.2407.09324
+  url: https://dblp.org/rec/journals/corr/abs-2407-09324
+- author: Seyed Mahmoud Sajjadi Mohammadabadi, Lei Yang 0001, Feng Yan 0001, Junshan
+    Zhang
+  title: Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent
+    Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-00839
+  doi: 10.48550/ARXIV.2405.00839
+  ee: https://doi.org/10.48550/arXiv.2405.00839
+  url: https://dblp.org/rec/journals/corr/abs-2405-00839

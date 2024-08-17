@@ -8975,3 +8975,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2405.00839
   ee: https://doi.org/10.48550/arXiv.2405.00839
   url: https://dblp.org/rec/journals/corr/abs-2405-00839
+- author: Lorenzo Cassano, Jacopo D&apos;Abramo, Siraj Munir, Stefano Ferretti
+  title: Trust and Resilience in Federated Learning Through Smart Contracts Enabled
+    Decentralized Systems.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-06862
+  doi: 10.48550/ARXIV.2407.06862
+  ee: https://doi.org/10.48550/arXiv.2407.06862
+  url: https://dblp.org/rec/journals/corr/abs-2407-06862
+- author: Haoxiang Ye, Qing Ling 0001
+  title: Generalization Error Matters in Decentralized Learning Under Byzantine Attacks.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-08632
+  doi: 10.48550/ARXIV.2407.08632
+  ee: https://doi.org/10.48550/arXiv.2407.08632
+  url: https://dblp.org/rec/journals/corr/abs-2407-08632

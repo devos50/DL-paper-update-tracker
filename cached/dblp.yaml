@@ -2900,6 +2900,51 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFCOM.1988.12972
   ee: https://doi.org/10.1109/INFCOM.1988.12972
   url: https://dblp.org/rec/conf/infocom/EconomidesIS88
+- author: Long Zhang 0007, Shuang Qin, Gang Feng 0004, Youkun Peng
+  title: 'Decentralized Federated Learning Under Free-riders: Credibility Analysis.'
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/0007Q0P24
+  doi: 10.1109/INFOCOMWKSHPS61880.2024.10620869
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620869
+  url: https://dblp.org/rec/conf/infocom/0007Q0P24
+- author: Jing Qiao, Zuyuan Zhang, Sheng Yue, Yuan Yuan, Zhipeng Cai, Xiao Zhang,
+    Ju Ren, Dongxiao Yu
+  title: 'BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning
+    with Fast Convergence and Communication Efficiency.'
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/QiaoZYYCZRY24
+  doi: 10.1109/INFOCOM52122.2024.10621347
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621347
+  url: https://dblp.org/rec/conf/infocom/QiaoZYYCZRY24
+- author: Xu Wang, Yuanzhu Peter Chen, Octavia A. Dobre
+  title: Designing Robust 6G Networks with Bimodal Distribution for Decentralized
+    Federated Learning.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WangCD24
+  doi: 10.1109/INFOCOMWKSHPS61880.2024.10620706
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620706
+  url: https://dblp.org/rec/conf/infocom/WangCD24
+- author: Cheng Zhang, Yang Xu 0013, Xiaowei Wu, En Wang, Hongbo Jiang 0001, Yaoxue
+    Zhang
+  title: A Semi-Asynchronous Decentralized Federated Learning Framework via Tree-Graph
+    Blockchain.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/Zhang0WW0Z24
+  doi: 10.1109/INFOCOM52122.2024.10621425
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621425
+  url: https://dblp.org/rec/conf/infocom/Zhang0WW0Z24
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota

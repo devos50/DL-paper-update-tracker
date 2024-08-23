@@ -9074,3 +9074,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2310.07079
   ee: https://doi.org/10.48550/arXiv.2310.07079
   url: https://dblp.org/rec/journals/corr/abs-2310-07079
+- author: Zonghong Liu, Salim El Rouayheb, Matthew Dwyer 0004
+  title: The Entrapment Problem in Random Walk Decentralized Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-20611
+  doi: 10.48550/ARXIV.2407.20611
+  ee: https://doi.org/10.48550/arXiv.2407.20611
+  url: https://dblp.org/rec/journals/corr/abs-2407-20611
+- author: Sathwik Narkedimilli, Rayachoti Arun Kumar, N. V. Saran Kumar, Ramapathruni
+    Praneeth Reddy, Pavan Kumar C
+  title: 'FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving
+    Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-21141
+  doi: 10.48550/ARXIV.2407.21141
+  ee: https://doi.org/10.48550/arXiv.2407.21141
+  url: https://dblp.org/rec/journals/corr/abs-2407-21141
+- author: S. Rasoul Etesami 0001, R. Srikant 0001
+  title: 'Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic
+    Approach.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-21294
+  doi: 10.48550/ARXIV.2407.21294
+  ee: https://doi.org/10.48550/arXiv.2407.21294
+  url: https://dblp.org/rec/journals/corr/abs-2407-21294

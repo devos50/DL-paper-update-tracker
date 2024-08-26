@@ -9118,3 +9118,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2407.11762
   ee: https://doi.org/10.48550/arXiv.2407.11762
   url: https://dblp.org/rec/journals/corr/abs-2407-11762
+- author: "Yongsun Lee, Hoyun Choi, Laurent Pagnier, Cook Hyun Kim, Jongshin Lee,\
+    \ Bukyoung Jhun, Heetae Kim, J\xFCrgen Kurths, B. Kahng"
+  title: Reinforcement Learning Optimizes Power Dispatch in Decentralized Power Grid.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-15165
+  doi: 10.48550/ARXIV.2407.15165
+  ee: https://doi.org/10.48550/arXiv.2407.15165
+  url: https://dblp.org/rec/journals/corr/abs-2407-15165

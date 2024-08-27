@@ -924,6 +924,29 @@ decentralized%20learning%20venue%3AICLR%3A:
   doi: ''
   ee: https://openreview.net/forum?id=SkgGCkrKvH
   url: https://dblp.org/rec/conf/iclr/KoloskovaLSJ20
+- author: Kai Cui 0001, Sascha Hauck, Christian Fabian, Heinz Koeppl
+  title: Learning Decentralized Partially Observable Mean Field Control for Artificial
+    Collective Behavior.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/0001HFK24
+  doi: ''
+  ee: https://openreview.net/forum?id=99tKiMVJhY
+  url: https://dblp.org/rec/conf/iclr/0001HFK24
+- author: Prashant Khanduri, Haibo Yang 0001, Mingyi Hong 0001, Jia Liu 0002, Hoi-To
+    Wai, Sijia Liu 0001
+  title: 'Decentralized Learning for Overparameterized Problems: A Multi-Agent Kernel
+    Approximation Approach.'
+  venue: ICLR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/KhanduriYHLW022
+  doi: ''
+  ee: https://openreview.net/forum?id=oj2yn1Q4Ett
+  url: https://dblp.org/rec/conf/iclr/KhanduriYHLW022
 decentralized%20learning%20venue%3ACOLT%3A:
 - author: Daniel Freund 0001, Thodoris Lykouris, Wentao Weng
   title: Efficient decentralized multi-agent learning in asymmetric queuing systems.

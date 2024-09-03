@@ -859,6 +859,69 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v202/liu23az.html
   url: https://dblp.org/rec/conf/icml/LiuZKLL23
+- author: Youssef Allouah, Anastasia Koloskova, Aymane El Firdoussi, Martin Jaggi,
+    Rachid Guerraoui
+  title: The Privacy Power of Correlated Noise in Decentralized Learning.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/AllouahKFJG24
+  doi: ''
+  ee: https://openreview.net/forum?id=5JrlywYHRi
+  url: https://dblp.org/rec/conf/icml/AllouahKFJG24
+- author: "Edwige Cyffers, Aur\xE9lien Bellet, Jalaj Upadhyay"
+  title: Differentially Private Decentralized Learning with Random Walks.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CyffersBU24
+  doi: ''
+  ee: https://openreview.net/forum?id=k2dVVIWWho
+  url: https://dblp.org/rec/conf/icml/CyffersBU24
+- author: Kate Donahue, Nicole Immorlica, Meena Jagadeesan, Brendan Lucier, Aleksandrs
+    Slivkins
+  title: Impact of Decentralized Learning on Player Utilities in Stackelberg Games.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/DonahueIJLS24
+  doi: ''
+  ee: https://openreview.net/forum?id=zMsMQJraEj
+  url: https://dblp.org/rec/conf/icml/DonahueIJLS24
+- author: Chun-Yin Huang, Kartik Srinivas, Xin Zhang, Xiaoxiao Li
+  title: Overcoming Data and Model heterogeneities in Decentralized Federated Learning
+    via Synthetic Anchors.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangSZL24
+  doi: ''
+  ee: https://openreview.net/forum?id=mNzkumTSVL
+  url: https://dblp.org/rec/conf/icml/HuangSZL24
+- author: Feihu Huang, Jianyu Zhao
+  title: Faster Adaptive Decentralized Learning Algorithms.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangZ24
+  doi: ''
+  ee: https://openreview.net/forum?id=Dwc0RwiNI5
+  url: https://dblp.org/rec/conf/icml/HuangZ24
+- author: "Abdellah El Mrini, Edwige Cyffers, Aur\xE9lien Bellet"
+  title: Privacy Attacks in Decentralized Learning.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MriniCB24
+  doi: ''
+  ee: https://openreview.net/forum?id=mggc3oYHy4
+  url: https://dblp.org/rec/conf/icml/MriniCB24
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'

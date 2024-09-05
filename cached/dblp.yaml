@@ -9227,3 +9227,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2407.15165
   ee: https://doi.org/10.48550/arXiv.2407.15165
   url: https://dblp.org/rec/journals/corr/abs-2407-15165
+- author: "Daniel P\xE9rez Herrera, Zheng Chen 0002, Erik G. Larsson"
+  title: 'Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling
+    for Decentralized Learning over Wireless Networks.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2401-13779
+  doi: 10.48550/ARXIV.2401.13779
+  ee: https://doi.org/10.48550/arXiv.2401.13779
+  url: https://dblp.org/rec/journals/corr/abs-2401-13779
+- author: Zheng Chen 0002, Martin Dahl, Erik G. Larsson
+  title: 'Decentralized Learning over Wireless Networks: The Effect of Broadcast with
+    Random Access.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-07368
+  doi: 10.48550/ARXIV.2305.07368
+  ee: https://doi.org/10.48550/arXiv.2305.07368
+  url: https://dblp.org/rec/journals/corr/abs-2305-07368
+- author: "Daniel P\xE9rez Herrera, Zheng Chen 0002, Erik G. Larsson"
+  title: Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph
+    Sampling.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-16106
+  doi: 10.48550/ARXIV.2310.16106
+  ee: https://doi.org/10.48550/arXiv.2310.16106
+  url: https://dblp.org/rec/journals/corr/abs-2310-16106

@@ -1225,6 +1225,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
   doi: ''
   ee: https://jmlr.org/papers/v20/17-534.html
   url: https://dblp.org/rec/journals/jmlr/Daneshmand0SFS19
+- author: Shaocong Ma, Ziyi Chen 0002, Shaofeng Zou, Yi Zhou 0017
+  title: Decentralized Robust V-learning for Solving Markov Games with Model Uncertainty.
+  venue: J. Mach. Learn. Res.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/Ma0Z023
+  doi: ''
+  ee: http://jmlr.org/papers/v24/23-0310.html
+  url: https://dblp.org/rec/journals/jmlr/Ma0Z023
+- author: Thijs Vogels, Hadrien Hendrikx, Martin Jaggi
+  title: 'Beyond Spectral Gap: The Role of the Topology in Decentralized Learning.'
+  venue: J. Mach. Learn. Res.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/VogelsHJ23
+  doi: ''
+  ee: http://jmlr.org/papers/v24/22-1471.html
+  url: https://dblp.org/rec/journals/jmlr/VogelsHJ23
 decentralized%20learning%20streamid%3Ajournals%2Fpami%3A: []
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,

@@ -1245,6 +1245,27 @@ decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
   doi: ''
   ee: http://jmlr.org/papers/v24/22-1471.html
   url: https://dblp.org/rec/journals/jmlr/VogelsHJ23
+- author: Jinchi Chen, Jie Feng, Weiguo Gao, Ke Wei 0001
+  title: Decentralized Natural Policy Gradient with Variance Reduction for Collaborative
+    Multi-Agent Reinforcement Learning.
+  venue: J. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/ChenFG024
+  doi: ''
+  ee: https://jmlr.org/papers/v25/22-1036.html
+  url: https://dblp.org/rec/journals/jmlr/ChenFG024
+- author: Ping Xu, Yue Wang, Xiang Chen 0010, Zhi Tian
+  title: 'COKE: Communication-Censored Decentralized Kernel Learning.'
+  venue: J. Mach. Learn. Res.
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/XuWCT21
+  doi: ''
+  ee: https://jmlr.org/papers/v22/20-070.html
+  url: https://dblp.org/rec/journals/jmlr/XuWCT21
 decentralized%20learning%20streamid%3Ajournals%2Fpami%3A: []
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
@@ -9375,3 +9396,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2112.15486
   url: https://dblp.org/rec/journals/corr/abs-2112-15486
+- author: Ping Xu, Yue Wang, Xiang Chen 0010, Zhi Tian
+  title: 'QC-ODKLA: Quantized and Communication-Censored Online Decentralized Kernel
+    Learning via Linearized ADMM.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2208-02777
+  doi: 10.48550/ARXIV.2208.02777
+  ee: https://doi.org/10.48550/arXiv.2208.02777
+  url: https://dblp.org/rec/journals/corr/abs-2208-02777

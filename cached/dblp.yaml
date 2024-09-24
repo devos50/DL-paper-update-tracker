@@ -9428,3 +9428,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.05992
   ee: https://doi.org/10.48550/arXiv.2408.05992
   url: https://dblp.org/rec/journals/corr/abs-2408-05992
+- author: Steve Yuwono, Dorothea Schwung, Andreas Schwung
+  title: Distributed Stackelberg Strategies in State-based Potential Games for Autonomous
+    Decentralized Learning Manufacturing Systems.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-06397
+  doi: 10.48550/ARXIV.2408.06397
+  ee: https://doi.org/10.48550/arXiv.2408.06397
+  url: https://dblp.org/rec/journals/corr/abs-2408-06397
+- author: Jahir Sadik Monon, Deeparghya Dutta Barua, Md. Mosaddek Khan
+  title: Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement Learning
+    via Graph Neural Network-Based Intrinsic Motivation.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-06503
+  doi: 10.48550/ARXIV.2408.06503
+  ee: https://doi.org/10.48550/arXiv.2408.06503
+  url: https://dblp.org/rec/journals/corr/abs-2408-06503
+- author: Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, Xiangmou Qu, Lu Zhou
+  title: 'Voltran: Unlocking Trust and Confidentiality in Decentralized Federated
+    Learning Aggregation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-06885
+  doi: 10.48550/ARXIV.2408.06885
+  ee: https://doi.org/10.48550/arXiv.2408.06885
+  url: https://dblp.org/rec/journals/corr/abs-2408-06885

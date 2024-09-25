@@ -2055,6 +2055,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2019.2924685
   ee: https://doi.org/10.1109/ACCESS.2019.2924685
   url: https://dblp.org/rec/journals/access/EseyeLTUM19a
+- author: Yaser Alhasawi, Salem Alghamdi
+  title: Corrections to &quot;Federated Learning for Decentralized DDoS Attack Detection
+    in IoT Networks&quot;.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlhasawiA24a
+  doi: 10.1109/ACCESS.2024.3430222
+  ee: https://doi.org/10.1109/ACCESS.2024.3430222
+  url: https://dblp.org/rec/journals/access/AlhasawiA24a
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -9461,3 +9472,23 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.06885
   ee: https://doi.org/10.48550/arXiv.2408.06885
   url: https://dblp.org/rec/journals/corr/abs-2408-06885
+- author: Changxin Liu, Nicola Bastianello, Wei Huo, Yang Shi 0001, Karl Henrik Johansson
+  title: A survey on secure decentralized optimization and learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-08628
+  doi: 10.48550/ARXIV.2408.08628
+  ee: https://doi.org/10.48550/arXiv.2408.08628
+  url: https://dblp.org/rec/journals/corr/abs-2408-08628
+- author: Feihu Huang, Jianyu Zhao
+  title: Faster Adaptive Decentralized Learning Algorithms.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-09775
+  doi: 10.48550/ARXIV.2408.09775
+  ee: https://doi.org/10.48550/arXiv.2408.09775
+  url: https://dblp.org/rec/journals/corr/abs-2408-09775

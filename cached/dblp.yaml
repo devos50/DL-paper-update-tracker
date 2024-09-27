@@ -9492,3 +9492,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.09775
   ee: https://doi.org/10.48550/arXiv.2408.09775
   url: https://dblp.org/rec/journals/corr/abs-2408-09775
+- author: Bin Wu, C. Steve Suh
+  title: 'Deep Reinforcement Learning for Decentralized Multi-Robot Control: A DQN
+    Approach to Robustness and Information Integration.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-11339
+  doi: 10.48550/ARXIV.2408.11339
+  ee: https://doi.org/10.48550/arXiv.2408.11339
+  url: https://dblp.org/rec/journals/corr/abs-2408-11339

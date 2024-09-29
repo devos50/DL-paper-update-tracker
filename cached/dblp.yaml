@@ -9525,3 +9525,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2307.06175
   ee: https://doi.org/10.48550/arXiv.2307.06175
   url: https://dblp.org/rec/journals/corr/abs-2307-06175
+- author: "Omar Mrani-Zentar, Serdar Y\xFCksel"
+  title: 'Decentralized Stochastic Control in Standard Borel Spaces: Centralized MDP
+    Reductions, Near Optimality of Finite Window Local Information, and Q-Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-13828
+  doi: 10.48550/ARXIV.2408.13828
+  ee: https://doi.org/10.48550/arXiv.2408.13828
+  url: https://dblp.org/rec/journals/corr/abs-2408-13828
+- author: Xiaoyu Wang, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu
+  title: Decentralized Federated Learning with Model Caching on Mobile Agents.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-14001
+  doi: 10.48550/ARXIV.2408.14001
+  ee: https://doi.org/10.48550/arXiv.2408.14001
+  url: https://dblp.org/rec/journals/corr/abs-2408-14001

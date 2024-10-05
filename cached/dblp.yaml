@@ -1349,6 +1349,28 @@ decentralized%20learning%20venue%3ACVPR%3A:
   doi: 10.1109/CVPR52729.2023.00778
   ee: https://doi.org/10.1109/CVPR52729.2023.00778
   url: https://dblp.org/rec/conf/cvpr/Zhmoginov0MKV23
+- author: Yingqi Liu, Yifan Shi, Baoyuan Wu, Qinglun Li, Xueqian Wang 0001, Li Shen
+    0008
+  title: Decentralized Directed Collaboration for Personalized Federated Learning.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiuSWL0024
+  doi: 10.1109/CVPR52733.2024.02186
+  ee: https://doi.org/10.1109/CVPR52733.2024.02186
+  url: https://dblp.org/rec/conf/cvpr/LiuSWL0024
+- author: Peng Sun, Xinyang Liu, Zhibo Wang, Bo Liu
+  title: Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering
+    and Trust Bootstrapping.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/SunLWL24
+  doi: 10.1109/CVPR52733.2024.02338
+  ee: https://doi.org/10.1109/CVPR52733.2024.02338
+  url: https://dblp.org/rec/conf/cvpr/SunLWL24
 decentralized%20learning%20venue%3AICCV%3A:
 - author: Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto, Concetto
     Spampinato, Simone Palazzo, Bruno Casella, Marco Aldinucci
@@ -3057,6 +3079,27 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/BFB0022597
   ee: https://doi.org/10.1007/BFb0022597
   url: https://dblp.org/rec/conf/calisce/NawareckiD96
+- author: "Hao Dai, Jiashu Wu, Andr\xE9 Brinkmann, Yang Wang 0006"
+  title: Neighborhood-Oriented Decentralized Learning Communication in Multi-Agent
+    System.
+  venue: ICANN
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/DaiWBW23
+  doi: 10.1007/978-3-031-44213-1_41
+  ee: https://doi.org/10.1007/978-3-031-44213-1_41
+  url: https://dblp.org/rec/conf/icann/DaiWBW23
+- author: Peilin Liu, Yanni Tang, Mingyue Zhang, Wu Chen
+  title: Graph Federated Learning Based on the Decentralized Framework.
+  venue: ICANN
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/LiuTZC23
+  doi: 10.1007/978-3-031-44213-1_38
+  ee: https://doi.org/10.1007/978-3-031-44213-1_38
+  url: https://dblp.org/rec/conf/icann/LiuTZC23
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

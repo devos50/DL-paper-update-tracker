@@ -9631,3 +9631,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2208.02777
   ee: https://doi.org/10.48550/arXiv.2208.02777
   url: https://dblp.org/rec/journals/corr/abs-2208-02777
+- author: "Haoyuan Li, Mathias Funk, Nezihe Merve G\xFCrel, Aaqib Saeed"
+  title: Collaboratively Learning Federated Models from Noisy Decentralized Data.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-02189
+  doi: 10.48550/ARXIV.2409.02189
+  ee: https://doi.org/10.48550/arXiv.2409.02189
+  url: https://dblp.org/rec/journals/corr/abs-2409-02189

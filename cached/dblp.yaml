@@ -9662,3 +9662,56 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.04705
   ee: https://doi.org/10.48550/arXiv.2408.04705
   url: https://dblp.org/rec/journals/corr/abs-2408-04705
+- author: Christopher Amato
+  title: An Introduction to Centralized Training for Decentralized Execution in Cooperative
+    Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-03052
+  doi: 10.48550/ARXIV.2409.03052
+  ee: https://doi.org/10.48550/arXiv.2409.03052
+  url: https://dblp.org/rec/journals/corr/abs-2409-03052
+- author: Chinmay Maheshwari, Manxi Wu, Shankar Sastry 0001
+  title: Decentralized Learning in General-sum Markov Games.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-04613
+  doi: 10.48550/ARXIV.2409.04613
+  ee: https://doi.org/10.48550/arXiv.2409.04613
+  url: https://dblp.org/rec/journals/corr/abs-2409-04613
+- author: Vade Shah, Bryce L. Ferguson, Jason R. Marden
+  title: Learning Optimal Stable Matches in Decentralized Markets with Unknown Preferences.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-04669
+  doi: 10.48550/ARXIV.2409.04669
+  ee: https://doi.org/10.48550/arXiv.2409.04669
+  url: https://dblp.org/rec/journals/corr/abs-2409-04669
+- author: Yifan Hua, Jinlong Pang, Xiaoxue Zhang, Yi Liu, Xiaofeng Shi, Bao Wang,
+    Yang Liu, Chen Qian 0001
+  title: Towards Practical Overlay Networks for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-05331
+  doi: 10.48550/ARXIV.2409.05331
+  ee: https://doi.org/10.48550/arXiv.2409.05331
+  url: https://dblp.org/rec/journals/corr/abs-2409-05331
+- author: Yingying Li, Yujie Tang 0002, Runyu Zhang 0001, Na Li 0002
+  title: 'Distributed Reinforcement Learning for Decentralized Linear Quadratic Control:
+    A Derivative-Free Policy Optimization Approach.'
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1912-09135
+  doi: ''
+  ee: http://arxiv.org/abs/1912.09135
+  url: https://dblp.org/rec/journals/corr/abs-1912-09135

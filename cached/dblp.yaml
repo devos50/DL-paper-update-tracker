@@ -9715,3 +9715,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1912.09135
   url: https://dblp.org/rec/journals/corr/abs-1912-09135
+- author: Yifan Hua, Jinlong Pang, Xiaoxue Zhang 0001, Yi Liu, Xiaofeng Shi, Bao Wang,
+    Yang Liu 0003, Chen Qian 0001
+  title: Towards Practical Overlay Networks for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-05331
+  doi: 10.48550/ARXIV.2409.05331
+  ee: https://doi.org/10.48550/arXiv.2409.05331
+  url: https://dblp.org/rec/journals/corr/abs-2409-05331

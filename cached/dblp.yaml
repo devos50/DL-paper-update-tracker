@@ -9726,3 +9726,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2409.05331
   ee: https://doi.org/10.48550/arXiv.2409.05331
   url: https://dblp.org/rec/journals/corr/abs-2409-05331
+- author: Alexei Pisacane, Victor-Alexandru Darvariu, Mirco Musolesi
+  title: Reinforcement Learning Discovers Efficient Decentralized Graph Path Search
+    Strategies.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-07932
+  doi: 10.48550/ARXIV.2409.07932
+  ee: https://doi.org/10.48550/arXiv.2409.07932
+  url: https://dblp.org/rec/journals/corr/abs-2409-07932
+- author: Yakov Miron, Dan Navon, Yuval Goldfracht, Dotan Di Castro, Itzik Klein
+  title: Decentralized and Asymmetric Multi-Agent Learning in Construction Sites.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-10375
+  doi: 10.48550/ARXIV.2409.10375
+  ee: https://doi.org/10.48550/arXiv.2409.10375
+  url: https://dblp.org/rec/journals/corr/abs-2409-10375

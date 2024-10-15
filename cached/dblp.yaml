@@ -9747,3 +9747,45 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2409.10375
   ee: https://doi.org/10.48550/arXiv.2409.10375
   url: https://dblp.org/rec/journals/corr/abs-2409-10375
+- author: Yifan Hua, Jinlong Pang, Xiaoxue Zhang 0001, Yi Liu 0069, Xiaofeng Shi,
+    Bao Wang, Yang Liu 0003, Chen Qian 0001
+  title: Towards Practical Overlay Networks for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-05331
+  doi: 10.48550/ARXIV.2409.05331
+  ee: https://doi.org/10.48550/arXiv.2409.05331
+  url: https://dblp.org/rec/journals/corr/abs-2409-05331
+- author: Edvin Listo Zec, Tom Hagander, Eric Ihre-Thomason, Sarunas Girdzijauskas
+  title: On the effects of similarity metrics in decentralized deep learning under
+    distributional shift.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-10720
+  doi: 10.48550/ARXIV.2409.10720
+  ee: https://doi.org/10.48550/arXiv.2409.10720
+  url: https://dblp.org/rec/journals/corr/abs-2409-10720
+- author: "Juan Cervi\xF1o, Saurav Agarwal, Vijay Kumar 0001, Alejandro Ribeiro"
+  title: Constrained Learning for Decentralized Multi-Objective Coverage Control.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-11311
+  doi: 10.48550/ARXIV.2409.11311
+  ee: https://doi.org/10.48550/arXiv.2409.11311
+  url: https://dblp.org/rec/journals/corr/abs-2409-11311
+- author: Cuiwei Liu, Siang Xu, Huaijun Qiu, Jing Zhang, Zhi Liu, Liang Zhao
+  title: Few-Shot Class-Incremental Learning with Non-IID Decentralized Data.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-11657
+  doi: 10.48550/ARXIV.2409.11657
+  ee: https://doi.org/10.48550/arXiv.2409.11657
+  url: https://dblp.org/rec/journals/corr/abs-2409-11657

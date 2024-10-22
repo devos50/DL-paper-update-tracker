@@ -98,6 +98,17 @@ decentralized%20learning%20venue%3AIJCAI%3A:
   doi: ''
   ee: https://www.ijcai.org/proceedings/2024/971
   url: https://dblp.org/rec/conf/ijcai/Sylvester24
+- author: Angel Sylvester
+  title: Bio-inspired Dynamic and Decentralized Online Learning in Uninformed Heterogeneous
+    Multi-Agent Environments.
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Sylvester24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/971
+  url: https://dblp.org/rec/conf/ijcai/Sylvester24
 decentralized%20learning%20venue%3AAAAI%3A:
 - author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
     Aleksandr Panov
@@ -330,6 +341,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V26I1.8260
   ee: https://doi.org/10.1609/aaai.v26i1.8260
   url: https://dblp.org/rec/conf/aaai/BanerjeeLKY12
+- author: Wenhan Xian, Feihu Huang 0001, Heng Huang
+  title: Communication-Efficient Frank-Wolfe Algorithm for Nonconvex Decentralized
+    Distributed Learning.
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/XianHH21
+  doi: 10.1609/AAAI.V35I12.17246
+  ee: https://doi.org/10.1609/aaai.v35i12.17246
+  url: https://dblp.org/rec/conf/aaai/XianHH21
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -933,6 +955,16 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: https://openreview.net/forum?id=mggc3oYHy4
   url: https://dblp.org/rec/conf/icml/MriniCB24
+- author: Feihu Huang 0001, Jianyu Zhao
+  title: Faster Adaptive Decentralized Learning Algorithms.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangZ24
+  doi: ''
+  ee: https://openreview.net/forum?id=Dwc0RwiNI5
+  url: https://dblp.org/rec/conf/icml/HuangZ24
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'
@@ -9811,3 +9843,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2409.14261
   ee: https://doi.org/10.48550/arXiv.2409.14261
   url: https://dblp.org/rec/journals/corr/abs-2409-14261
+- author: Feihu Huang 0001, Jianyu Zhao
+  title: Faster Adaptive Decentralized Learning Algorithms.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-09775
+  doi: 10.48550/ARXIV.2408.09775
+  ee: https://doi.org/10.48550/arXiv.2408.09775
+  url: https://dblp.org/rec/journals/corr/abs-2408-09775
+- author: Talha Bozkus, Urbashi Mitra
+  title: A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized
+    Wireless Network Optimization.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-16450
+  doi: 10.48550/ARXIV.2409.16450
+  ee: https://doi.org/10.48550/arXiv.2409.16450
+  url: https://dblp.org/rec/journals/corr/abs-2409-16450
+- author: Duong Thuy Anh Nguyen, Su Wang, Duong Tung Nguyen, Angelia Nedich, H. Vincent
+    Poor
+  title: Decentralized Federated Learning with Gradient Tracking over Time-Varying
+    Directed Networks.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-17189
+  doi: 10.48550/ARXIV.2409.17189
+  ee: https://doi.org/10.48550/arXiv.2409.17189
+  url: https://dblp.org/rec/journals/corr/abs-2409-17189

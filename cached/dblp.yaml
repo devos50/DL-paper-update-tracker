@@ -9899,3 +9899,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.02541
   ee: https://doi.org/10.48550/arXiv.2410.02541
   url: https://dblp.org/rec/journals/corr/abs-2410-02541
+- author: Prasanth Sengadu Suresh, Siddarth Jain, Prashant Doshi, Diego Romeres
+  title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-01790
+  doi: 10.48550/ARXIV.2410.01790
+  ee: https://doi.org/10.48550/arXiv.2410.01790
+  url: https://dblp.org/rec/journals/corr/abs-2410-01790
+- author: Gabriel Thompson, Kai Yue, Chau-Wai Wong, Huaiyu Dai
+  title: 'NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings
+    via Neural Tangent Kernel.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-01922
+  doi: 10.48550/ARXIV.2410.01922
+  ee: https://doi.org/10.48550/arXiv.2410.01922
+  url: https://dblp.org/rec/journals/corr/abs-2410-01922

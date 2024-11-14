@@ -9921,3 +9921,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.01922
   ee: https://doi.org/10.48550/arXiv.2410.01922
   url: https://dblp.org/rec/journals/corr/abs-2410-01922
+- author: Jie Mei 0001, Xianbin Wang 0001, Kan Zheng
+  title: 'Semi-Decentralized Network Slicing for Reliable V2V Service Provisioning:
+    A Model-free Deep Reinforcement Learning Approach.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-12014
+  doi: ''
+  ee: https://arxiv.org/abs/2108.12014
+  url: https://dblp.org/rec/journals/corr/abs-2108-12014

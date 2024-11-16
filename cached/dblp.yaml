@@ -10048,3 +10048,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2012.02044
   url: https://dblp.org/rec/journals/corr/abs-2012-02044
+- author: Hao Wang 0189, Yichen Cai, Jun Wang 0020, Chuan Ma 0001, Chunpeng Ge, Xiangmou
+    Qu, Lu Zhou 0002
+  title: 'Voltran: Unlocking Trust and Confidentiality in Decentralized Federated
+    Learning Aggregation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-06885
+  doi: 10.48550/ARXIV.2408.06885
+  ee: https://doi.org/10.48550/arXiv.2408.06885
+  url: https://dblp.org/rec/journals/corr/abs-2408-06885

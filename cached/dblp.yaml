@@ -1132,6 +1132,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fml%3A:
   doi: 10.1007/S10994-017-5676-Y
   ee: https://doi.org/10.1007/s10994-017-5676-y
   url: https://dblp.org/rec/journals/ml/ZhangZHSLMH18
+- author: Kejie Tang, Weidong Liu 0005, Xiaojun Mao
+  title: Multi-consensus decentralized primal-dual fixed point algorithm for distributed
+    learning.
+  venue: Mach. Learn.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/TangLM24
+  doi: 10.1007/S10994-024-06537-8
+  ee: https://doi.org/10.1007/s10994-024-06537-8
+  url: https://dblp.org/rec/journals/ml/TangLM24
 decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
 - author: Wenhao Li, Bo Jin 0003, Xiangfeng Wang, Junchi Yan, Hongyuan Zha
   title: 'F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative
@@ -10060,3 +10071,60 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.06885
   ee: https://doi.org/10.48550/arXiv.2408.06885
   url: https://dblp.org/rec/journals/corr/abs-2408-06885
+- author: Hanzaleh Akbari Nodehi, Viveck R. Cadambe, Mohammad Ali Maddah-Ali
+  title: 'Game of Coding: Sybil Resistant Decentralized Machine Learning with Minimal
+    Trust Assumption.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-05540
+  doi: 10.48550/ARXIV.2410.05540
+  ee: https://doi.org/10.48550/arXiv.2410.05540
+  url: https://dblp.org/rec/journals/corr/abs-2410-05540
+- author: "Alberto Huertas Celdr\xE1n, Chao Feng, Sabyasachi Banik, G\xE9r\xF4me Bovet,\
+    \ Gregorio Mart\xEDnez P\xE9rez, Burkhard Stiller"
+  title: 'De-VertiFL: A Solution for Decentralized Vertical Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-06127
+  doi: 10.48550/ARXIV.2410.06127
+  ee: https://doi.org/10.48550/arXiv.2410.06127
+  url: https://dblp.org/rec/journals/corr/abs-2410-06127
+- author: Qinglun Li, Miao Zhang, Mengzhu Wang, Quanjun Yin, Li Shen 0008
+  title: 'OledFL: Unleashing the Potential of Decentralized Federated Learning via
+    Opposite Lookahead Enhancement.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-06482
+  doi: 10.48550/ARXIV.2410.06482
+  ee: https://doi.org/10.48550/arXiv.2410.06482
+  url: https://dblp.org/rec/journals/corr/abs-2410-06482
+- author: Qinglun Li, Miao Zhang, Yingqi Liu, Quanjun Yin, Li Shen 0008, Xiaochun
+    Cao
+  title: Boosting the Performance of Decentralized Federated Learning via Catalyst
+    Acceleration.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-07272
+  doi: 10.48550/ARXIV.2410.07272
+  ee: https://doi.org/10.48550/arXiv.2410.07272
+  url: https://dblp.org/rec/journals/corr/abs-2410-07272
+- author: "Chao Feng, Hongjie Guan, Alberto Huertas Celdr\xE1n, Jan von der Assen,\
+    \ G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy
+    Pooling for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-07678
+  doi: 10.48550/ARXIV.2410.07678
+  ee: https://doi.org/10.48550/arXiv.2410.07678
+  url: https://dblp.org/rec/journals/corr/abs-2410-07678

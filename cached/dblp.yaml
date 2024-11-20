@@ -352,6 +352,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V35I12.17246
   ee: https://doi.org/10.1609/aaai.v35i12.17246
   url: https://dblp.org/rec/conf/aaai/XianHH21
+- author: Caroline Wang, Ishan Durugkar, Elad Liebman, Peter Stone 0001
+  title: "DM\xB2: Decentralized Multi-Agent Reinforcement Learning via Distribution\
+    \ Matching."
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangDLS23
+  doi: 10.1609/AAAI.V37I10.26382
+  ee: https://doi.org/10.1609/aaai.v37i10.26382
+  url: https://dblp.org/rec/conf/aaai/WangDLS23
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent

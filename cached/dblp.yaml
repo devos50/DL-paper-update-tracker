@@ -10139,3 +10139,46 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.07678
   ee: https://doi.org/10.48550/arXiv.2410.07678
   url: https://dblp.org/rec/journals/corr/abs-2410-07678
+- author: Ruiqi Zheng, Liang Qu, Guanhua Ye, Tong Chen 0005, Yuhui Shi, Hongzhi Yin
+  title: 'DecKG: Decentralized Collaborative Learning with Knowledge Graph Enhancement
+    for POI Recommendation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-10130
+  doi: 10.48550/ARXIV.2410.10130
+  ee: https://doi.org/10.48550/arXiv.2410.10130
+  url: https://dblp.org/rec/journals/corr/abs-2410-10130
+- author: Qiushi Lin, Hang Ma 0001
+  title: 'MFC-EQ: Mean-Field Control with Envelope Q-Learning for Moving Decentralized
+    Agents in Formation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-12062
+  doi: 10.48550/ARXIV.2410.12062
+  ee: https://doi.org/10.48550/arXiv.2410.12062
+  url: https://dblp.org/rec/journals/corr/abs-2410-12062
+- author: Sayan Biswas, Anne-Marie Kermarrec, Alexis Marouani, Rafael Pires 0001,
+    Rishi Sharma 0001, Martijn de Vos
+  title: Boosting Asynchronous Decentralized Learning with Model Fragmentation.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-12918
+  doi: 10.48550/ARXIV.2410.12918
+  ee: https://doi.org/10.48550/arXiv.2410.12918
+  url: https://dblp.org/rec/journals/corr/abs-2410-12918
+- author: Pengfei Li 0008, Jianyi Yang 0001, Adam Wierman, Shaolei Ren
+  title: Learning-Augmented Decentralized Online Convex Optimization in Networks.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-10158
+  doi: 10.48550/ARXIV.2306.10158
+  ee: https://doi.org/10.48550/arXiv.2306.10158
+  url: https://dblp.org/rec/journals/corr/abs-2306-10158

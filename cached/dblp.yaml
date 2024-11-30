@@ -10182,3 +10182,48 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2306.10158
   ee: https://doi.org/10.48550/arXiv.2306.10158
   url: https://dblp.org/rec/journals/corr/abs-2306-10158
+- author: Sathwik Narkedimilli, Amballa Venkata Sriram, Satvik Raghav
+  title: 'FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure
+    Communication for Federated Learning Framework with Decentralized Attribute-Based
+    Encryption and Blockchain for IoT Scenarios.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-20259
+  doi: 10.48550/ARXIV.2410.20259
+  ee: https://doi.org/10.48550/arXiv.2410.20259
+  url: https://dblp.org/rec/journals/corr/abs-2410-20259
+- author: Monik Raj Behera, Suchetana Chakraborty
+  title: pFedGame - Decentralized Federated Learning using Game Theory in Dynamic
+    Topology.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-04058
+  doi: 10.48550/ARXIV.2410.04058
+  ee: https://doi.org/10.48550/arXiv.2410.04058
+  url: https://dblp.org/rec/journals/corr/abs-2410-04058
+- author: I-Cheng Lin, Osman Yagan, Carlee Joe-Wong
+  title: 'FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-18862
+  doi: 10.48550/ARXIV.2410.18862
+  ee: https://doi.org/10.48550/arXiv.2410.18862
+  url: https://dblp.org/rec/journals/corr/abs-2410-18862
+- author: Yuzhe Yang, Yipeng Du, Ahmad Farhan, Claudio Angione, Yue Zhao, Harry Yang,
+    Fielding Johnston, James Buban, Patrick Colangelo
+  title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-21340
+  doi: 10.48550/ARXIV.2410.21340
+  ee: https://doi.org/10.48550/arXiv.2410.21340
+  url: https://dblp.org/rec/journals/corr/abs-2410-21340

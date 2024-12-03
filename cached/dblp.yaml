@@ -3233,6 +3233,18 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-031-44213-1_38
   ee: https://doi.org/10.1007/978-3-031-44213-1_38
   url: https://dblp.org/rec/conf/icann/LiuTZC23
+- author: Qianpiao Ma, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao
+    Xie
+  title: Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized
+    Topology.
+  venue: WASA
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wasa/MaLJZHX24
+  doi: 10.1007/978-3-031-71467-2_9
+  ee: https://doi.org/10.1007/978-3-031-71467-2_9
+  url: https://dblp.org/rec/conf/wasa/MaLJZHX24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

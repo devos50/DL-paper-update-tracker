@@ -3543,6 +3543,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
   doi: 10.1109/TSIPN.2017.2662618
   ee: https://doi.org/10.1109/TSIPN.2017.2662618
   url: https://dblp.org/rec/journals/tsipn/KoppelWSR17
+- author: Zhixiong Yang 0002, Waheed U. Bajwa
+  title: 'ByRDiE: Byzantine-Resilient Distributed Coordinate Descent for Decentralized
+    Learning.'
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/YangB19
+  doi: 10.1109/TSIPN.2019.2928176
+  ee: https://doi.org/10.1109/TSIPN.2019.2928176
+  url: https://dblp.org/rec/journals/tsipn/YangB19
 decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
 - author: Michael Duchesne, Kaiwen Zhang 0001, Chamseddine Talhi
   title: 'MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized
@@ -10239,3 +10250,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.21340
   ee: https://doi.org/10.48550/arXiv.2410.21340
   url: https://dblp.org/rec/journals/corr/abs-2410-21340
+- author: Zhixiong Yang 0002, Arpita Gang, Waheed U. Bajwa
+  title: 'Adversary-resilient Inference and Machine Learning: From Distributed to
+    Decentralized.'
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1908-08649
+  doi: ''
+  ee: http://arxiv.org/abs/1908.08649
+  url: https://dblp.org/rec/journals/corr/abs-1908-08649
+- author: Zhixiong Yang 0002, Waheed U. Bajwa
+  title: 'ByRDiE: Byzantine-resilient distributed coordinate descent for decentralized
+    learning.'
+  venue: CoRR
+  year: '2017'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1708-08155
+  doi: ''
+  ee: http://arxiv.org/abs/1708.08155
+  url: https://dblp.org/rec/journals/corr/abs-1708-08155

@@ -3245,6 +3245,28 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-031-71467-2_9
   ee: https://doi.org/10.1007/978-3-031-71467-2_9
   url: https://dblp.org/rec/conf/wasa/MaLJZHX24
+- author: "Yasin Maan Yousif, J\xF6rg P. M\xFCller"
+  title: Adaptive Learning of Centralized and Decentralized Rewards in Multi-agent
+    Imitation Learning.
+  venue: PAAMS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/paams/YousifM24
+  doi: 10.1007/978-3-031-70415-4_23
+  ee: https://doi.org/10.1007/978-3-031-70415-4_23
+  url: https://dblp.org/rec/conf/paams/YousifM24
+- author: Yu Wei, Satoshi Nakagawa, Tomohiro Tanikawa, Yasuo Kuniyoshi
+  title: Emergence of Grounded Language Representations for Continuous Object Properties
+    Through Decentralized Embodied Learning.
+  venue: PRICAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pricai/WeiNTK24
+  doi: 10.1007/978-981-96-0119-6_20
+  ee: https://doi.org/10.1007/978-981-96-0119-6_20
+  url: https://dblp.org/rec/conf/pricai/WeiNTK24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

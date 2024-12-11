@@ -1390,7 +1390,18 @@ decentralized%20learning%20streamid%3Aconf%2Fsp%3A:
   doi: 10.1109/SP46215.2023.10179291
   ee: https://doi.org/10.1109/SP46215.2023.10179291
   url: https://dblp.org/rec/conf/sp/PasquiniRT23
-decentralized%20learning%20venue%3ACCS%3A: []
+decentralized%20learning%20venue%3ACCS%3A:
+- author: Minghong Fang, Zifan Zhang, Hairi, Prashant Khanduri, Jia Liu 0002, Songtao
+    Lu, Yuchen Liu, Neil Gong 0001
+  title: Byzantine-Robust Decentralized Federated Learning.
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/FangZHK0LL024
+  doi: 10.1145/3658644.3670307
+  ee: https://doi.org/10.1145/3658644.3670307
+  url: https://dblp.org/rec/conf/ccs/FangZHK0LL024
 decentralized%20learning%20streamid%3Aconf%2Fuss%3A: []
 decentralized%20learning%20venue%3ANDSS%3A: []
 decentralized%20learning%20venue%3ACVPR%3A:
@@ -10294,3 +10305,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1708.08155
   url: https://dblp.org/rec/journals/corr/abs-1708-08155
+- author: Lina Wang, Yunsheng Yuan, Feng Li 0002, Lingjie Duan
+  title: ROSS:RObust decentralized Stochastic learning based on Shapley values.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-00365
+  doi: 10.48550/ARXIV.2411.00365
+  ee: https://doi.org/10.48550/arXiv.2411.00365
+  url: https://dblp.org/rec/journals/corr/abs-2411-00365

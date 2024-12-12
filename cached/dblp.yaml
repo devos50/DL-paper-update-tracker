@@ -1402,6 +1402,17 @@ decentralized%20learning%20venue%3ACCS%3A:
   doi: 10.1145/3658644.3670307
   ee: https://doi.org/10.1145/3658644.3670307
   url: https://dblp.org/rec/conf/ccs/FangZHK0LL024
+- author: Minghong Fang, Zifan Zhang, Hairi, Prashant Khanduri, Jia Liu 0002, Songtao
+    Lu, Yuchen Liu 0001, Neil Gong 0001
+  title: Byzantine-Robust Decentralized Federated Learning.
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/FangZHK0LL024
+  doi: 10.1145/3658644.3670307
+  ee: https://doi.org/10.1145/3658644.3670307
+  url: https://dblp.org/rec/conf/ccs/FangZHK0LL024
 decentralized%20learning%20streamid%3Aconf%2Fuss%3A: []
 decentralized%20learning%20venue%3ANDSS%3A: []
 decentralized%20learning%20venue%3ACVPR%3A:
@@ -3278,6 +3289,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-96-0119-6_20
   ee: https://doi.org/10.1007/978-981-96-0119-6_20
   url: https://dblp.org/rec/conf/pricai/WeiNTK24
+- author: Hsin-Pai Cheng, Patrick Yu, Haojing Hu, Syed Zawad, Feng Yan 0001, Shiyu
+    Li 0001, Hai Helen Li, Yiran Chen 0001
+  title: Towards Decentralized Deep Learning with Differential Privacy.
+  venue: CLOUD
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cloud2/ChengYHZ0LLC19
+  doi: 10.1007/978-3-030-23502-4_10
+  ee: https://doi.org/10.1007/978-3-030-23502-4_10
+  url: https://dblp.org/rec/conf/cloud2/ChengYHZ0LLC19
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao
@@ -10315,3 +10337,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2411.00365
   ee: https://doi.org/10.48550/arXiv.2411.00365
   url: https://dblp.org/rec/journals/corr/abs-2411-00365
+- author: Hsin-Pai Cheng, Patrick Yu, Haojing Hu, Feng Yan 0001, Shiyu Li 0001, Hai
+    Li 0001, Yiran Chen 0001
+  title: 'LEASGD: an Efficient and Privacy-Preserving Decentralized Algorithm for
+    Distributed Learning.'
+  venue: CoRR
+  year: '2018'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1811-11124
+  doi: ''
+  ee: http://arxiv.org/abs/1811.11124
+  url: https://dblp.org/rec/journals/corr/abs-1811-11124

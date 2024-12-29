@@ -10349,3 +10349,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1811.11124
   url: https://dblp.org/rec/journals/corr/abs-1811-11124
+- author: Hoon Lee, Seung-Wook Kim 0002
+  title: 'Task-Oriented Edge Networks: Decentralized Learning Over Wireless Fronthaul.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-01288
+  doi: 10.48550/ARXIV.2312.01288
+  ee: https://doi.org/10.48550/arXiv.2312.01288
+  url: https://dblp.org/rec/journals/corr/abs-2312-01288

@@ -10359,3 +10359,82 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2312.01288
   ee: https://doi.org/10.48550/arXiv.2312.01288
   url: https://dblp.org/rec/journals/corr/abs-2312-01288
+- author: Vade Shah, Bryce L. Ferguson, Jason R. Marden
+  title: Two-Sided Learning in Decentralized Matching Markets.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-02377
+  doi: 10.48550/ARXIV.2411.02377
+  ee: https://doi.org/10.48550/arXiv.2411.02377
+  url: https://dblp.org/rec/journals/corr/abs-2411-02377
+- author: Shuyuan Wu, Bin Du, Xuetong Li, Hansheng Wang
+  title: Network EM Algorithm for Gaussian Mixture Model in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-05591
+  doi: 10.48550/ARXIV.2411.05591
+  ee: https://doi.org/10.48550/arXiv.2411.05591
+  url: https://dblp.org/rec/journals/corr/abs-2411-05591
+- author: Liang Zhao 0004, Shenglin Geng, Xiongyan Tang, Ammar Hawbani, Yunhe Sun,
+    Lexi Xu, Daniele Tarchi
+  title: 'ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous
+    LEO Satellite Constellation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-07752
+  doi: 10.48550/ARXIV.2411.07752
+  ee: https://doi.org/10.48550/arXiv.2411.07752
+  url: https://dblp.org/rec/journals/corr/abs-2411-07752
+- author: Devansh Gupta, A. S. Poornash, Andrew Lowy, Meisam Razaviyayn
+  title: A Stochastic Optimization Framework for Private and Fair Learning From Decentralized
+    Data.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-07889
+  doi: 10.48550/ARXIV.2411.07889
+  ee: https://doi.org/10.48550/arXiv.2411.07889
+  url: https://dblp.org/rec/journals/corr/abs-2411-07889
+- author: "Pablo Fern\xE1ndez-Pi\xF1eiro, Manuel Fer\xE1ndez-Veiga, Rebeca P. D\xED\
+    az Redondo, Ana Fern\xE1ndez Vilas, Mart\xEDn Gonz\xE1lez Soto"
+  title: Towards efficient compression and communication for prototype-based decentralized
+    learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-09267
+  doi: 10.48550/ARXIV.2411.09267
+  ee: https://doi.org/10.48550/arXiv.2411.09267
+  url: https://dblp.org/rec/journals/corr/abs-2411-09267
+- author: Luca Palazzo, Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto,
+    Simone Palazzo, Concetto Spampinato
+  title: 'FedRewind: Rewinding Continual Model Exchange for Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-09842
+  doi: 10.48550/ARXIV.2411.09842
+  ee: https://doi.org/10.48550/arXiv.2411.09842
+  url: https://dblp.org/rec/journals/corr/abs-2411-09842
+- author: Md. Saiful Bari Siddiqui, Md Mohaiminul Islam, Md. Golam Rabiul Alam
+  title: 'An Extensive Study on D2C: Overfitting Remediation in Deep Learning Using
+    a Decentralized Approach.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-15876
+  doi: 10.48550/ARXIV.2411.15876
+  ee: https://doi.org/10.48550/arXiv.2411.15876
+  url: https://dblp.org/rec/journals/corr/abs-2411-15876

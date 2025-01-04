@@ -1809,6 +1809,16 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2021.3138848
   ee: https://doi.org/10.1109/TPDS.2021.3138848
   url: https://dblp.org/rec/journals/tpds/LiSWDMSHP22
+- author: Jialiang Han, Yudong Han, Xiang Jing, Gang Huang 0001, Yun Ma 0002
+  title: 'DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/HanHJHM25
+  doi: 10.1109/TPDS.2024.3501581
+  ee: https://doi.org/10.1109/TPDS.2024.3501581
+  url: https://dblp.org/rec/journals/tpds/HanHJHM25
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -2799,6 +2809,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3407584
   ee: https://doi.org/10.1109/JIOT.2024.3407584
   url: https://dblp.org/rec/journals/iotj/YuanWSYB24
+- author: Kai Xiong 0001, Rui Wang, Supeng Leng, Chongwen Huang, Chau Yuen
+  title: RIS-Empowered Topology Control for Decentralized Federated Learning in Urban
+    Air Mobility.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/XiongWLHY24
+  doi: 10.1109/JIOT.2024.3453964
+  ee: https://doi.org/10.1109/JIOT.2024.3453964
+  url: https://dblp.org/rec/journals/iotj/XiongWLHY24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -3300,6 +3321,29 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-030-23502-4_10
   ee: https://doi.org/10.1007/978-3-030-23502-4_10
   url: https://dblp.org/rec/conf/cloud2/ChengYHZ0LLC19
+- author: Saqr Khalil Saeed Thabet, Behnaz Soltani, Yipeng Zhou, Quan Z. Sheng, Shiting
+    Wen
+  title: 'Towards Efficient Decentralized Federated Learning: A Survey.'
+  venue: ADMA
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/adma/ThabetSZSW24
+  doi: 10.1007/978-981-96-0814-0_14
+  ee: https://doi.org/10.1007/978-981-96-0814-0_14
+  url: https://dblp.org/rec/conf/adma/ThabetSZSW24
+- author: Luca Palazzo, Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto,
+    Simone Palazzo, Concetto Spampinato
+  title: 'FedRewind: Rewinding Continual Model Exchange for Decentralized Federated
+    Learning.'
+  venue: ICPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpr/PalazzoPSBPS24
+  doi: 10.1007/978-3-031-78389-0_6
+  ee: https://doi.org/10.1007/978-3-031-78389-0_6
+  url: https://dblp.org/rec/conf/icpr/PalazzoPSBPS24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

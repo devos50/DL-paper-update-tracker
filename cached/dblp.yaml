@@ -1819,6 +1819,16 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2024.3501581
   ee: https://doi.org/10.1109/TPDS.2024.3501581
   url: https://dblp.org/rec/journals/tpds/HanHJHM25
+- author: Jialiang Han 0001, Yudong Han, Xiang Jing, Gang Huang 0001, Yun Ma 0002
+  title: 'DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/HanHJHM25
+  doi: 10.1109/TPDS.2024.3501581
+  ee: https://doi.org/10.1109/TPDS.2024.3501581
+  url: https://dblp.org/rec/journals/tpds/HanHJHM25
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -10482,3 +10492,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2411.15876
   ee: https://doi.org/10.48550/arXiv.2411.15876
   url: https://dblp.org/rec/journals/corr/abs-2411-15876
+- author: Jialiang Han 0001, Yun Ma 0002, Yudong Han
+  title: 'Demystifying Swarm Learning: A New Paradigm of Blockchain-based Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-05286
+  doi: ''
+  ee: https://arxiv.org/abs/2201.05286
+  url: https://dblp.org/rec/journals/corr/abs-2201-05286
+- author: Jialiang Han 0001, Yudong Han, Gang Huang 0001, Yun Ma 0002
+  title: 'DeFL: Decentralized Weight Aggregation for Cross-silo Federated Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2208-00848
+  doi: 10.48550/ARXIV.2208.00848
+  ee: https://doi.org/10.48550/arXiv.2208.00848
+  url: https://dblp.org/rec/journals/corr/abs-2208-00848

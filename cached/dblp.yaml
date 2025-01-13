@@ -2830,6 +2830,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3453964
   ee: https://doi.org/10.1109/JIOT.2024.3453964
   url: https://dblp.org/rec/journals/iotj/XiongWLHY24
+- author: Adam Piaseczny, Eric Ruzomberka, Rohit Parasnis, Christopher G. Brinton
+  title: 'Adversarial Node Placement in Decentralized Federated Learning: Maximum
+    Spanning-Centrality Strategy and Performance Analysis.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/PiasecznyRPB25
+  doi: 10.1109/JIOT.2024.3462674
+  ee: https://doi.org/10.1109/JIOT.2024.3462674
+  url: https://dblp.org/rec/journals/iotj/PiasecznyRPB25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

@@ -1829,6 +1829,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2024.3501581
   ee: https://doi.org/10.1109/TPDS.2024.3501581
   url: https://dblp.org/rec/journals/tpds/HanHJHM25
+- author: Jun Li 0004, Yumeng Shao, Kang Wei, Ming Ding 0001, Chuan Ma 0001, Long
+    Shi 0001, Zhu Han 0001, H. Vincent Poor
+  title: 'Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance
+    Analysis and Resource Allocation.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/LiSWDMSHP22
+  doi: 10.1109/TPDS.2021.3138848
+  ee: https://doi.org/10.1109/TPDS.2021.3138848
+  url: https://dblp.org/rec/journals/tpds/LiSWDMSHP22
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -10536,3 +10548,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.06885
   ee: https://doi.org/10.48550/arXiv.2408.06885
   url: https://dblp.org/rec/journals/corr/abs-2408-06885
+- author: Jun Li 0004, Yumeng Shao, Kang Wei, Ming Ding 0001, Chuan Ma 0001, Long
+    Shi 0001, Zhu Han 0001, H. Vincent Poor
+  title: 'Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance
+    Analysis and Resource Allocation.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2101-06905
+  doi: ''
+  ee: https://arxiv.org/abs/2101.06905
+  url: https://dblp.org/rec/journals/corr/abs-2101-06905

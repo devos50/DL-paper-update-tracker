@@ -10560,3 +10560,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2101.06905
   url: https://dblp.org/rec/journals/corr/abs-2101-06905
+- author: Leon Fernando, Billy Pik Lik Lau, Chau Yuen, U-Xuan Tan
+  title: A Scalable Decentralized Reinforcement Learning Framework for UAV Target
+    Localization Using Recurrent PPO.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-06231
+  doi: 10.48550/ARXIV.2412.06231
+  ee: https://doi.org/10.48550/arXiv.2412.06231
+  url: https://dblp.org/rec/journals/corr/abs-2412-06231
+- author: Qi Liu 0014, Bo Yang 0006, Zhaojian Wang, Dafeng Zhu, Xinyi Wang, Kai Ma
+    0001, Xinping Guan
+  title: Asynchronous Decentralized Federated Learning for Collaborative Fault Diagnosis
+    of PV Stations.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-13606
+  doi: ''
+  ee: https://arxiv.org/abs/2202.13606
+  url: https://dblp.org/rec/journals/corr/abs-2202-13606

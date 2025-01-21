@@ -10583,3 +10583,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2202.13606
   url: https://dblp.org/rec/journals/corr/abs-2202-13606
+- author: Alexander Long
+  title: Protocol Learning, Decentralized Frontier Risk and the No-Off Problem.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-07890
+  doi: 10.48550/ARXIV.2412.07890
+  ee: https://doi.org/10.48550/arXiv.2412.07890
+  url: https://dblp.org/rec/journals/corr/abs-2412-07890

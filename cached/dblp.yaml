@@ -10593,3 +10593,48 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2412.07890
   ee: https://doi.org/10.48550/arXiv.2412.07890
   url: https://dblp.org/rec/journals/corr/abs-2412-07890
+- author: "Pedro Miguel S\xE1nchez S\xE1nchez, Enrique Tom\xE1s Mart\xEDnez Beltr\xE1\
+    n, Miguel Fern\xE1ndez Llamas, G\xE9r\xF4me Bovet, Gregorio Mart\xEDnez P\xE9\
+    rez, Alberto Huertas Celdr\xE1n"
+  title: 'ProFe: Communication-Efficient Decentralized Federated Learning via Distillation
+    and Prototypes.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-11207
+  doi: 10.48550/ARXIV.2412.11207
+  ee: https://doi.org/10.48550/arXiv.2412.11207
+  url: https://dblp.org/rec/journals/corr/abs-2412-11207
+- author: Gangqiang Hu, Jianfeng Lu 0002, Jianmin Han, Shuqin Cao, Jing Liu, Hao Fu
+  title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-11448
+  doi: 10.48550/ARXIV.2412.11448
+  ee: https://doi.org/10.48550/arXiv.2412.11448
+  url: https://dblp.org/rec/journals/corr/abs-2412-11448
+- author: Hangyu Zhu, Yuxiang Fan, Zhenping Xie
+  title: 'UA-PDFL: A Personalized Approach for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-11674
+  doi: 10.48550/ARXIV.2412.11674
+  ee: https://doi.org/10.48550/arXiv.2412.11674
+  url: https://dblp.org/rec/journals/corr/abs-2412-11674
+- author: "Ousmane Touat, Jezekael Brunon, Yacine Belal, Julien Nicolas, Mohamed Maouche,\
+    \ C\xE9sar Sabater, Sonia Ben Mokhtar"
+  title: Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference
+    Attacks.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-12837
+  doi: 10.48550/ARXIV.2412.12837
+  ee: https://doi.org/10.48550/arXiv.2412.12837
+  url: https://dblp.org/rec/journals/corr/abs-2412-12837

@@ -10638,3 +10638,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2412.12837
   ee: https://doi.org/10.48550/arXiv.2412.12837
   url: https://dblp.org/rec/journals/corr/abs-2412-12837
+- author: Xinyang Liu, Pengchao Han, Xuan Li, Bo Liu 0039
+  title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-13589
+  doi: 10.48550/ARXIV.2412.13589
+  ee: https://doi.org/10.48550/arXiv.2412.13589
+  url: https://dblp.org/rec/journals/corr/abs-2412-13589

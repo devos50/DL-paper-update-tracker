@@ -10648,3 +10648,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2412.13589
   ee: https://doi.org/10.48550/arXiv.2412.13589
   url: https://dblp.org/rec/journals/corr/abs-2412-13589
+- author: Ali Forootani, Raffaele Iervolino
+  title: 'Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-17723
+  doi: 10.48550/ARXIV.2412.17723
+  ee: https://doi.org/10.48550/arXiv.2412.17723
+  url: https://dblp.org/rec/journals/corr/abs-2412-17723
+- author: Gabriele Calzolari, Vidya Sumathy, Christoforos Kanellakis, George Nikolakopoulos
+  title: Investigating the Impact of Communication-Induced Action Space on Exploration
+    of Unknown Environments with Decentralized Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-20075
+  doi: 10.48550/ARXIV.2412.20075
+  ee: https://doi.org/10.48550/arXiv.2412.20075
+  url: https://dblp.org/rec/journals/corr/abs-2412-20075

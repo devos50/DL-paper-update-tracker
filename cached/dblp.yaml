@@ -10670,3 +10670,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2412.20075
   ee: https://doi.org/10.48550/arXiv.2412.20075
   url: https://dblp.org/rec/journals/corr/abs-2412-20075
+- author: Xi Lin 0006, Yewei Huang, Fanfei Chen, Brendan J. Englot
+  title: Decentralized Multi-Robot Navigation for Autonomous Surface Vehicles with
+    Distributional Reinforcement Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2402-11799
+  doi: 10.48550/ARXIV.2402.11799
+  ee: https://doi.org/10.48550/arXiv.2402.11799
+  url: https://dblp.org/rec/journals/corr/abs-2402-11799

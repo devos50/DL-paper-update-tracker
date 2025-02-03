@@ -10681,3 +10681,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2402.11799
   ee: https://doi.org/10.48550/arXiv.2402.11799
   url: https://dblp.org/rec/journals/corr/abs-2402-11799
+- author: "Diego Cajaraville-Aboy, Ana Fern\xE1ndez Vilas, Rebeca P. D\xEDaz Redondo,\
+    \ Manuel Fern\xE1ndez-Veiga"
+  title: Byzantine-Robust Aggregation for Securing Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-17754
+  doi: 10.48550/ARXIV.2409.17754
+  ee: https://doi.org/10.48550/arXiv.2409.17754
+  url: https://dblp.org/rec/journals/corr/abs-2409-17754

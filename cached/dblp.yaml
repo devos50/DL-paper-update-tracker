@@ -10703,3 +10703,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2409.17754
   ee: https://doi.org/10.48550/arXiv.2409.17754
   url: https://dblp.org/rec/journals/corr/abs-2409-17754
+- author: Dong Chen 0016, Kaixiang Zhang 0001, Yongqiang Wang, Xunyuan Yin, Zhaojian
+    Li
+  title: Communication-Efficient Decentralized Multi-Agent Reinforcement Learning
+    for Cooperative Adaptive Cruise Control.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-02345
+  doi: 10.48550/ARXIV.2308.02345
+  ee: https://doi.org/10.48550/arXiv.2308.02345
+  url: https://dblp.org/rec/journals/corr/abs-2308-02345

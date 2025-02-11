@@ -363,6 +363,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V37I10.26382
   ee: https://doi.org/10.1609/aaai.v37i10.26382
   url: https://dblp.org/rec/conf/aaai/WangDLS23
+- author: Guojun Xiong, Gang Yan 0002, Shiqiang Wang 0001, Jian Li 0008
+  title: 'DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized
+    Learning with Shared Representations.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/XiongY0L24
+  doi: 10.1609/AAAI.V38I14.29543
+  ee: https://doi.org/10.1609/aaai.v38i14.29543
+  url: https://dblp.org/rec/conf/aaai/XiongY0L24
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -10715,3 +10726,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2308.02345
   ee: https://doi.org/10.48550/arXiv.2308.02345
   url: https://dblp.org/rec/journals/corr/abs-2308-02345
+- author: Guojun Xiong, Gang Yan 0002, Shiqiang Wang 0001, Jian Li 0008
+  title: Straggler-Resilient Decentralized Learning via Adaptive Asynchronous Updates.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-06559
+  doi: 10.48550/ARXIV.2306.06559
+  ee: https://doi.org/10.48550/arXiv.2306.06559
+  url: https://dblp.org/rec/journals/corr/abs-2306-06559
+- author: Dong Chen 0016, Kaixiang Zhang 0001, Yongqiang Wang 0001, Xunyuan Yin, Zhaojian
+    Li
+  title: Communication-Efficient Decentralized Multi-Agent Reinforcement Learning
+    for Cooperative Adaptive Cruise Control.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-02345
+  doi: 10.48550/ARXIV.2308.02345
+  ee: https://doi.org/10.48550/arXiv.2308.02345
+  url: https://dblp.org/rec/journals/corr/abs-2308-02345
+- author: Guojun Xiong, Gang Yan 0002, Shiqiang Wang 0001, Jian Li 0008
+  title: 'DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized
+    Learning with Shared Representations.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-10815
+  doi: 10.48550/ARXIV.2312.10815
+  ee: https://doi.org/10.48550/arXiv.2312.10815
+  url: https://dblp.org/rec/journals/corr/abs-2312-10815

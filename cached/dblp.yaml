@@ -1389,6 +1389,18 @@ decentralized%20learning%20venue%3AKDD%3A:
   doi: 10.1145/3637528.3671582
   ee: https://doi.org/10.1145/3637528.3671582
   url: https://dblp.org/rec/conf/kdd/YeWCLLXDWC24
+- author: Rui Ye, Wenhao Wang 0002, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin
+    Du, Yanfeng Wang 0001, Siheng Chen
+  title: 'OpenFedLLM: Training Large Language Models on Decentralized Private Data
+    via Federated Learning.'
+  venue: KDD
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/YeWCLLXDWC24
+  doi: 10.1145/3637528.3671582
+  ee: https://doi.org/10.1145/3637528.3671582
+  url: https://dblp.org/rec/conf/kdd/YeWCLLXDWC24
 decentralized%20learning%20venue%3AWSDM%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fsp%3A:
 - author: Dario Pasquini, Mathilde Raynal, Carmela Troncoso
@@ -2864,6 +2876,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3462674
   ee: https://doi.org/10.1109/JIOT.2024.3462674
   url: https://dblp.org/rec/journals/iotj/PiasecznyRPB25
+- author: Weihao Zhu, Long Shi 0001, Jun Li 0004, Bin Cao 0002, Kang Wei, Zhe Wang
+    0005, Tao Huang 0008
+  title: 'Trustworthy Blockchain-Assisted Federated Learning: Decentralized Reputation
+    Management and Performance Optimization.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhuSLCWWH25
+  doi: 10.1109/JIOT.2024.3480995
+  ee: https://doi.org/10.1109/JIOT.2024.3480995
+  url: https://dblp.org/rec/journals/iotj/ZhuSLCWWH25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -10759,3 +10783,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2312.10815
   ee: https://doi.org/10.48550/arXiv.2312.10815
   url: https://dblp.org/rec/journals/corr/abs-2312-10815
+- author: Rui Ye, Wenhao Wang 0002, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin
+    Du, Yanfeng Wang 0001, Siheng Chen
+  title: 'OpenFedLLM: Training Large Language Models on Decentralized Private Data
+    via Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2402-06954
+  doi: 10.48550/ARXIV.2402.06954
+  ee: https://doi.org/10.48550/arXiv.2402.06954
+  url: https://dblp.org/rec/journals/corr/abs-2402-06954
+- author: Qianyu Long, Qiyuan Wang 0003, Christos Anagnostopoulos, Daning Bi
+  title: Decentralized Personalized Federated Learning based on a Conditional Sparse-to-Sparser
+    Scheme.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2404-15943
+  doi: 10.48550/ARXIV.2404.15943
+  ee: https://doi.org/10.48550/arXiv.2404.15943
+  url: https://dblp.org/rec/journals/corr/abs-2404-15943

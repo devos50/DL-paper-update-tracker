@@ -1594,6 +1594,16 @@ decentralized%20learning%20venue%3AICDE%3A:
   doi: 10.1109/ICDE51399.2021.00040
   ee: https://doi.org/10.1109/ICDE51399.2021.00040
   url: https://dblp.org/rec/conf/icde/ZhouLLOWY21
+- author: Qiying Pan, Yifei Zhu 0001, Lingyang Chu
+  title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices.'
+  venue: ICDE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/PanZC23
+  doi: 10.1109/ICDE55515.2023.00149
+  ee: https://doi.org/10.1109/ICDE55515.2023.00149
+  url: https://dblp.org/rec/conf/icde/PanZC23
 decentralized%20learning%20streamid%3Ajournals%2Fpvldb%3A: []
 decentralized%20learning%20venue%3ASIGCOMM%3A: []
 decentralized%20learning%20venue%3AINFOCOM%3A:
@@ -10806,3 +10816,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2404.15943
   ee: https://doi.org/10.48550/arXiv.2404.15943
   url: https://dblp.org/rec/journals/corr/abs-2404-15943
+- author: Qiying Pan, Yifei Zhu 0001, Lingyang Chu
+  title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2303-00492
+  doi: 10.48550/ARXIV.2303.00492
+  ee: https://doi.org/10.48550/arXiv.2303.00492
+  url: https://dblp.org/rec/journals/corr/abs-2303-00492
+- author: Mengyuan Li, Bin Guo 0001, Jiangshan Zhang, Jiaqi Liu 0002, Sicong Liu 0005,
+    Zhiwen Yu 0001, Zhetao Li, Liyao Xiang
+  title: Decentralized Multi-AGV Task Allocation based on Multi-Agent Reinforcement
+    Learning with Information Potential Field Rewards.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-06886
+  doi: ''
+  ee: https://arxiv.org/abs/2108.06886
+  url: https://dblp.org/rec/journals/corr/abs-2108-06886

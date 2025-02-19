@@ -10838,3 +10838,58 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2108.06886
   url: https://dblp.org/rec/journals/corr/abs-2108-06886
+- author: "Chao Feng, Yuanzhe Gao, Alberto Huertas Celdr\xE1n, G\xE9r\xF4me Bovet,\
+    \ Burkhard Stiller"
+  title: 'From Models to Network Topologies: A Topology Inference Attack in Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03119
+  doi: 10.48550/ARXIV.2501.03119
+  ee: https://doi.org/10.48550/arXiv.2501.03119
+  url: https://dblp.org/rec/journals/corr/abs-2501-03119
+- author: Muyun Li, Aaron Fainman, Stefan Vlaski
+  title: Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03162
+  doi: 10.48550/ARXIV.2501.03162
+  ee: https://doi.org/10.48550/arXiv.2501.03162
+  url: https://dblp.org/rec/journals/corr/abs-2501-03162
+- author: Meryem Malak Dif, Mouhamed Amine Bouchiha, Mourad Rabah, Yacine Ghamri-Doudane
+  title: 'AutoDFL: A Scalable and Automated Reputation-Aware Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-04331
+  doi: 10.48550/ARXIV.2501.04331
+  ee: https://doi.org/10.48550/arXiv.2501.04331
+  url: https://dblp.org/rec/journals/corr/abs-2501-04331
+- author: Xiaoye Miao, Bin Li, Yangyang Wu, Meng Xi 0002, Xinkui Zhao, Jianwei Yin
+  title: Lossless Privacy-Preserving Aggregation for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-04409
+  doi: 10.48550/ARXIV.2501.04409
+  ee: https://doi.org/10.48550/arXiv.2501.04409
+  url: https://dblp.org/rec/journals/corr/abs-2501-04409
+- author: Bin Li, Xiaoye Miao, Yongheng Shang, Xinkui Zhao, Shuiguang Deng, Jianwei
+    Yin
+  title: 'Gradient Purification: Defense Against Poisoning Attack in Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-04453
+  doi: 10.48550/ARXIV.2501.04453
+  ee: https://doi.org/10.48550/arXiv.2501.04453
+  url: https://dblp.org/rec/journals/corr/abs-2501-04453

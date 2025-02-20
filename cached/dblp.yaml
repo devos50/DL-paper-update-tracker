@@ -10893,3 +10893,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2501.04453
   ee: https://doi.org/10.48550/arXiv.2501.04453
   url: https://dblp.org/rec/journals/corr/abs-2501-04453
+- author: Mohamed Elmahallawy, Tie Luo 0001, Mohamed I. Ibrahem
+  title: Secure and Efficient Federated Learning in LEO Constellations using Decentralized
+    Key Generation and On-Orbit Model Aggregation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-01828
+  doi: 10.48550/ARXIV.2309.01828
+  ee: https://doi.org/10.48550/arXiv.2309.01828
+  url: https://dblp.org/rec/journals/corr/abs-2309-01828

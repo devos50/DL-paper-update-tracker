@@ -10904,3 +10904,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2309.01828
   ee: https://doi.org/10.48550/arXiv.2309.01828
   url: https://dblp.org/rec/journals/corr/abs-2309-01828
+- author: Sean Augenstein, Andrew Hard, Lin Ning 0001, Karan Singhal, Satyen Kale,
+    Kurt Partridge, Rajiv Mathews
+  title: 'Mixed Federated Learning: Joint Decentralized and Centralized Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-13655
+  doi: 10.48550/ARXIV.2205.13655
+  ee: https://doi.org/10.48550/arXiv.2205.13655
+  url: https://dblp.org/rec/journals/corr/abs-2205-13655
+- author: Lin Wang, Yang Chen, Yongxin Guo, Xiaoying Tang 0002
+  title: 'Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-04460
+  doi: 10.48550/ARXIV.2407.04460
+  ee: https://doi.org/10.48550/arXiv.2407.04460
+  url: https://dblp.org/rec/journals/corr/abs-2407-04460

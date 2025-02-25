@@ -10926,3 +10926,37 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2407.04460
   ee: https://doi.org/10.48550/arXiv.2407.04460
   url: https://dblp.org/rec/journals/corr/abs-2407-04460
+- author: Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David
+    J. Love, Christopher G. Brinton
+  title: Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-09320
+  doi: 10.48550/ARXIV.2501.09320
+  ee: https://doi.org/10.48550/arXiv.2501.09320
+  url: https://dblp.org/rec/journals/corr/abs-2501-09320
+- author: "Chao Feng, Nicolas Fazli Kohler, Alberto Huertas Celdr\xE1n, G\xE9r\xF4\
+    me Bovet, Burkhard Stiller"
+  title: 'ColNet: Collaborative Optimization in Decentralized Federated Multi-task
+    Learning Systems.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-10347
+  doi: 10.48550/ARXIV.2501.10347
+  ee: https://doi.org/10.48550/arXiv.2501.10347
+  url: https://dblp.org/rec/journals/corr/abs-2501-10347
+- author: Nan Yang, Dong Yuan 0001, Charles Z. Liu, Yongkun Deng, Wei Bao 0001
+  title: 'FedIL: Federated Incremental Learning from Decentralized Unlabeled Data
+    with Convergence Analysis.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-11823
+  doi: 10.48550/ARXIV.2302.11823
+  ee: https://doi.org/10.48550/arXiv.2302.11823
+  url: https://dblp.org/rec/journals/corr/abs-2302-11823

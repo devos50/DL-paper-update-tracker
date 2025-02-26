@@ -10960,3 +10960,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2302.11823
   ee: https://doi.org/10.48550/arXiv.2302.11823
   url: https://dblp.org/rec/journals/corr/abs-2302-11823
+- author: Ahmed Mounsf Rafik Bendada, Abdelaziz Amara Korba, Mouhamed Amine Bouchiha,
+    Yacine Ghamri-Doudane
+  title: 'BotDetect: A Decentralized Federated Learning Framework for Detecting Financial
+    Bots on the EVM Blockchains.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-12112
+  doi: 10.48550/ARXIV.2501.12112
+  ee: https://doi.org/10.48550/arXiv.2501.12112
+  url: https://dblp.org/rec/journals/corr/abs-2501-12112
+- author: "Nurbek Tastan, Samuel Horv\xE1th, Karthik Nandakumar"
+  title: 'CYCle: Choosing Your Collaborators Wisely to Enhance Collaborative Fairness
+    in Decentralized Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-12344
+  doi: 10.48550/ARXIV.2501.12344
+  ee: https://doi.org/10.48550/arXiv.2501.12344
+  url: https://dblp.org/rec/journals/corr/abs-2501-12344

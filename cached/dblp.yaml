@@ -10983,3 +10983,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2501.12344
   ee: https://doi.org/10.48550/arXiv.2501.12344
   url: https://dblp.org/rec/journals/corr/abs-2501-12344
+- author: Jian Zhao 0018, Xunhan Hu, Mingyu Yang, Wengang Zhou 0001, Jiangcheng Zhu,
+    Houqiang Li
+  title: 'CTDS: Centralized Teacher with Decentralized Student for Multi-Agent Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-08412
+  doi: 10.48550/ARXIV.2203.08412
+  ee: https://doi.org/10.48550/arXiv.2203.08412
+  url: https://dblp.org/rec/journals/corr/abs-2203-08412

@@ -11074,3 +11074,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2501.19279
   ee: https://doi.org/10.48550/arXiv.2501.19279
   url: https://dblp.org/rec/journals/corr/abs-2501-19279
+- author: Luning Bi, Yunlong Wang 0001, Fan Zhang, Zhuqing Liu, Yong Cai 0001, Emily
+    Zhao
+  title: 'FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for
+    Doctor Recommendation Using EHR.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-05750
+  doi: 10.48550/ARXIV.2207.05750
+  ee: https://doi.org/10.48550/arXiv.2207.05750
+  url: https://dblp.org/rec/journals/corr/abs-2207-05750

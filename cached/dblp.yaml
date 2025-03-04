@@ -1874,6 +1874,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2021.3138848
   ee: https://doi.org/10.1109/TPDS.2021.3138848
   url: https://dblp.org/rec/journals/tpds/LiSWDMSHP22
+- author: Chunjiang Che, Xiaoli Li 0016, Chuan Chen 0001, Xiaoyu He 0001, Zibin Zheng
+  title: A Decentralized Federated Learning Framework via Committee Mechanism With
+    Convergence Guarantee.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/CheLCHZ22
+  doi: 10.1109/TPDS.2022.3202887
+  ee: https://doi.org/10.1109/TPDS.2022.3202887
+  url: https://dblp.org/rec/journals/tpds/CheLCHZ22
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -11086,3 +11097,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2207.05750
   ee: https://doi.org/10.48550/arXiv.2207.05750
   url: https://dblp.org/rec/journals/corr/abs-2207-05750
+- author: Chunjiang Che, Xiaoli Li 0016, Chuan Chen 0001, Xiaoyu He 0001, Zibin Zheng
+  title: A Decentralized Federated Learning Framework via Committee Mechanism with
+    Convergence Guarantee.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-00365
+  doi: ''
+  ee: https://arxiv.org/abs/2108.00365
+  url: https://dblp.org/rec/journals/corr/abs-2108-00365

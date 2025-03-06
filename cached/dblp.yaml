@@ -11108,3 +11108,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2108.00365
   url: https://dblp.org/rec/journals/corr/abs-2108-00365
+- author: Minghao Yang, Jingjing Zhang 0002, Shengyun Liu
+  title: 'DFedSat: Communication-Efficient and Robust Decentralized Federated Learning
+    for LEO Satellite Constellations.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-05850
+  doi: 10.48550/ARXIV.2407.05850
+  ee: https://doi.org/10.48550/arXiv.2407.05850
+  url: https://dblp.org/rec/journals/corr/abs-2407-05850

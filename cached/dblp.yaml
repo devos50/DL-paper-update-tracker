@@ -2318,6 +2318,29 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2024.3430392
   ee: https://doi.org/10.1109/ACCESS.2024.3430392
   url: https://dblp.org/rec/journals/access/SzostakC24
+- author: "Ahmet \xC7ifci"
+  title: Interpretable Prediction of a Decentralized Smart Grid Based on Machine Learning
+    and Explainable Artificial Intelligence.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/Cifci25
+  doi: 10.1109/ACCESS.2025.3543759
+  ee: https://doi.org/10.1109/ACCESS.2025.3543759
+  url: https://dblp.org/rec/journals/access/Cifci25
+- author: Vo van Truong, Pham Khanh Quan, Dong-Hwan Park, Taehong Kim
+  title: 'Performance Evaluation of Decentralized Federated Learning: Impact of Fully
+    and K-Connected Topologies, Heterogeneous Computing Resources, and Communication
+    Bandwidth.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/TruongQPK25
+  doi: 10.1109/ACCESS.2025.3542772
+  ee: https://doi.org/10.1109/ACCESS.2025.3542772
+  url: https://dblp.org/rec/journals/access/TruongQPK25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

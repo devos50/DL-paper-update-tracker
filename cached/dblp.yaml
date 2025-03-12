@@ -11173,3 +11173,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2111.08274
   url: https://dblp.org/rec/journals/corr/abs-2111-08274
+- author: "Pedro Valdeira, Yuejie Chi, Cl\xE1udia Soares, Jo\xE3o Xavier 0001"
+  title: A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated
+    Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-09977
+  doi: 10.48550/ARXIV.2309.09977
+  ee: https://doi.org/10.48550/arXiv.2309.09977
+  url: https://dblp.org/rec/journals/corr/abs-2309-09977

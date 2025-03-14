@@ -2942,6 +2942,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3480995
   ee: https://doi.org/10.1109/JIOT.2024.3480995
   url: https://dblp.org/rec/journals/iotj/ZhuSLCWWH25
+- author: Mengli Wei, Wenwu Yu, Duxin Chen
+  title: 'AccDFL: Accelerated Decentralized Federated Learning for Healthcare IoT
+    Networks.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WeiYC25
+  doi: 10.1109/JIOT.2024.3486122
+  ee: https://doi.org/10.1109/JIOT.2024.3486122
+  url: https://dblp.org/rec/journals/iotj/WeiYC25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -11184,3 +11195,46 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2309.09977
   ee: https://doi.org/10.48550/arXiv.2309.09977
   url: https://dblp.org/rec/journals/corr/abs-2309-09977
+- author: "Chao Feng, Yunlong Li, Yuanzhe Gao, Alberto Huertas Celdr\xE1n, Jan von\
+    \ der Assen, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model
+    Differences.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-04771
+  doi: 10.48550/ARXIV.2502.04771
+  ee: https://doi.org/10.48550/arXiv.2502.04771
+  url: https://dblp.org/rec/journals/corr/abs-2502-04771
+- author: Changxi Zhu, Mehdi Dastani, Shihan Wang 0001
+  title: Reducing Variance Caused by Communication in Decentralized Multi-agent Deep
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-06261
+  doi: 10.48550/ARXIV.2502.06261
+  ee: https://doi.org/10.48550/arXiv.2502.06261
+  url: https://dblp.org/rec/journals/corr/abs-2502-06261
+- author: Mengchen Fan, Keren Li, Tianyun Zhang, Qing Tian, Baocheng Geng
+  title: 'PFedDST: Personalized Federated Learning with Decentralized Selection Training.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-07750
+  doi: 10.48550/ARXIV.2502.07750
+  ee: https://doi.org/10.48550/arXiv.2502.07750
+  url: https://dblp.org/rec/journals/corr/abs-2502-07750
+- author: "Cheng Fang, Rishabh Dixit, Waheed U. Bajwa, Mert G\xFCrb\xFCzbalaban"
+  title: 'RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-07977
+  doi: 10.48550/ARXIV.2502.07977
+  ee: https://doi.org/10.48550/arXiv.2502.07977
+  url: https://dblp.org/rec/journals/corr/abs-2502-07977

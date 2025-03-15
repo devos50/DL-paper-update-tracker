@@ -1120,6 +1120,26 @@ decentralized%20learning%20venue%3AUAI%3A:
   doi: ''
   ee: http://proceedings.mlr.press/v124/mohammad-asghari20a.html
   url: https://dblp.org/rec/conf/uai/Asghari0N20
+- author: Yaolong Yu, Haipeng Chen 0001
+  title: Decentralized Online Learning in General-Sum Stackelberg Games.
+  venue: UAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/Yu024
+  doi: ''
+  ee: https://proceedings.mlr.press/v244/yu24b.html
+  url: https://dblp.org/rec/conf/uai/Yu024
+- author: Yirui Zhang, Zhixuan Fang
+  title: Decentralized Two-Sided Bandit Learning in Matching Market.
+  venue: UAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/ZhangF24
+  doi: ''
+  ee: https://proceedings.mlr.press/v244/zhang24b.html
+  url: https://dblp.org/rec/conf/uai/ZhangF24
 decentralized%20learning%20streamid%3Ajournals%2Fml%3A:
 - author: Kejie Tang, Weidong Liu, Xiaojun Mao
   title: Multi-consensus decentralized primal-dual fixed point algorithm for distributed

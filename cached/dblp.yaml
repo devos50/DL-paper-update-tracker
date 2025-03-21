@@ -11258,3 +11258,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2502.07977
   ee: https://doi.org/10.48550/arXiv.2502.07977
   url: https://dblp.org/rec/journals/corr/abs-2502-07977
+- author: "Giuseppe Paolo, Abdelhakim Benechehab, Hamza Cherkaoui, Albert Thomas 0001,\
+    \ Bal\xE1zs K\xE9gl"
+  title: 'TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-15425
+  doi: 10.48550/ARXIV.2502.15425
+  ee: https://doi.org/10.48550/arXiv.2502.15425
+  url: https://dblp.org/rec/journals/corr/abs-2502-15425
+- author: Ehsan Hallaji, Roozbeh Razavi-Far, Mehrdad Saif
+  title: 'TrustChain: A Blockchain Framework for Auditing and Verifying Aggregators
+    in Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-16406
+  doi: 10.48550/ARXIV.2502.16406
+  ee: https://doi.org/10.48550/arXiv.2502.16406
+  url: https://dblp.org/rec/journals/corr/abs-2502-16406

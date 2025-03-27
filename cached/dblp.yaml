@@ -11325,3 +11325,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2502.20882
   ee: https://doi.org/10.48550/arXiv.2502.20882
   url: https://dblp.org/rec/journals/corr/abs-2502-20882
+- author: Xiaoyu Wang 0015, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu 0013
+  title: Decentralized Federated Learning with Model Caching on Mobile Agents.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-14001
+  doi: 10.48550/ARXIV.2408.14001
+  ee: https://doi.org/10.48550/arXiv.2408.14001
+  url: https://dblp.org/rec/journals/corr/abs-2408-14001

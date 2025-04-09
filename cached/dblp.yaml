@@ -374,6 +374,18 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V38I14.29543
   ee: https://doi.org/10.1609/aaai.v38i14.29543
   url: https://dblp.org/rec/conf/aaai/XiongY0L24
+- author: Chacha Chen, Hua Wei 0001, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong,
+    Kai Xu 0014, Zhenhui Li
+  title: 'Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for
+    Large-Scale Traffic Signal Control.'
+  venue: AAAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenWXZYXXL20
+  doi: 10.1609/AAAI.V34I04.5744
+  ee: https://doi.org/10.1609/aaai.v34i04.5744
+  url: https://dblp.org/rec/conf/aaai/ChenWXZYXXL20
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -2394,6 +2406,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3542772
   ee: https://doi.org/10.1109/ACCESS.2025.3542772
   url: https://dblp.org/rec/journals/access/TruongQPK25
+- author: Xiao Chen, Chao Feng, Shaohua Wang
+  title: 'AIDFL: An Information-Driven Anomaly Detector for Data Poisoning in Decentralized
+    Federated Learning.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChenFW25
+  doi: 10.1109/ACCESS.2025.3552168
+  ee: https://doi.org/10.1109/ACCESS.2025.3552168
+  url: https://dblp.org/rec/journals/access/ChenFW25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -11415,3 +11438,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2009.06021
   url: https://dblp.org/rec/journals/corr/abs-2009-06021
+- author: Qianyu Long, Qiyuan Wang 0003, Christos Anagnostopoulos 0001, Daning Bi
+  title: Decentralized Personalized Federated Learning based on a Conditional Sparse-to-Sparser
+    Scheme.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2404-15943
+  doi: 10.48550/ARXIV.2404.15943
+  ee: https://doi.org/10.48550/arXiv.2404.15943
+  url: https://dblp.org/rec/journals/corr/abs-2404-15943

@@ -386,6 +386,16 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V34I04.5744
   ee: https://doi.org/10.1609/aaai.v34i04.5744
   url: https://dblp.org/rec/conf/aaai/ChenWXZYXXL20
+- author: Jiechuan Jiang, Zongqing Lu 0002
+  title: Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/JiangL23
+  doi: 10.1609/AAAI.V37I7.25973
+  ee: https://doi.org/10.1609/aaai.v37i7.25973
+  url: https://dblp.org/rec/conf/aaai/JiangL23
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -751,6 +761,16 @@ decentralized%20learning%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2023/hash/7172e147d916eef4cb1eb30016ce725f-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/VosFGKP023
+- author: Jiechuan Jiang, Zongqing Lu 0002
+  title: 'I2Q: A Fully Decentralized Q-Learning Algorithm.'
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiangL22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/8078e8c3055303a884ffae2d3ea00338-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiangL22
 decentralized%20learning%20venue%3AICML%3A:
 - author: Matthieu Zimmer, Claire Glanois, Umer Siddique, Paul Weng
   title: Learning Fair Policies in Decentralized Cooperative Multi-Agent Reinforcement
@@ -3019,6 +3039,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3486122
   ee: https://doi.org/10.1109/JIOT.2024.3486122
   url: https://dblp.org/rec/journals/iotj/WeiYC25
+- author: Jingjing Wang, Hui Zhang, Xu Han, Jiaxiang Zhao, Jiangzhou Wang
+  title: Lyapunov-Assisted Decentralized Dynamic Offloading Strategy Based on Deep
+    Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WangZHZW25
+  doi: 10.1109/JIOT.2024.3498839
+  ee: https://doi.org/10.1109/JIOT.2024.3498839
+  url: https://dblp.org/rec/journals/iotj/WangZHZW25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -11449,3 +11480,46 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2404.15943
   ee: https://doi.org/10.48550/arXiv.2404.15943
   url: https://dblp.org/rec/journals/corr/abs-2404-15943
+- author: Jiechuan Jiang, Kefan Su, Zongqing Lu 0002
+  title: 'Fully Decentralized Cooperative Multi-Agent Reinforcement Learning: A Survey.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2401-04934
+  doi: 10.48550/ARXIV.2401.04934
+  ee: https://doi.org/10.48550/arXiv.2401.04934
+  url: https://dblp.org/rec/journals/corr/abs-2401-04934
+- author: Kefan Su, Siyuan Zhou, Chuang Gan, Xiangjun Wang, Zongqing Lu 0002
+  title: 'MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-08244
+  doi: 10.48550/ARXIV.2209.08244
+  ee: https://doi.org/10.48550/arXiv.2209.08244
+  url: https://dblp.org/rec/journals/corr/abs-2209-08244
+- author: Liwen Zhu 0003, Peixi Peng, Zongqing Lu 0002, Xiangqian Wang 0001, Yonghong
+    Tian 0001
+  title: Variationally and Intrinsically motivated reinforcement learning for decentralized
+    traffic signal control.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2101-00746
+  doi: ''
+  ee: https://arxiv.org/abs/2101.00746
+  url: https://dblp.org/rec/journals/corr/abs-2101-00746
+- author: Jiechuan Jiang, Zongqing Lu 0002
+  title: Offline Decentralized Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-01832
+  doi: ''
+  ee: https://arxiv.org/abs/2108.01832
+  url: https://dblp.org/rec/journals/corr/abs-2108-01832

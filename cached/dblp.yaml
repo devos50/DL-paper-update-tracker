@@ -11523,3 +11523,71 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2108.01832
   url: https://dblp.org/rec/journals/corr/abs-2108-01832
+- author: Wentai Wu, Ligang He, Saiqin Long, Ahmed M. Abdelmoniem, Yingliang Wu, Rui
+    Mao 0001
+  title: 'Knowledge Augmentation in Federation: Rethinking What Collaborative Learning
+    Can Bring Back to Decentralized Data.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-03140
+  doi: 10.48550/ARXIV.2503.03140
+  ee: https://doi.org/10.48550/arXiv.2503.03140
+  url: https://dblp.org/rec/journals/corr/abs-2503-03140
+- author: Jingyun Chen, Yading Yuan
+  title: Decentralized Personalization for Federated Medical Image Segmentation via
+    Gossip Contrastive Mutual Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-03883
+  doi: 10.48550/ARXIV.2503.03883
+  ee: https://doi.org/10.48550/arXiv.2503.03883
+  url: https://dblp.org/rec/journals/corr/abs-2503-03883
+- author: T. Q. D. Pham, K. D. Tran, Khanh T. P. Nguyen, X. V. Tran, K. P. Tran
+  title: 'A new framework for prognostics in decentralized industries: Enhancing fairness,
+    security, and transparency through Blockchain and Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-05725
+  doi: 10.48550/ARXIV.2503.05725
+  ee: https://doi.org/10.48550/arXiv.2503.05725
+  url: https://dblp.org/rec/journals/corr/abs-2503-05725
+- author: Talha Bozkus, Urbashi Mitra
+  title: 'Generative Multi-Agent Q-Learning for Policy Optimization: Decentralized
+    Wireless Networks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-05970
+  doi: 10.48550/ARXIV.2503.05970
+  ee: https://doi.org/10.48550/arXiv.2503.05970
+  url: https://dblp.org/rec/journals/corr/abs-2503-05970
+- author: Dongyu Chen, Tao Deng 0003, Juncheng Jia, Siwei Feng, Di Yuan
+  title: Mobility-Aware Decentralized Federated Learning with Joint Optimization of
+    Local Iteration and Leader Selection for Vehicular Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-06443
+  doi: 10.48550/ARXIV.2503.06443
+  ee: https://doi.org/10.48550/arXiv.2503.06443
+  url: https://dblp.org/rec/journals/corr/abs-2503-06443
+- author: Dongyu Chen, Tao Deng 0003, He Huang, Juncheng Jia, Mianxiong Dong, Di Yuan
+    0001, Keqin Li
+  title: 'Mobility-Aware Multi-Task Decentralized Federated Learning for Vehicular
+    Networks: Modeling, Analysis, and Optimization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-06468
+  doi: 10.48550/ARXIV.2503.06468
+  ee: https://doi.org/10.48550/arXiv.2503.06468
+  url: https://dblp.org/rec/journals/corr/abs-2503-06468

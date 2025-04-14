@@ -11591,3 +11591,59 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.06468
   ee: https://doi.org/10.48550/arXiv.2503.06468
   url: https://dblp.org/rec/journals/corr/abs-2503-06468
+- author: Qiongxiu Li, Wenrui Yu, Yufei Xia, Jun Pang 0001
+  title: 'From Centralized to Decentralized Federated Learning: Theoretical Insights,
+    Privacy Preservation, and Robustness Challenges.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-07505
+  doi: 10.48550/ARXIV.2503.07505
+  ee: https://doi.org/10.48550/arXiv.2503.07505
+  url: https://dblp.org/rec/journals/corr/abs-2503-07505
+- author: Lavanya Ratnabala, Robinroy Peter, Aleksey Fedoseev, Dzmitry Tsetserukou
+  title: 'HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent
+    Deep Reinforcement Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-07662
+  doi: 10.48550/ARXIV.2503.07662
+  ee: https://doi.org/10.48550/arXiv.2503.07662
+  url: https://dblp.org/rec/journals/corr/abs-2503-07662
+- author: Sarwar Saif, Md Jahirul Islam, Md. Zihad Bin Jahangir, Parag Biswas, Abdur
+    Rashid, Md Abdullah Al Nasim, Kishor Datta Gupta
+  title: A Comprehensive Review on Understanding the Decentralized and Collaborative
+    Approach in Machine Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-09833
+  doi: 10.48550/ARXIV.2503.09833
+  ee: https://doi.org/10.48550/arXiv.2503.09833
+  url: https://dblp.org/rec/journals/corr/abs-2503-09833
+- author: Luyuan Xie, Tianyu Luan, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, Nan Xi,
+    Yuejian Fang, Qingni Shen, Zhonghai Wu, Junsong Yuan 0001
+  title: 'dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical
+    Data Analysis.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-10412
+  doi: 10.48550/ARXIV.2503.10412
+  ee: https://doi.org/10.48550/arXiv.2503.10412
+  url: https://dblp.org/rec/journals/corr/abs-2503-10412
+- author: Chengyan Jiang, Jiamin Fan, Talal Halabi, Israat Haque 0001
+  title: Performance Analysis of Decentralized Federated Learning Deployments.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-11828
+  doi: 10.48550/ARXIV.2503.11828
+  ee: https://doi.org/10.48550/arXiv.2503.11828
+  url: https://dblp.org/rec/journals/corr/abs-2503-11828

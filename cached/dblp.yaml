@@ -11647,3 +11647,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.11828
   ee: https://doi.org/10.48550/arXiv.2503.11828
   url: https://dblp.org/rec/journals/corr/abs-2503-11828
+- author: Dongyu Chen, Tao Deng 0003, Juncheng Jia, Siwei Feng, Di Yuan 0001
+  title: Mobility-Aware Decentralized Federated Learning with Joint Optimization of
+    Local Iteration and Leader Selection for Vehicular Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-06443
+  doi: 10.48550/ARXIV.2503.06443
+  ee: https://doi.org/10.48550/arXiv.2503.06443
+  url: https://dblp.org/rec/journals/corr/abs-2503-06443
+- author: Dongyu Chen, Tao Deng 0003, He Huang, Juncheng Jia, Mianxiong Dong, Di Yuan
+    0001, Keqin Li 0001
+  title: 'Mobility-Aware Multi-Task Decentralized Federated Learning for Vehicular
+    Networks: Modeling, Analysis, and Optimization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-06468
+  doi: 10.48550/ARXIV.2503.06468
+  ee: https://doi.org/10.48550/arXiv.2503.06468
+  url: https://dblp.org/rec/journals/corr/abs-2503-06468
+- author: Xinyang Liu, Pengchao Han, Xuan Li, Bo Liu 0034
+  title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-13589
+  doi: 10.48550/ARXIV.2412.13589
+  ee: https://doi.org/10.48550/arXiv.2412.13589
+  url: https://dblp.org/rec/journals/corr/abs-2412-13589

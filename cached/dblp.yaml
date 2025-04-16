@@ -396,6 +396,16 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V37I7.25973
   ee: https://doi.org/10.1609/aaai.v37i7.25973
   url: https://dblp.org/rec/conf/aaai/JiangL23
+- author: Gangqiang Hu, Jianfeng Lu 0002, Jianmin Han, Shuqin Cao, Jing Liu, Hao Fu
+  title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/Hu0HCLF25
+  doi: 10.1609/AAAI.V39I13.33524
+  ee: https://doi.org/10.1609/aaai.v39i13.33524
+  url: https://dblp.org/rec/conf/aaai/Hu0HCLF25
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -3596,6 +3606,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-96-3531-3_5
   ee: https://doi.org/10.1007/978-981-96-3531-3_5
   url: https://dblp.org/rec/conf/nss/GhavamipourZT24
+- author: Guanyu Lin, Ruikang Ma, De Dong, Dongning Liu, Junteng Song, Kai Di
+  title: Decentralized Federated Learning with Knowledge Distillation for Image Classification
+    and Demand Forecasting in Industrial Chains.
+  venue: PDCAT
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pdcat/LinMDLSD24
+  doi: 10.1007/978-981-96-4207-6_1
+  ee: https://doi.org/10.1007/978-981-96-4207-6_1
+  url: https://dblp.org/rec/conf/pdcat/LinMDLSD24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao
@@ -11680,3 +11701,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2412.13589
   ee: https://doi.org/10.48550/arXiv.2412.13589
   url: https://dblp.org/rec/journals/corr/abs-2412-13589
+- author: Sarwar Saif, Md. Jahirul Islam, Md. Zihad Bin Jahangir, Parag Biswas, Abdur
+    Rashid, Md Abdullah Al Nasim, Kishor Datta Gupta
+  title: A Comprehensive Review on Understanding the Decentralized and Collaborative
+    Approach in Machine Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-09833
+  doi: 10.48550/ARXIV.2503.09833
+  ee: https://doi.org/10.48550/arXiv.2503.09833
+  url: https://dblp.org/rec/journals/corr/abs-2503-09833

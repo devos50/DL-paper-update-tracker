@@ -406,6 +406,37 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I13.33524
   ee: https://doi.org/10.1609/aaai.v39i13.33524
   url: https://dblp.org/rec/conf/aaai/Hu0HCLF25
+- author: Xiaoyu Wang 0015, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu
+  title: Decentralized Federated Learning with Model Caching on Mobile Agents.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/0015XCLL25
+  doi: 10.1609/AAAI.V39I20.35429
+  ee: https://doi.org/10.1609/aaai.v39i20.35429
+  url: https://dblp.org/rec/conf/aaai/0015XCLL25
+- author: Rasoul Etesami, R. Srikant 0001
+  title: 'Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic
+    Approach.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/Etesami025
+  doi: 10.1609/AAAI.V39I22.34481
+  ee: https://doi.org/10.1609/aaai.v39i22.34481
+  url: https://dblp.org/rec/conf/aaai/Etesami025
+- author: Xinyang Liu, Pengchao Han, Xuan Li, Bo Liu 0034
+  title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/LiuHL025
+  doi: 10.1609/AAAI.V39I18.34090
+  ee: https://doi.org/10.1609/aaai.v39i18.34090
+  url: https://dblp.org/rec/conf/aaai/LiuHL025
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -1794,6 +1825,17 @@ decentralized%20learning%20venue%3AWWW%3A:
   doi: 10.1145/3543507.3583337
   ee: https://doi.org/10.1145/3543507.3583337
   url: https://dblp.org/rec/conf/www/QuTZNHSY23
+- author: Zhen Qin 0004, Xueqiang Yan, Mengchu Zhou, Shuiguang Deng
+  title: 'BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated
+    Learning Framework.'
+  venue: WWW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/QinYZD24
+  doi: 10.1145/3589334.3645425
+  ee: https://doi.org/10.1145/3589334.3645425
+  url: https://dblp.org/rec/conf/www/QinYZD24
 decentralized%20learning%20venue%3AOSDI%3A: []
 decentralized%20learning%20venue%3ASOSP%3A: []
 decentralized%20learning%20venue%3AISCA%3A: []
@@ -11713,3 +11755,35 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.09833
   ee: https://doi.org/10.48550/arXiv.2503.09833
   url: https://dblp.org/rec/journals/corr/abs-2503-09833
+- author: Amir Ali Pour, Julien Gascon-Samson
+  title: 'SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-13624
+  doi: 10.48550/ARXIV.2503.13624
+  ee: https://doi.org/10.48550/arXiv.2503.13624
+  url: https://dblp.org/rec/journals/corr/abs-2503-13624
+- author: "Rebecca Clain, Eduardo Fernandes Montesuma, Fred Ngol\xE8 Mboula"
+  title: Decentralized Federated Dataset Dictionary Learning for Multi-Source Domain
+    Adaptation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-17683
+  doi: 10.48550/ARXIV.2503.17683
+  ee: https://doi.org/10.48550/arXiv.2503.17683
+  url: https://dblp.org/rec/journals/corr/abs-2503-17683
+- author: Zhen Qin 0004, Xueqiang Yan, Mengchu Zhou, Shuiguang Deng
+  title: Secure and Efficient Decentralized Federated Learning with Data Representation
+    Protection.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-10568
+  doi: 10.48550/ARXIV.2205.10568
+  ee: https://doi.org/10.48550/arXiv.2205.10568
+  url: https://dblp.org/rec/journals/corr/abs-2205-10568

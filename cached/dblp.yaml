@@ -437,6 +437,47 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I18.34090
   ee: https://doi.org/10.1609/aaai.v39i18.34090
   url: https://dblp.org/rec/conf/aaai/LiuHL025
+- author: Xiaoyu Wang 0015, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu 0013
+  title: Decentralized Federated Learning with Model Caching on Mobile Agents.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0015XCLL25
+  doi: 10.1609/AAAI.V39I20.35429
+  ee: https://doi.org/10.1609/aaai.v39i20.35429
+  url: https://dblp.org/rec/conf/aaai/0015XCLL25
+- author: Rasoul Etesami, R. Srikant 0001
+  title: 'Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic
+    Approach.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Etesami025
+  doi: 10.1609/AAAI.V39I22.34481
+  ee: https://doi.org/10.1609/aaai.v39i22.34481
+  url: https://dblp.org/rec/conf/aaai/Etesami025
+- author: Gangqiang Hu, Jianfeng Lu 0002, Jianmin Han, Shuqin Cao, Jing Liu, Hao Fu
+  title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Hu0HCLF25
+  doi: 10.1609/AAAI.V39I13.33524
+  ee: https://doi.org/10.1609/aaai.v39i13.33524
+  url: https://dblp.org/rec/conf/aaai/Hu0HCLF25
+- author: Xinyang Liu, Pengchao Han, Xuan Li, Bo Liu 0034
+  title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuHL025
+  doi: 10.1609/AAAI.V39I18.34090
+  ee: https://doi.org/10.1609/aaai.v39i18.34090
+  url: https://dblp.org/rec/conf/aaai/LiuHL025
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -11787,3 +11828,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2205.10568
   ee: https://doi.org/10.48550/arXiv.2205.10568
   url: https://dblp.org/rec/journals/corr/abs-2205-10568
+- author: Jianjun Huang 0002, Lixin Ye, Li Kang 0001
+  title: 'FedSR: A Semi-Decentralized Federated Learning Algorithm for Non-IIDness
+    in IoT System.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2403-14718
+  doi: 10.48550/ARXIV.2403.14718
+  ee: https://doi.org/10.48550/arXiv.2403.14718
+  url: https://dblp.org/rec/journals/corr/abs-2403-14718

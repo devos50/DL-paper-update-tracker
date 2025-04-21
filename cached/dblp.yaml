@@ -2530,6 +2530,16 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3552168
   ee: https://doi.org/10.1109/ACCESS.2025.3552168
   url: https://dblp.org/rec/journals/access/ChenFW25
+- author: Chiara Lanza, Tinne Tuytelaars, Marco Miozzo, Eduard Angelats, Paolo Dini
+  title: Joint Class and Domain Continual Learning for Decentralized Federated Processes.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/LanzaTMAD25
+  doi: 10.1109/ACCESS.2025.3555750
+  ee: https://doi.org/10.1109/ACCESS.2025.3555750
+  url: https://dblp.org/rec/journals/access/LanzaTMAD25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -11839,3 +11849,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2403.14718
   ee: https://doi.org/10.48550/arXiv.2403.14718
   url: https://dblp.org/rec/journals/corr/abs-2403-14718
+- author: Bicheng Ying, Zhe Li, Haibo Yang
+  title: 'From Interpretation to Correction: A Decentralized Optimization Framework
+    for Exact Convergence in Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20117
+  doi: 10.48550/ARXIV.2503.20117
+  ee: https://doi.org/10.48550/arXiv.2503.20117
+  url: https://dblp.org/rec/journals/corr/abs-2503-20117
+- author: "Junyi Zhu 0002, Ruicong Yao, Taha Ceritli, Savas \xD6zkan, Matthew B. Blaschko,\
+    \ Eunchung Noh, Jeongwon Min, Cho Jung Min, Mete Ozay"
+  title: 'Unlocking the Value of Decentralized Data: A Federated Dual Learning Approach
+    for Model Aggregation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20138
+  doi: 10.48550/ARXIV.2503.20138
+  ee: https://doi.org/10.48550/arXiv.2503.20138
+  url: https://dblp.org/rec/journals/corr/abs-2503-20138

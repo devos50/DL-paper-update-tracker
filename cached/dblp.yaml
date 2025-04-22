@@ -11872,3 +11872,70 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.20138
   ee: https://doi.org/10.48550/arXiv.2503.20138
   url: https://dblp.org/rec/journals/corr/abs-2503-20138
+- author: Antonio Marino, Esteban Restrepo, Claudio Pacchierotti, Paolo Robuffo Giordano
+  title: Decentralized Reinforcement Learning for Multi-Agent Multi-Resource Allocation
+    via Dynamic Cluster Agreements.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-02437
+  doi: 10.48550/ARXIV.2503.02437
+  ee: https://doi.org/10.48550/arXiv.2503.02437
+  url: https://dblp.org/rec/journals/corr/abs-2503-02437
+- author: Canyi Chen, Nan Qiao, Liping Zhu
+  title: Efficient Distributed Learning over Decentralized Networks with Convoluted
+    Support Vector Machine.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-07563
+  doi: 10.48550/ARXIV.2503.07563
+  ee: https://doi.org/10.48550/arXiv.2503.07563
+  url: https://dblp.org/rec/journals/corr/abs-2503-07563
+- author: "Linus M\xE5rtensson, Jonas M. D. Enander, Udaya B. Rongala, Henrik J\xF6\
+    rntell"
+  title: A Foundational Theory for Decentralized Sensory Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-15130
+  doi: 10.48550/ARXIV.2503.15130
+  ee: https://doi.org/10.48550/arXiv.2503.15130
+  url: https://dblp.org/rec/journals/corr/abs-2503-15130
+- author: Weicai Li, Tiejun Lv, Wei Ni 0001, Jingbo Zhao, Ekram Hossain 0001, H. Vincent
+    Poor
+  title: Route-and-Aggregate Decentralized Federated Learning Under Communication
+    Errors.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-22186
+  doi: 10.48550/ARXIV.2503.22186
+  ee: https://doi.org/10.48550/arXiv.2503.22186
+  url: https://dblp.org/rec/journals/corr/abs-2503-22186
+- author: Lina Wang, Yunsheng Yuan, Chunxiao Wang, Feng Li
+  title: 'PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous
+    Data Distribution.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-23726
+  doi: 10.48550/ARXIV.2503.23726
+  ee: https://doi.org/10.48550/arXiv.2503.23726
+  url: https://dblp.org/rec/journals/corr/abs-2503-23726
+- author: Yubo Zhang, Pedro Botelho, Trevor Gordon, Gil Zussman, Igor Kadota
+  title: Fair Dynamic Spectrum Access via Fully Decentralized Multi-Agent Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-24296
+  doi: 10.48550/ARXIV.2503.24296
+  ee: https://doi.org/10.48550/arXiv.2503.24296
+  url: https://dblp.org/rec/journals/corr/abs-2503-24296

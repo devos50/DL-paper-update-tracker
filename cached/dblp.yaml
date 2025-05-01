@@ -11950,3 +11950,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.24296
   ee: https://doi.org/10.48550/arXiv.2503.24296
   url: https://dblp.org/rec/journals/corr/abs-2503-24296
+- author: Canyi Chen, Nan Qiao 0010, Liping Zhu
+  title: Efficient Distributed Learning over Decentralized Networks with Convoluted
+    Support Vector Machine.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-07563
+  doi: 10.48550/ARXIV.2503.07563
+  ee: https://doi.org/10.48550/arXiv.2503.07563
+  url: https://dblp.org/rec/journals/corr/abs-2503-07563

@@ -3164,6 +3164,29 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3498839
   ee: https://doi.org/10.1109/JIOT.2024.3498839
   url: https://dblp.org/rec/journals/iotj/WangZHZW25
+- author: Yifan Chen, Zhuoquan Yu, Jichao Leng, Xin Hu, Zhuo Zou, Lirong Zheng 0001
+  title: 'CDL-H: Cluster-Based Decentralized Learning With Heterogeneity-Aware Strategies
+    for Industrial Internet of Things.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ChenYLHZZ25
+  doi: 10.1109/JIOT.2024.3515214
+  ee: https://doi.org/10.1109/JIOT.2024.3515214
+  url: https://dblp.org/rec/journals/iotj/ChenYLHZZ25
+- author: Binbin Huang, Hailiang Zhao, Lingbin Wang, Wenzhuo Qian, Yuyu Yin, Shuiguang
+    Deng
+  title: Decentralized Proactive Model Offloading and Resource Allocation for Split
+    and Federated Learning.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HuangZWQYD25
+  doi: 10.1109/JIOT.2024.3519678
+  ee: https://doi.org/10.1109/JIOT.2024.3519678
+  url: https://dblp.org/rec/journals/iotj/HuangZWQYD25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

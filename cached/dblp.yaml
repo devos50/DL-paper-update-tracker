@@ -11984,3 +11984,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.07563
   ee: https://doi.org/10.48550/arXiv.2503.07563
   url: https://dblp.org/rec/journals/corr/abs-2503-07563
+- author: Jiahua Xu 0002, Daniel Perez 0001, Yebo Feng, Benjamin Livshits
+  title: 'Auto.gov: Learning-based On-chain Governance for Decentralized Finance (DeFi).'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-09551
+  doi: 10.48550/ARXIV.2302.09551
+  ee: https://doi.org/10.48550/arXiv.2302.09551
+  url: https://dblp.org/rec/journals/corr/abs-2302-09551

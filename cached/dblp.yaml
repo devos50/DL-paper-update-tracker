@@ -1200,6 +1200,18 @@ decentralized%20learning%20venue%3AICLR%3A:
   doi: ''
   ee: https://openreview.net/forum?id=99tKiMVJhY
   url: https://dblp.org/rec/conf/iclr/0001HFK24
+- author: Shahryar Zehtabi, Dong-Jun Han, Rohit Parasnis, Seyyedali Hosseinalipour,
+    Christopher G. Brinton
+  title: 'Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework
+    with Convergence Guarantees.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/ZehtabiHPHB25
+  doi: ''
+  ee: https://openreview.net/forum?id=cznqgb4DNv
+  url: https://dblp.org/rec/conf/iclr/ZehtabiHPHB25
 decentralized%20learning%20venue%3ACOLT%3A:
 - author: Daniel Freund 0001, Thodoris Lykouris, Wentao Weng
   title: Efficient decentralized multi-agent learning in asymmetric queuing systems.

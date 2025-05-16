@@ -1232,6 +1232,38 @@ decentralized%20learning%20venue%3AICLR%3A:
   doi: ''
   ee: https://openreview.net/forum?id=AvmBgiQxxp
   url: https://dblp.org/rec/conf/iclr/TakezawaS25
+- author: Yuki Takezawa, Sebastian U. Stich
+  title: Scalable Decentralized Learning with Teleportation.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/TakezawaS25
+  doi: ''
+  ee: https://openreview.net/forum?id=AvmBgiQxxp
+  url: https://dblp.org/rec/conf/iclr/TakezawaS25
+- author: Shahryar Zehtabi, Dong-Jun Han, Rohit Parasnis, Seyyedali Hosseinalipour,
+    Christopher G. Brinton
+  title: 'Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework
+    with Convergence Guarantees.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ZehtabiHPHB25
+  doi: ''
+  ee: https://openreview.net/forum?id=cznqgb4DNv
+  url: https://dblp.org/rec/conf/iclr/ZehtabiHPHB25
+- author: Tongtian Zhu, Wenhao Li, Can Wang, Fengxiang He
+  title: 'DICE: Data Influence Cascade in Decentralized Learning.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ZhuLWH25
+  doi: ''
+  ee: https://openreview.net/forum?id=2TIYkqieKw
+  url: https://dblp.org/rec/conf/iclr/ZhuLWH25
 decentralized%20learning%20venue%3ACOLT%3A:
 - author: Daniel Freund 0001, Thodoris Lykouris, Wentao Weng
   title: Efficient decentralized multi-agent learning in asymmetric queuing systems.

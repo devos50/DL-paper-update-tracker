@@ -12081,3 +12081,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.01882
   ee: https://doi.org/10.48550/arXiv.2504.01882
   url: https://dblp.org/rec/journals/corr/abs-2504-01882
+- author: Baosheng Li, Weifeng Gao, Zehui Xiong, Jin Xie, Binquan Guo, Miao Du
+  title: 'Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks:
+    Challenges, Methods, and Directions.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-05107
+  doi: 10.48550/ARXIV.2504.05107
+  ee: https://doi.org/10.48550/arXiv.2504.05107
+  url: https://dblp.org/rec/journals/corr/abs-2504-05107
+- author: Hao Wang 0189, Yichen Cai 0002, Jun Wang 0020, Chuan Ma 0001, Chunpeng Ge
+    0001, Xiangmou Qu, Lu Zhou 0002
+  title: 'Voltran: Unlocking Trust and Confidentiality in Decentralized Federated
+    Learning Aggregation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-06885
+  doi: 10.48550/ARXIV.2408.06885
+  ee: https://doi.org/10.48550/arXiv.2408.06885
+  url: https://dblp.org/rec/journals/corr/abs-2408-06885

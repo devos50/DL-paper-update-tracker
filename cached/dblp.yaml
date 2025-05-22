@@ -478,6 +478,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I18.34090
   ee: https://doi.org/10.1609/aaai.v39i18.34090
   url: https://dblp.org/rec/conf/aaai/LiuHL025
+- author: Gangqiang Hu, Jianfeng Lu 0002, Jianmin Han, Shuqin Cao, Jing Liu 0032,
+    Hao Fu
+  title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Hu0HCLF25
+  doi: 10.1609/AAAI.V39I13.33524
+  ee: https://doi.org/10.1609/aaai.v39i13.33524
+  url: https://dblp.org/rec/conf/aaai/Hu0HCLF25
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -12104,3 +12115,69 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.06885
   ee: https://doi.org/10.48550/arXiv.2408.06885
   url: https://dblp.org/rec/journals/corr/abs-2408-06885
+- author: Omayra Yago Nieto, Alexandre Anahory Simoes, Juan I. Giribet, Leonardo J.
+    Colombo
+  title: Learning-based decentralized control with collision avoidance for multi-agent
+    systems.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-09730
+  doi: 10.48550/ARXIV.2504.09730
+  ee: https://doi.org/10.48550/arXiv.2504.09730
+  url: https://dblp.org/rec/journals/corr/abs-2504-09730
+- author: Heming Fu, Guojun Xiong, Jian Li, Shan Lin
+  title: Multi-Agent Reinforcement Learning for Decentralized Reservoir Management
+    via Murmuration Intelligence.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-11569
+  doi: 10.48550/ARXIV.2504.11569
+  ee: https://doi.org/10.48550/arXiv.2504.11569
+  url: https://dblp.org/rec/journals/corr/abs-2504-11569
+- author: Gangqiang Hu, Jianfeng Lu 0002, Jianmin Han, Shuqin Cao, Jing Liu 0032,
+    Hao Fu
+  title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2412-11448
+  doi: 10.48550/ARXIV.2412.11448
+  ee: https://doi.org/10.48550/arXiv.2412.11448
+  url: https://dblp.org/rec/journals/corr/abs-2412-11448
+- author: Shih-Chun Lin 0002, Chia-Hung Lin
+  title: Privacy-Preserving Serverless Edge Learning with Decentralized Small Data.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-14955
+  doi: ''
+  ee: https://arxiv.org/abs/2111.14955
+  url: https://dblp.org/rec/journals/corr/abs-2111-14955
+- author: Md. Ferdous Pervej, Shih-Chun Lin 0002
+  title: 'Eco-Vehicular Edge Networks for Connected Transportation: A Decentralized
+    Multi-Agent Reinforcement Learning Approach.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2003-01005
+  doi: ''
+  ee: https://arxiv.org/abs/2003.01005
+  url: https://dblp.org/rec/journals/corr/abs-2003-01005
+- author: Pinxin Long, Tingxiang Fan, Xinyi Liao, Wenxi Liu, Hao Zhang, Jia Pan 0001
+  title: Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2017'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1709-10082
+  doi: ''
+  ee: http://arxiv.org/abs/1709.10082
+  url: https://dblp.org/rec/journals/corr/abs-1709-10082

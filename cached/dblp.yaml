@@ -12181,3 +12181,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1709.10082
   url: https://dblp.org/rec/journals/corr/abs-1709-10082
+- author: Tingyang Sun, Tuan Nguyen, Ting He 0001
+  title: Communication Optimization for Decentralized Learning atop Bandwidth-limited
+    Edge Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-12210
+  doi: 10.48550/ARXIV.2504.12210
+  ee: https://doi.org/10.48550/arXiv.2504.12210
+  url: https://dblp.org/rec/journals/corr/abs-2504-12210
+- author: Yuan Zhou, Xinli Shi, Xuelong Li, Jiachen Zhong, Guanghui Wen, Jinde Cao
+  title: Decentralized Nonconvex Composite Federated Learning with Gradient Tracking
+    and Momentum.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-12742
+  doi: 10.48550/ARXIV.2504.12742
+  ee: https://doi.org/10.48550/arXiv.2504.12742
+  url: https://dblp.org/rec/journals/corr/abs-2504-12742

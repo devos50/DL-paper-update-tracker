@@ -12203,3 +12203,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.12742
   ee: https://doi.org/10.48550/arXiv.2504.12742
   url: https://dblp.org/rec/journals/corr/abs-2504-12742
+- author: Sarang S, Druva Dhakshinamoorthy, Aditya Shiva Sharma, Yuvraj Singh Bhadauria,
+    Siddharth Chaitra Vivek, Arihant Bansal, Arnab K. Paul
+  title: 'UnifyFL: Enabling Decentralized Cross-Silo Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-18916
+  doi: 10.48550/ARXIV.2504.18916
+  ee: https://doi.org/10.48550/arXiv.2504.18916
+  url: https://dblp.org/rec/journals/corr/abs-2504-18916

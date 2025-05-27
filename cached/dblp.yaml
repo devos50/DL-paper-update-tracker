@@ -12214,3 +12214,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.18916
   ee: https://doi.org/10.48550/arXiv.2504.18916
   url: https://dblp.org/rec/journals/corr/abs-2504-18916
+- author: Wenxuan Ma 0007, Kuan-Cheng Chen, Shang Yu, Mengxiang Liu, Ruilong Deng
+  title: Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-13782
+  doi: 10.48550/ARXIV.2504.13782
+  ee: https://doi.org/10.48550/arXiv.2504.13782
+  url: https://dblp.org/rec/journals/corr/abs-2504-13782
+- author: Shunxin Guo, Jiaqi Lv, Xin Geng 0001
+  title: Harmonizing Generalization and Personalization in Ring-topology Decentralized
+    Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-19103
+  doi: 10.48550/ARXIV.2504.19103
+  ee: https://doi.org/10.48550/arXiv.2504.19103
+  url: https://dblp.org/rec/journals/corr/abs-2504-19103

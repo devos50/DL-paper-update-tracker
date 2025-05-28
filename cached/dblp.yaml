@@ -12235,3 +12235,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.19103
   ee: https://doi.org/10.48550/arXiv.2504.19103
   url: https://dblp.org/rec/journals/corr/abs-2504-19103
+- author: Shuijing Liu, Peixin Chang, Weihang Liang, Neeloy Chakraborty, Katherine
+    Driggs-Campbell
+  title: Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-04820
+  doi: ''
+  ee: https://arxiv.org/abs/2011.04820
+  url: https://dblp.org/rec/journals/corr/abs-2011-04820

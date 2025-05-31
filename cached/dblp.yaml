@@ -3274,6 +3274,28 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3519678
   ee: https://doi.org/10.1109/JIOT.2024.3519678
   url: https://dblp.org/rec/journals/iotj/HuangZWQYD25
+- author: Sangwon Hwang, Hoon Lee, Mintae Kim, Inkyu Lee
+  title: Multiagent Deep Reinforcement Learning for Decentralized Multi-AAV Mobile
+    Edge Computing Networks.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HwangLKL25
+  doi: 10.1109/JIOT.2025.3527016
+  ee: https://doi.org/10.1109/JIOT.2025.3527016
+  url: https://dblp.org/rec/journals/iotj/HwangLKL25
+- author: Bin Jiang 0003, Bo Zhao, Fei Luo, Huihui Helen Wang, Houbing Herbert Song
+  title: Decentralized Federated Learning in Metacomputing Based on Directed Acyclic
+    Graph With Optimized Tip Selector.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/JiangZLWS25
+  doi: 10.1109/JIOT.2025.3527740
+  ee: https://doi.org/10.1109/JIOT.2025.3527740
+  url: https://dblp.org/rec/journals/iotj/JiangZLWS25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

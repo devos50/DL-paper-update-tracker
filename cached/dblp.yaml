@@ -1992,6 +1992,18 @@ decentralized%20learning%20streamid%3Aconf%2Feurosys%3A:
   doi: 10.1145/3627703.3650082
   ee: https://doi.org/10.1145/3627703.3650082
   url: https://dblp.org/rec/conf/eurosys/ChengEGJJVV24
+- author: Pau-Chen Cheng, Kevin Eykholt, Zhongshu Gu, Hani Jamjoom, K. R. Jayaram,
+    Enriquillo Valdez, Ashish Verma 0001
+  title: 'DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and
+    Trustworthy Aggregation.'
+  venue: EuroSys
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eurosys/ChengEGJJVV24
+  doi: 10.1145/3627703.3650082
+  ee: https://doi.org/10.1145/3627703.3650082
+  url: https://dblp.org/rec/conf/eurosys/ChengEGJJVV24
 decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
 - author: Zhida Jiang, Yang Xu 0020, Hongli Xu, Lun Wang, Chunming Qiao, Liusheng
     Huang
@@ -12370,3 +12382,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1708.01384
   url: https://dblp.org/rec/journals/corr/abs-1708-01384
+- author: Hao Ye 0004, Le Liang, Geoffrey Li
+  title: Decentralized Federated Learning with Unreliable Communications.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-02397
+  doi: ''
+  ee: https://arxiv.org/abs/2108.02397
+  url: https://dblp.org/rec/journals/corr/abs-2108-02397

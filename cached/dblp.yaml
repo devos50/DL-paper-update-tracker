@@ -3877,6 +3877,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-96-4207-6_1
   ee: https://doi.org/10.1007/978-981-96-4207-6_1
   url: https://dblp.org/rec/conf/pdcat/LinMDLSD24
+- author: Mohamed Dwedar, Fatih Bayram, Alexander Jesser
+  title: Real-Time Decentralized M2M Decision-Making via Deep Learning and Incremental
+    Learning.
+  venue: ICONIP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/DwedarBJ24
+  doi: 10.1007/978-981-96-6576-1_7
+  ee: https://doi.org/10.1007/978-981-96-6576-1_7
+  url: https://dblp.org/rec/conf/iconip/DwedarBJ24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao
@@ -12402,3 +12413,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/0804.2831
   url: https://dblp.org/rec/journals/corr/abs-0804-2831
+- author: Yasser H. Khalil, Amir Hossein Estiri, Mahdi Beitollahi, Nader Asadi, Sobhan
+    Hemati, Xu Li 0001, Guojun Zhang, Xi Chen
+  title: 'DFML: Decentralized Federated Mutual Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2402-01863
+  doi: 10.48550/ARXIV.2402.01863
+  ee: https://doi.org/10.48550/arXiv.2402.01863
+  url: https://dblp.org/rec/journals/corr/abs-2402-01863

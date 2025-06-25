@@ -1287,6 +1287,16 @@ decentralized%20learning%20venue%3AICLR%3A:
   doi: ''
   ee: https://openreview.net/forum?id=2TIYkqieKw
   url: https://dblp.org/rec/conf/iclr/ZhuLWH25
+- author: Tongtian Zhu, Wenhao Li, Can Wang 0001, Fengxiang He
+  title: 'DICE: Data Influence Cascade in Decentralized Learning.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ZhuLWH25
+  doi: ''
+  ee: https://openreview.net/forum?id=2TIYkqieKw
+  url: https://dblp.org/rec/conf/iclr/ZhuLWH25
 decentralized%20learning%20venue%3ACOLT%3A:
 - author: Daniel Freund 0001, Thodoris Lykouris, Wentao Weng
   title: Efficient decentralized multi-agent learning in asymmetric queuing systems.
@@ -12458,3 +12468,91 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2505.04947
   ee: https://doi.org/10.48550/arXiv.2505.04947
   url: https://dblp.org/rec/journals/corr/abs-2505-04947
+- author: Zehan Zhu, Yan Huang 0036, Xin Wang, Shouling Ji, Jinming Xu 0002
+  title: 'Dyn-D2P: Dynamic Differentially Private Decentralized Learning with Provable
+    Utility Guarantee.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-06651
+  doi: 10.48550/ARXIV.2505.06651
+  ee: https://doi.org/10.48550/arXiv.2505.06651
+  url: https://dblp.org/rec/journals/corr/abs-2505-06651
+- author: Maximilian Egger, Svenja Lage, Rawad Bitar, Antonia Wachter-Zeh
+  title: Source Anonymity for Private Random Walk Decentralized Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-07011
+  doi: 10.48550/ARXIV.2505.07011
+  ee: https://doi.org/10.48550/arXiv.2505.07011
+  url: https://dblp.org/rec/journals/corr/abs-2505-07011
+- author: Prime Intellect Team, Sami Jaghouar, Justus Mattern, Jack Min Ong, Jannik
+    Straube, Manveer Basra, Aaron Pazdera, Kushal Thaman, Matthew Di Ferrante, Felix
+    Gabriel, Fares Obeid, Kemal Erdem, Michael Keiblinger, Johannes Hagemann
+  title: 'INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-07291
+  doi: 10.48550/ARXIV.2505.07291
+  ee: https://doi.org/10.48550/arXiv.2505.07291
+  url: https://dblp.org/rec/journals/corr/abs-2505-07291
+- author: "Chao Feng, Nicolas Huber, Alberto Huertas Celdr\xE1n, G\xE9r\xF4me Bovet,\
+    \ Burkhard Stiller"
+  title: 'Demo: A Practical Testbed for Decentralized Federated Learning on Physical
+    Edge Devices.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-08033
+  doi: 10.48550/ARXIV.2505.08033
+  ee: https://doi.org/10.48550/arXiv.2505.08033
+  url: https://dblp.org/rec/journals/corr/abs-2505-08033
+- author: Harikrishna Kuttivelil, Katia Obraczka
+  title: 'Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-09854
+  doi: 10.48550/ARXIV.2505.09854
+  ee: https://doi.org/10.48550/arXiv.2505.09854
+  url: https://dblp.org/rec/journals/corr/abs-2505-09854
+- author: Wesley A. Suttle, Vipul K. Sharma, Brian M. Sadler
+  title: Signal attenuation enables scalable decentralized multi-agent reinforcement
+    learning over networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-11461
+  doi: 10.48550/ARXIV.2505.11461
+  ee: https://doi.org/10.48550/arXiv.2505.11461
+  url: https://dblp.org/rec/journals/corr/abs-2505-11461
+- author: Mansi Sakarvadia, Nathaniel Hudson, Tian Li, Ian T. Foster, Kyle Chard
+  title: Topology-Aware Knowledge Propagation in Decentralized Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-11760
+  doi: 10.48550/ARXIV.2505.11760
+  ee: https://doi.org/10.48550/arXiv.2505.11760
+  url: https://dblp.org/rec/journals/corr/abs-2505-11760
+- author: Yuzhe Yang 0006, Yipeng Du, Ahmad Farhan, Claudio Angione, Yue Zhao, Harry
+    Yang, Fielding Johnston, James Buban, Patrick Colangelo
+  title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-21340
+  doi: 10.48550/ARXIV.2410.21340
+  ee: https://doi.org/10.48550/arXiv.2410.21340
+  url: https://dblp.org/rec/journals/corr/abs-2410-21340

@@ -12556,3 +12556,58 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.21340
   ee: https://doi.org/10.48550/arXiv.2410.21340
   url: https://dblp.org/rec/journals/corr/abs-2410-21340
+- author: Zhiyao Zhang, Myeung Suk Oh, FNU Hairi, Ziyue Luo, Alvaro Velasquez, Jia
+    Liu
+  title: Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methods
+    for Decentralized Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-18433
+  doi: 10.48550/ARXIV.2505.18433
+  ee: https://doi.org/10.48550/arXiv.2505.18433
+  url: https://dblp.org/rec/journals/corr/abs-2505-18433
+- author: Jiarong Fan, Chenghao Huang, Hao Wang
+  title: Agent-Based Decentralized Energy Management of EV Charging Station with Solar
+    Photovoltaics via Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-18750
+  doi: 10.48550/ARXIV.2505.18750
+  ee: https://doi.org/10.48550/arXiv.2505.18750
+  url: https://dblp.org/rec/journals/corr/abs-2505-18750
+- author: Md Farhamdur Reza, Reza Jahani, Richeng Jin, Huaiyu Dai
+  title: Distribution-Aware Mobility-Assisted Decentralized Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-18866
+  doi: 10.48550/ARXIV.2505.18866
+  ee: https://doi.org/10.48550/arXiv.2505.18866
+  url: https://dblp.org/rec/journals/corr/abs-2505-18866
+- author: Marc Damie, Edwige Cyffers
+  title: 'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy
+    Machine Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-20882
+  doi: 10.48550/ARXIV.2505.20882
+  ee: https://doi.org/10.48550/arXiv.2505.20882
+  url: https://dblp.org/rec/journals/corr/abs-2505-20882
+- author: Naoto Yoshida, Tadahiro Taniguchi
+  title: Reward-Independent Messaging for Decentralized Multi-Agent Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-21985
+  doi: 10.48550/ARXIV.2505.21985
+  ee: https://doi.org/10.48550/arXiv.2505.21985
+  url: https://dblp.org/rec/journals/corr/abs-2505-21985

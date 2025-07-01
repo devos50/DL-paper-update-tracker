@@ -12611,3 +12611,34 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2505.21985
   ee: https://doi.org/10.48550/arXiv.2505.21985
   url: https://dblp.org/rec/journals/corr/abs-2505-21985
+- author: "Denis Mamba Kabala, Adel Hafiane, Laurent Bobelin, Rapha\xEBl Canals"
+  title: Loss-Guided Model Sharing and Local Learning Correction in Decentralized
+    Federated Learning for Crop Disease Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-23063
+  doi: 10.48550/ARXIV.2505.23063
+  ee: https://doi.org/10.48550/arXiv.2505.23063
+  url: https://dblp.org/rec/journals/corr/abs-2505-23063
+- author: Soham Bonnerjee, Sayar Karmakar, Wei Biao Wu
+  title: Sharp Gaussian approximations for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-08125
+  doi: 10.48550/ARXIV.2505.08125
+  ee: https://doi.org/10.48550/arXiv.2505.08125
+  url: https://dblp.org/rec/journals/corr/abs-2505-08125
+- author: Honoka Anada, Tatsuya Kaneko, Shinya Takamaeda-Yamazaki
+  title: Measuring Participant Contributions in Decentralized Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-23246
+  doi: 10.48550/ARXIV.2505.23246
+  ee: https://doi.org/10.48550/arXiv.2505.23246
+  url: https://dblp.org/rec/journals/corr/abs-2505-23246

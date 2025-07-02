@@ -12642,3 +12642,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2505.23246
   ee: https://doi.org/10.48550/arXiv.2505.23246
   url: https://dblp.org/rec/journals/corr/abs-2505-23246
+- author: Yuzhe Yang 0006, Yipeng Du 0001, Ahmad Farhan, Claudio Angione, Yue Zhao,
+    Harry Yang, Fielding Johnston, James Buban, Patrick Colangelo
+  title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-21340
+  doi: 10.48550/ARXIV.2410.21340
+  ee: https://doi.org/10.48550/arXiv.2410.21340
+  url: https://dblp.org/rec/journals/corr/abs-2410-21340

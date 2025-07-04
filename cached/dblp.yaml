@@ -3330,6 +3330,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3527740
   ee: https://doi.org/10.1109/JIOT.2025.3527740
   url: https://dblp.org/rec/journals/iotj/JiangZLWS25
+- author: Yishan Chen 0001, Zhiqiang Wang, Yuan Min, Zhiquan Liu
+  title: Decentralized-Voting-Based Federated Learning Framework for Lightweight Node
+    Selection in Edge Collaborative IoT.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ChenWML25
+  doi: 10.1109/JIOT.2025.3542886
+  ee: https://doi.org/10.1109/JIOT.2025.3542886
+  url: https://dblp.org/rec/journals/iotj/ChenWML25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -3898,6 +3909,29 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-96-6576-1_7
   ee: https://doi.org/10.1007/978-981-96-6576-1_7
   url: https://dblp.org/rec/conf/iconip/DwedarBJ24
+- author: Ahmet Kasif, Cagatay Catal
+  title: 'Federated Learning for Smart and Sustainable Aquaponics: A Decentralized
+    AI Approach for Urban Resilience.'
+  venue: PAKDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pakdd/KasifC25
+  doi: 10.1007/978-981-96-8197-6_5
+  ee: https://doi.org/10.1007/978-981-96-8197-6_5
+  url: https://dblp.org/rec/conf/pakdd/KasifC25
+- author: Zeren Zhang, Bin Zhang 0052, Guangchong Zhou, Dapeng Li 0001, Zhiwei Xu
+    0005, Guoliang Fan
+  title: Decentralized Extension for Centralized Multi-Agent Reinforcement Learning
+    via Online Distillation.
+  venue: ICONIP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/ZhangZZLXF24
+  doi: 10.1007/978-981-96-6582-2_15
+  ee: https://doi.org/10.1007/978-981-96-6582-2_15
+  url: https://dblp.org/rec/conf/iconip/ZhangZZLXF24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao
@@ -12653,3 +12687,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.21340
   ee: https://doi.org/10.48550/arXiv.2410.21340
   url: https://dblp.org/rec/journals/corr/abs-2410-21340
+- author: Cuiwei Liu, Siang Xu, Huaijun Qiu, Jing Zhang, Zhi Liu 0002, Liang Zhao
+    0004
+  title: Few-Shot Class-Incremental Learning with Non-IID Decentralized Data.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-11657
+  doi: 10.48550/ARXIV.2409.11657
+  ee: https://doi.org/10.48550/arXiv.2409.11657
+  url: https://dblp.org/rec/journals/corr/abs-2409-11657

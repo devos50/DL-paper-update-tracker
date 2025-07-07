@@ -12710,3 +12710,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.09730
   ee: https://doi.org/10.48550/arXiv.2504.09730
   url: https://dblp.org/rec/journals/corr/abs-2504-09730
+- author: Zhan Yu
+  title: Learning Theory of Decentralized Robust Kernel-Based Learning Algorithm.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-05215
+  doi: 10.48550/ARXIV.2506.05215
+  ee: https://doi.org/10.48550/arXiv.2506.05215
+  url: https://dblp.org/rec/journals/corr/abs-2506-05215
+- author: Gabriele Digregorio, Francesco Bleggi, Federico Caroli, Michele Carminati,
+    Stefano Zanero, Stefano Longari
+  title: 'Poster: FedBlockParadox - A Framework for Simulating and Securing Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-02679
+  doi: 10.48550/ARXIV.2506.02679
+  ee: https://doi.org/10.48550/arXiv.2506.02679
+  url: https://dblp.org/rec/journals/corr/abs-2506-02679

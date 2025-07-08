@@ -12732,3 +12732,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2506.02679
   ee: https://doi.org/10.48550/arXiv.2506.02679
   url: https://dblp.org/rec/journals/corr/abs-2506-02679
+- author: Zhiyao Zhang, Myeung Suk Oh, Hairi, Ziyue Luo, Alvaro Velasquez, Jia Liu
+    0002
+  title: Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methods
+    for Decentralized Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-18433
+  doi: 10.48550/ARXIV.2505.18433
+  ee: https://doi.org/10.48550/arXiv.2505.18433
+  url: https://dblp.org/rec/journals/corr/abs-2505-18433

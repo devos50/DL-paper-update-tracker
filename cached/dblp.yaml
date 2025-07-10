@@ -2750,6 +2750,17 @@ decentralized%20learning%20venue%3AICDCS%3A:
   doi: 10.1109/ICDCS60910.2024.00069
   ee: https://doi.org/10.1109/ICDCS60910.2024.00069
   url: https://dblp.org/rec/conf/icdcs/MohammadabadiYYZ24
+- author: Akash Balasaheb Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi
+    Sharma 0001, Milos Vujasinovic, Jeffrey Wigger
+  title: Get More for Less in Decentralized Learning Systems.
+  venue: ICDCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/DhasadeKPSVW23
+  doi: 10.1109/ICDCS57875.2023.00067
+  ee: https://doi.org/10.1109/ICDCS57875.2023.00067
+  url: https://dblp.org/rec/conf/icdcs/DhasadeKPSVW23
 decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
 - author: Anne-Marie Kermarrec
   title: Frugal Decentralized Learning.
@@ -2795,6 +2806,17 @@ decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
   url: https://dblp.org/rec/conf/ipps/VosDDGKMP024
 - author: Martijn de Vos, Akash Dhasade, Paolo Dini, Elia Guerra, Anne-Marie Kermarrec,
     Marco Miozzo, Rafael Pires 0001, Rishi Sharma 0001
+  title: Energy-Aware Decentralized Learning with Intermittent Model Training.
+  venue: IPDPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/VosDDGKMP024
+  doi: 10.1109/IPDPSW63119.2024.00196
+  ee: https://doi.org/10.1109/IPDPSW63119.2024.00196
+  url: https://dblp.org/rec/conf/ipps/VosDDGKMP024
+- author: Martijn de Vos, Akash Balasaheb Dhasade, Paolo Dini, Elia Guerra, Anne-Marie
+    Kermarrec, Marco Miozzo, Rafael Pires 0001, Rishi Sharma 0001
   title: Energy-Aware Decentralized Learning with Intermittent Model Training.
   venue: IPDPS
   year: '2024'
@@ -12757,3 +12779,213 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2506.07980
   ee: https://doi.org/10.48550/arXiv.2506.07980
   url: https://dblp.org/rec/journals/corr/abs-2506-07980
+- author: Martijn de Vos, Akash Balasaheb Dhasade, Anne-Marie Kermarrec, Erick Lavoie,
+    Johan Pouwelse
+  title: 'MoDeST: Bridging the Gap between Federated and Decentralized Learning with
+    Decentralized Sampling.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-13837
+  doi: 10.48550/ARXIV.2302.13837
+  ee: https://doi.org/10.48550/arXiv.2302.13837
+  url: https://dblp.org/rec/journals/corr/abs-2302-13837
+- author: "Chao Feng 0001, Yuanzhe Gao, Alberto Huertas Celdr\xE1n, G\xE9r\xF4me Bovet,\
+    \ Burkhard Stiller"
+  title: 'From Models to Network Topologies: A Topology Inference Attack in Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03119
+  doi: 10.48550/ARXIV.2501.03119
+  ee: https://doi.org/10.48550/arXiv.2501.03119
+  url: https://dblp.org/rec/journals/corr/abs-2501-03119
+- author: "Chao Feng 0001, Nicolas Fazli Kohler, Alberto Huertas Celdr\xE1n, G\xE9\
+    r\xF4me Bovet, Burkhard Stiller"
+  title: 'ColNet: Collaborative Optimization in Decentralized Federated Multi-task
+    Learning Systems.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-10347
+  doi: 10.48550/ARXIV.2501.10347
+  ee: https://doi.org/10.48550/arXiv.2501.10347
+  url: https://dblp.org/rec/journals/corr/abs-2501-10347
+- author: "Pedro Miguel S\xE1nchez S\xE1nchez, Enrique Tom\xE1s Mart\xEDnez Beltr\xE1\
+    n, Chao Feng 0001, G\xE9r\xF4me Bovet, Gregorio Mart\xEDnez P\xE9rez, Alberto\
+    \ Huertas Celdr\xE1n"
+  title: 'S-VOTE: Similarity-based Voting for Client Selection in Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-19279
+  doi: 10.48550/ARXIV.2501.19279
+  ee: https://doi.org/10.48550/arXiv.2501.19279
+  url: https://dblp.org/rec/journals/corr/abs-2501-19279
+- author: "Chao Feng 0001, Yunlong Li, Yuanzhe Gao, Alberto Huertas Celdr\xE1n, Jan\
+    \ von der Assen, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model
+    Differences.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-04771
+  doi: 10.48550/ARXIV.2502.04771
+  ee: https://doi.org/10.48550/arXiv.2502.04771
+  url: https://dblp.org/rec/journals/corr/abs-2502-04771
+- author: "Chao Feng 0001, Alberto Huertas Celdr\xE1n, Xi Cheng, G\xE9r\xF4me Bovet,\
+    \ Burkhard Stiller"
+  title: 'GreenDFL: a Framework for Assessing the Sustainability of Decentralized
+    Federated Learning Systems.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-20242
+  doi: 10.48550/ARXIV.2502.20242
+  ee: https://doi.org/10.48550/arXiv.2502.20242
+  url: https://dblp.org/rec/journals/corr/abs-2502-20242
+- author: "Chao Feng 0001, Nicolas Huber, Alberto Huertas Celdr\xE1n, G\xE9r\xF4me\
+    \ Bovet, Burkhard Stiller"
+  title: 'Demo: A Practical Testbed for Decentralized Federated Learning on Physical
+    Edge Devices.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-08033
+  doi: 10.48550/ARXIV.2505.08033
+  ee: https://doi.org/10.48550/arXiv.2505.08033
+  url: https://dblp.org/rec/journals/corr/abs-2505-08033
+- author: Haoxiang Ye, Tao Sun, Qing Ling
+  title: Generalization Error Analysis for Attack-Free and Byzantine-Resilient Decentralized
+    Learning with Data Heterogeneity.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-09438
+  doi: 10.48550/ARXIV.2506.09438
+  ee: https://doi.org/10.48550/arXiv.2506.09438
+  url: https://dblp.org/rec/journals/corr/abs-2506-09438
+- author: Haruki Kainuma, Takayuki Nishio
+  title: Load-Aware Training Scheduling for Model Circulation-based Decentralized
+    Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-09769
+  doi: 10.48550/ARXIV.2506.09769
+  ee: https://doi.org/10.48550/arXiv.2506.09769
+  url: https://dblp.org/rec/journals/corr/abs-2506-09769
+- author: "Huong Nguyen, Hong-Tri Nguyen, Praveen Kumar Donta, Susanna Pirttikangas,\
+    \ Lauri Lov\xE9n"
+  title: Graph-based Gossiping for Communication Efficiency in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-10607
+  doi: 10.48550/ARXIV.2506.10607
+  ee: https://doi.org/10.48550/arXiv.2506.10607
+  url: https://dblp.org/rec/journals/corr/abs-2506-10607
+- author: Akash Balasaheb Dhasade, Paolo Dini, Elia Guerra, Anne-Marie Kermarrec,
+    Marco Miozzo, Rafael Pires 0001, Rishi Sharma 0001, Martijn de Vos
+  title: Energy-Aware Decentralized Learning with Intermittent Model Training.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-01283
+  doi: 10.48550/ARXIV.2407.01283
+  ee: https://doi.org/10.48550/arXiv.2407.01283
+  url: https://dblp.org/rec/journals/corr/abs-2407-01283
+- author: "Chao Feng 0001, Alberto Huertas Celdr\xE1n, Jan von der Assen, Enrique\
+    \ Tom\xE1s Mart\xEDnez Beltr\xE1n, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'DART: A Solution for Decentralized Federated Learning Model Robustness Analysis.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-08652
+  doi: 10.48550/ARXIV.2407.08652
+  ee: https://doi.org/10.48550/arXiv.2407.08652
+  url: https://dblp.org/rec/journals/corr/abs-2407-08652
+- author: "Alberto Huertas Celdr\xE1n, Chao Feng 0001, Sabyasachi Banik, G\xE9r\xF4\
+    me Bovet, Gregorio Mart\xEDnez P\xE9rez, Burkhard Stiller"
+  title: 'De-VertiFL: A Solution for Decentralized Vertical Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-06127
+  doi: 10.48550/ARXIV.2410.06127
+  ee: https://doi.org/10.48550/arXiv.2410.06127
+  url: https://dblp.org/rec/journals/corr/abs-2410-06127
+- author: "Chao Feng 0001, Hongjie Guan, Alberto Huertas Celdr\xE1n, Jan von der Assen,\
+    \ G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy
+    Pooling for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-07678
+  doi: 10.48550/ARXIV.2410.07678
+  ee: https://doi.org/10.48550/arXiv.2410.07678
+  url: https://dblp.org/rec/journals/corr/abs-2410-07678
+- author: Akash Balasaheb Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi
+    Sharma 0001, Milos Vujasinovic
+  title: Decentralized Learning Made Easy with DecentralizePy.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-08322
+  doi: 10.48550/ARXIV.2304.08322
+  ee: https://doi.org/10.48550/arXiv.2304.08322
+  url: https://dblp.org/rec/journals/corr/abs-2304-08322
+- author: Akash Balasaheb Dhasade, Anne-Marie Kermarrec, Rafael Pires 0001, Rishi
+    Sharma 0001, Milos Vujasinovic, Jeffrey Wigger
+  title: Get More for Less in Decentralized Learning Systems.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-04377
+  doi: 10.48550/ARXIV.2306.04377
+  ee: https://doi.org/10.48550/arXiv.2306.04377
+  url: https://dblp.org/rec/journals/corr/abs-2306-04377
+- author: "Enrique Tom\xE1s Mart\xEDnez Beltr\xE1n, \xC1ngel Luis Perales G\xF3mez,\
+    \ Chao Feng 0001, Pedro Miguel S\xE1nchez S\xE1nchez, Sergio L\xF3pez Bernal,\
+    \ G\xE9r\xF4me Bovet, Manuel Gil P\xE9rez, Gregorio Mart\xEDnez P\xE9rez, Alberto\
+    \ Huertas Celdr\xE1n"
+  title: 'Fedstellar: A Platform for Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-09750
+  doi: 10.48550/ARXIV.2306.09750
+  ee: https://doi.org/10.48550/arXiv.2306.09750
+  url: https://dblp.org/rec/journals/corr/abs-2306-09750
+- author: "Chao Feng 0001, Alberto Huertas Celdr\xE1n, Janosch Baltensperger, Enrique\
+    \ Tom\xE1s Mart\xEDnez Beltr\xE1n, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: 'Sentinel: An Aggregation Function to Secure Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-08097
+  doi: 10.48550/ARXIV.2310.08097
+  ee: https://doi.org/10.48550/arXiv.2310.08097
+  url: https://dblp.org/rec/journals/corr/abs-2310-08097

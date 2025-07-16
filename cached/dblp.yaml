@@ -3375,6 +3375,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3542886
   ee: https://doi.org/10.1109/JIOT.2025.3542886
   url: https://dblp.org/rec/journals/iotj/ChenWML25
+- author: Alia Asheralieva, Dusit Niyato
+  title: Effective UAV-Aided Asynchronous Decentralized Federated Learning With Distributed,
+    Adaptive and Energy-Aware Gradient Sparsification.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/AsheralievaN25
+  doi: 10.1109/JIOT.2025.3565005
+  ee: https://doi.org/10.1109/JIOT.2025.3565005
+  url: https://dblp.org/rec/journals/iotj/AsheralievaN25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

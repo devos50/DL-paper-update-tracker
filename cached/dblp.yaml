@@ -2672,6 +2672,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3555750
   ee: https://doi.org/10.1109/ACCESS.2025.3555750
   url: https://dblp.org/rec/journals/access/LanzaTMAD25
+- author: Binqiao Zhang, Changlin He
+  title: Decentralized Voltage and Var Control of Active Distribution Network Based
+    on Parameter-Sharing Deep Reinforcement Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/ZhangH25
+  doi: 10.1109/ACCESS.2025.3584129
+  ee: https://doi.org/10.1109/ACCESS.2025.3584129
+  url: https://dblp.org/rec/journals/access/ZhangH25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

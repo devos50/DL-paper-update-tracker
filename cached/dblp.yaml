@@ -3988,6 +3988,32 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-96-6582-2_15
   ee: https://doi.org/10.1007/978-981-96-6582-2_15
   url: https://dblp.org/rec/conf/iconip/ZhangZZLXF24
+- author: Gabriele Digregorio, Francesco Bleggi, Federico Caroli, Michele Carminati,
+    Stefano Zanero, Stefano Longari
+  title: 'Poster: FedBlockParadox - A Framework for Simulating and Securing Decentralized
+    Federated Learning.'
+  venue: DIMVA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dimva/DigregorioBCCZL25
+  doi: 10.1007/978-3-031-97623-0_20
+  ee: https://doi.org/10.1007/978-3-031-97623-0_20
+  url: https://dblp.org/rec/conf/dimva/DigregorioBCCZL25
+- author: "Leonhard Duda, Khadijeh Alibabaei, Elena Vollmer, Leon Klug, Valentin Kozlov,\
+    \ Lisana Berberi, Mishal Benz, Rebekka Volk, Juan Pedro Guti\xE9rrez H. Muriedas,\
+    \ Markus G\xF6tz, Judith S\xE1inz-Pardo D\xEDaz, \xC1lvaro L\xF3pez Garc\xEDa,\
+    \ Frank Schultmann, Achim Streit"
+  title: Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison
+    of Centralized and Decentralized Approaches.
+  venue: ICCSA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccsa/DudaAVKKBBVMGDGSS25
+  doi: 10.1007/978-3-031-97000-9_18
+  ee: https://doi.org/10.1007/978-3-031-97000-9_18
+  url: https://dblp.org/rec/conf/iccsa/DudaAVKKBBVMGDGSS25
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

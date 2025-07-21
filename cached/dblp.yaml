@@ -2255,6 +2255,16 @@ decentralized%20learning%20streamid%3Ajournals%2Ftc%3A:
   doi: 10.1109/TC.2022.3169436
   ee: https://doi.org/10.1109/TC.2022.3169436
   url: https://dblp.org/rec/journals/tc/XuZCHYC23
+- author: Qinglun Li, Miao Zhang, Nan Yin, Quanjun Yin, Li Shen 0008, Xiaochun Cao
+  title: Asymmetrically Decentralized Federated Learning.
+  venue: IEEE Trans. Computers
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/LiZYYSC25
+  doi: 10.1109/TC.2025.3569185
+  ee: https://doi.org/10.1109/TC.2025.3569185
+  url: https://dblp.org/rec/journals/tc/LiZYYSC25
 decentralized%20learning%20streamid%3Aconf%2Ficse%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fstoc%3A: []

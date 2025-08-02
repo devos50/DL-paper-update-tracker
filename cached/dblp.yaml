@@ -3430,6 +3430,30 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3565005
   ee: https://doi.org/10.1109/JIOT.2025.3565005
   url: https://dblp.org/rec/journals/iotj/AsheralievaN25
+- author: Raushan Myrzashova, Saeed Hamood Alsamhi, Alexey V. Shvetsov, Ammar Hawbani,
+    Mohsen Guizani, Xi Wei 0001
+  title: 'BCFTL: Blockchain-Enabled Multimodal Federated Transfer Learning for Decentralized
+    Alzheimer&apos;s Diagnosis.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/MyrzashovaASHGW25
+  doi: 10.1109/JIOT.2025.3569652
+  ee: https://doi.org/10.1109/JIOT.2025.3569652
+  url: https://dblp.org/rec/journals/iotj/MyrzashovaASHGW25
+- author: Saeed Hamood Alsamhi, Raushan Myrzashova, Ammar Hawbani, Santosh Kumar 0006,
+    Sumit Srivastava, Liang Zhao 0004, Xi Wei 0001, Mohsen Guizani, Edward Curry
+  title: 'Federated Learning Meets Blockchain in Decentralized Data Sharing: Healthcare
+    Use Case.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/iotj/AlsamhiMHKSZWGC24
+  doi: 10.1109/JIOT.2024.3367249
+  ee: https://doi.org/10.1109/JIOT.2024.3367249
+  url: https://dblp.org/rec/journals/iotj/AlsamhiMHKSZWGC24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

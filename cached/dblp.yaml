@@ -13179,3 +13179,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2307.09801
   ee: https://doi.org/10.48550/arXiv.2307.09801
   url: https://dblp.org/rec/journals/corr/abs-2307-09801
+- author: Kefan Su, Siyuan Zhou, Chuang Gan 0001, Xiangjun Wang, Zongqing Lu 0002
+  title: 'MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-08244
+  doi: 10.48550/ARXIV.2209.08244
+  ee: https://doi.org/10.48550/arXiv.2209.08244
+  url: https://dblp.org/rec/journals/corr/abs-2209-08244

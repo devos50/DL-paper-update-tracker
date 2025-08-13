@@ -577,6 +577,16 @@ decentralized%20learning%20venue%3AAISTATS%3A:
   doi: ''
   ee: http://proceedings.mlr.press/v54/vanhaesebrouck17a.html
   url: https://dblp.org/rec/conf/aistats/VanhaesebrouckB17
+- author: "Salma Kharrat, Marco Canini, Samuel Horv\xE1th"
+  title: 'DPFL: Decentralized Personalized Federated Learning.'
+  venue: AISTATS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/KharratCH25
+  doi: ''
+  ee: https://proceedings.mlr.press/v258/kharrat25a.html
+  url: https://dblp.org/rec/conf/aistats/KharratCH25
 decentralized%20learning%20streamid%3Aconf%2Falt%3A:
 - author: Hsu Kao, Chen-Yu Wei, Vijay G. Subramanian
   title: Decentralized Cooperative Reinforcement Learning with Hierarchical Information
@@ -3466,6 +3476,29 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3367249
   ee: https://doi.org/10.1109/JIOT.2024.3367249
   url: https://dblp.org/rec/journals/iotj/AlsamhiMHKSZWGC24
+- author: Yijing Lin, Zhipeng Gao 0001, Weisong Shi, Qian Wang 0015, Huangqi Li, Miaomiao
+    Wang 0003, Yang Yang 0006, Lanlan Rui
+  title: A Novel Architecture Combining Oracle With Decentralized Learning for IIoT.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LinGSWLWYR23
+  doi: 10.1109/JIOT.2022.3150789
+  ee: https://doi.org/10.1109/JIOT.2022.3150789
+  url: https://dblp.org/rec/journals/iotj/LinGSWLWYR23
+- author: Chen Zhao, Zhipeng Gao 0001, Yang Yang 0006, Qian Wang 0015, Zijia Mo, Xinlei
+    Yu
+  title: 'FedUSC: Collaborative Unsupervised Representation Learning From Decentralized
+    Data for Internet of Things.'
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhaoGYWMY23
+  doi: 10.1109/JIOT.2023.3262669
+  ee: https://doi.org/10.1109/JIOT.2023.3262669
+  url: https://dblp.org/rec/journals/iotj/ZhaoGYWMY23
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

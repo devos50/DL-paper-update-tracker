@@ -13292,3 +13292,71 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2208.01800
   ee: https://doi.org/10.48550/arXiv.2208.01800
   url: https://dblp.org/rec/journals/corr/abs-2208-01800
+- author: Kemboi Cheruiyot, Nickson Kiprotich, Vyacheslav Kungurtsev, Kennedy Mugo,
+    Vivian Mwirigi, Marvin Ngesa
+  title: 'A Survey of Multi Agent Reinforcement Learning: Federated Learning and Cooperative
+    and Noncooperative Decentralized Regimes.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-06278
+  doi: 10.48550/ARXIV.2507.06278
+  ee: https://doi.org/10.48550/arXiv.2507.06278
+  url: https://dblp.org/rec/journals/corr/abs-2507-06278
+- author: Tongtian Zhu, Tianyu Zhang, Mingze Wang, Zhanpeng Zhou, Can Wang
+  title: 'A Single Merging Suffices: Recovering Server-based Learning Performance
+    in Decentralized Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-06542
+  doi: 10.48550/ARXIV.2507.06542
+  ee: https://doi.org/10.48550/arXiv.2507.06542
+  url: https://dblp.org/rec/journals/corr/abs-2507-06542
+- author: Arthur Alexander Lim, Zhen Bin It, Jovan Bo Wen Heng, Tee Hui Teo
+  title: 'Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for
+    Privacy and Scalable Decision Making.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-06652
+  doi: 10.48550/ARXIV.2507.06652
+  ee: https://doi.org/10.48550/arXiv.2507.06652
+  url: https://dblp.org/rec/journals/corr/abs-2507-06652
+- author: Tongtian Zhu, Wenhao Li, Can Wang 0001, Fengxiang He
+  title: 'DICE: Data Influence Cascade in Decentralized Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-06931
+  doi: 10.48550/ARXIV.2507.06931
+  ee: https://doi.org/10.48550/arXiv.2507.06931
+  url: https://dblp.org/rec/journals/corr/abs-2507-06931
+- author: "Carlos Beis-Penedo, Rebeca P. D\xEDaz Redondo, Ana Fern\xE1ndez Vilas,\
+    \ Manuel Fern\xE1ndez-Veiga, Francisco Troncoso-Pastoriza"
+  title: HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger
+    Fabric.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-07637
+  doi: 10.48550/ARXIV.2507.07637
+  ee: https://doi.org/10.48550/arXiv.2507.07637
+  url: https://dblp.org/rec/journals/corr/abs-2507-07637
+- author: Ronghua Shi, Yiou Liu, Xinyu Ying, Yang Tan, Yuchun Feng, Lynn Ai, Bill
+    Shi, Xuhui Wang, Zhuang Liu
+  title: 'Hide-and-Shill: A Reinforcement Learning Framework for Market Manipulation
+    Detection in Symphony-a Decentralized Multi-Agent System.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-09179
+  doi: 10.48550/ARXIV.2507.09179
+  ee: https://doi.org/10.48550/arXiv.2507.09179
+  url: https://dblp.org/rec/journals/corr/abs-2507-09179

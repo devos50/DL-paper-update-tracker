@@ -13360,3 +13360,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2507.09179
   ee: https://doi.org/10.48550/arXiv.2507.09179
   url: https://dblp.org/rec/journals/corr/abs-2507-09179
+- author: "Chao Feng 0001, Alberto Huertas Celdr\xE1n, Jing Han, Heqing Ren, Xi Cheng,\
+    \ Zien Zeng, Lucas Krauter, G\xE9r\xF4me Bovet, Burkhard Stiller"
+  title: A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning
+    Models.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-13313
+  doi: 10.48550/ARXIV.2507.13313
+  ee: https://doi.org/10.48550/arXiv.2507.13313
+  url: https://dblp.org/rec/journals/corr/abs-2507-13313
+- author: Qingyi Chen, Ahmed H. Qureshi
+  title: 'NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe
+    Multi-Agent Motion Planning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-13940
+  doi: 10.48550/ARXIV.2507.13940
+  ee: https://doi.org/10.48550/arXiv.2507.13940
+  url: https://dblp.org/rec/journals/corr/abs-2507-13940
+- author: Zehua Cheng, Rui Sun, Jiahao Sun, Yike Guo
+  title: Scaling Decentralized Learning with FLock.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-15349
+  doi: 10.48550/ARXIV.2507.15349
+  ee: https://doi.org/10.48550/arXiv.2507.15349
+  url: https://dblp.org/rec/journals/corr/abs-2507-15349

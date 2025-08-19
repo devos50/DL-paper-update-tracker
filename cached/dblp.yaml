@@ -1361,6 +1361,17 @@ decentralized%20learning%20venue%3AUAI%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v244/zhang24b.html
   url: https://dblp.org/rec/conf/uai/ZhangF24
+- author: I-Cheng Lin, Osman Yagan, Carlee Joe-Wong
+  title: 'FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated
+    Learning.'
+  venue: UAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/LinYJ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v286/lin25a.html
+  url: https://dblp.org/rec/conf/uai/LinYJ25
 decentralized%20learning%20streamid%3Ajournals%2Fml%3A:
 - author: Kejie Tang, Weidong Liu, Xiaojun Mao
   title: Multi-consensus decentralized primal-dual fixed point algorithm for distributed
@@ -13393,3 +13404,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2507.15349
   ee: https://doi.org/10.48550/arXiv.2507.15349
   url: https://dblp.org/rec/journals/corr/abs-2507-15349
+- author: "Aritz P\xE9rez, Carlos Echegoyen, Guzm\xE1n Santaf\xE9"
+  title: Decentralized Federated Learning of Probabilistic Generative Classifiers.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-17285
+  doi: 10.48550/ARXIV.2507.17285
+  ee: https://doi.org/10.48550/arXiv.2507.17285
+  url: https://dblp.org/rec/journals/corr/abs-2507-17285
+- author: Jaiprakash Nagar, Zheng Chen, Marios Kountouris, Photios A. Stavrou
+  title: Information Entropy-Based Scheduling for Communication-Efficient Decentralized
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-17426
+  doi: 10.48550/ARXIV.2507.17426
+  ee: https://doi.org/10.48550/arXiv.2507.17426
+  url: https://dblp.org/rec/journals/corr/abs-2507-17426

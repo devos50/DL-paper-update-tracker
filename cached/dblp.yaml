@@ -1803,6 +1803,18 @@ decentralized%20learning%20venue%3ACVPR%3A:
   doi: ''
   ee: https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html
   url: https://dblp.org/rec/conf/cvpr/XieLCYCXFSW025
+- author: Luyuan Xie, Tianyu Luan, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, Nan Xi,
+    Yuejian Fang, Qingni Shen, Zhonghai Wu, Junsong Yuan 0001
+  title: 'dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical
+    Data Analysis.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/XieLCYCXFSW025
+  doi: 10.1109/CVPR52734.2025.00954
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/XieLCYCXFSW025
 decentralized%20learning%20venue%3AICCV%3A:
 - author: Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto, Concetto
     Spampinato, Simone Palazzo, Bruno Casella, Marco Aldinucci
@@ -13425,3 +13437,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2507.17426
   ee: https://doi.org/10.48550/arXiv.2507.17426
   url: https://dblp.org/rec/journals/corr/abs-2507-17426
+- author: Yuan Zhou 0015, Xinli Shi, Xuelong Li, Jiachen Zhong, Guanghui Wen, Jinde
+    Cao
+  title: Decentralized Nonconvex Composite Federated Learning with Gradient Tracking
+    and Momentum.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-12742
+  doi: 10.48550/ARXIV.2504.12742
+  ee: https://doi.org/10.48550/arXiv.2504.12742
+  url: https://dblp.org/rec/journals/corr/abs-2504-12742
+- author: Jaiprakash Nagar, Zheng Chen 0002, Marios Kountouris, Photios A. Stavrou
+  title: Information Entropy-Based Scheduling for Communication-Efficient Decentralized
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-17426
+  doi: 10.48550/ARXIV.2507.17426
+  ee: https://doi.org/10.48550/arXiv.2507.17426
+  url: https://dblp.org/rec/journals/corr/abs-2507-17426
+- author: Xiuxian Li, Lihua Xie 0001, Na Li
+  title: A Survey of Decentralized Online Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-00473
+  doi: 10.48550/ARXIV.2205.00473
+  ee: https://doi.org/10.48550/arXiv.2205.00473
+  url: https://dblp.org/rec/journals/corr/abs-2205-00473

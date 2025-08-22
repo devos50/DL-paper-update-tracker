@@ -4159,6 +4159,28 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-031-44213-1_38
   ee: https://doi.org/10.1007/978-3-031-44213-1_38
   url: https://dblp.org/rec/conf/icann/LiuTZC23
+- author: Ny Hasina Andriambelo, Naghmeh Moradpoor
+  title: Privacy-Preserving Knowledge Graph Sharing in Peer-to-Peer Decentralized
+    Federated Learning for Connected Autonomous Vehicles.
+  venue: ARES
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/IEEEares/AndriambeloM25
+  doi: 10.1007/978-3-032-00639-4_14
+  ee: https://doi.org/10.1007/978-3-032-00639-4_14
+  url: https://dblp.org/rec/conf/IEEEares/AndriambeloM25
+- author: Jinyuan Zhang, Xiangfeng Luo
+  title: Dynamic Intention Recognition for Decentralized Multi-agent Reinforcement
+    Learning.
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/ZhangL25b
+  doi: 10.1007/978-981-96-9891-2_19
+  ee: https://doi.org/10.1007/978-981-96-9891-2_19
+  url: https://dblp.org/rec/conf/icic/ZhangL25b
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

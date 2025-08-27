@@ -3543,6 +3543,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2022.3209714
   ee: https://doi.org/10.1109/JIOT.2022.3209714
   url: https://dblp.org/rec/journals/iotj/ZhangTX23
+- author: Liujie Lv, Sheng Wu 0001, Ailing Xiao, Zhe Ji, Haoge Jia, Linling Kuang
+  title: Dual-Driven Pattern-Coupled Sparse Bayesian Learning Unfolding Network for
+    Decentralized Noncoherent DoA Estimation in UAV Swarm.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LvWXJJK25
+  doi: 10.1109/JIOT.2025.3577155
+  ee: https://doi.org/10.1109/JIOT.2025.3577155
+  url: https://dblp.org/rec/journals/iotj/LvWXJJK25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

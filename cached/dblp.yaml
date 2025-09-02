@@ -13535,3 +13535,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2304.03947
   ee: https://doi.org/10.48550/arXiv.2304.03947
   url: https://dblp.org/rec/journals/corr/abs-2304-03947
+- author: Zheng Xiong, Biao Luo 0001, Bing-Chuan Wang, Xiaodong Xu 0002, Xiaodong
+    Liu 0011, Tingwen Huang
+  title: Decentralized Multi-agent Reinforcement Learning based State-of-Charge Balancing
+    Strategy for Distributed Energy Storage System.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-15394
+  doi: 10.48550/ARXIV.2308.15394
+  ee: https://doi.org/10.48550/arXiv.2308.15394
+  url: https://dblp.org/rec/journals/corr/abs-2308-15394

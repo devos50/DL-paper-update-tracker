@@ -2938,6 +2938,16 @@ decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
   doi: 10.1109/IPDPSW63119.2024.00196
   ee: https://doi.org/10.1109/IPDPSW63119.2024.00196
   url: https://dblp.org/rec/conf/ipps/VosDDGKMP024
+- author: Amir Ali Pour, Julien Gascon-Samson
+  title: 'SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT.'
+  venue: IPDPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ipps/PourG25
+  doi: 10.1109/IPDPSW66978.2025.00172
+  ee: https://doi.org/10.1109/IPDPSW66978.2025.00172
+  url: https://dblp.org/rec/conf/ipps/PourG25
 decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
 - author: Lei Yang 0024, Yanyan Lu, Jiannong Cao 0001, Jiaming Huang, Mingjin Zhang
   title: 'E-Tree Learning: A Novel Decentralized Model Learning Framework for Edge

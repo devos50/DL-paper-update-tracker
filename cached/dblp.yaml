@@ -2264,6 +2264,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2022.3202887
   ee: https://doi.org/10.1109/TPDS.2022.3202887
   url: https://dblp.org/rec/journals/tpds/CheLCHZ22
+- author: Yishan Chen 0001, Xiangwei Zeng, Huashuai Cai, Qing Xu, Zhiquan Liu
+  title: Decentralized QoS-Aware Model Inference Using Federated Split Learning for
+    Cloud-Edge Medical Detection.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/ChenZCXL25
+  doi: 10.1109/TPDS.2025.3594694
+  ee: https://doi.org/10.1109/TPDS.2025.3594694
+  url: https://dblp.org/rec/journals/tpds/ChenZCXL25
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -3564,6 +3575,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3577155
   ee: https://doi.org/10.1109/JIOT.2025.3577155
   url: https://dblp.org/rec/journals/iotj/LvWXJJK25
+- author: Xuan Liang, Jianhua Tang, Marie Siew
+  title: Decentralized Federated Learning Framework for Social IoT With Dynamic Network
+    Topology.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiangTS25
+  doi: 10.1109/JIOT.2025.3585542
+  ee: https://doi.org/10.1109/JIOT.2025.3585542
+  url: https://dblp.org/rec/journals/iotj/LiangTS25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

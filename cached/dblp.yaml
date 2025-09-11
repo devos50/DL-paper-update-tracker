@@ -13590,3 +13590,37 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2308.15394
   ee: https://doi.org/10.48550/arXiv.2308.15394
   url: https://dblp.org/rec/journals/corr/abs-2308-15394
+- author: Jack Zeng, Andreu Matoses Gimenez, Eugene Vinitsky, Javier Alonso-Mora,
+    Sihao Sun
+  title: Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-01522
+  doi: 10.48550/ARXIV.2508.01522
+  ee: https://doi.org/10.48550/arXiv.2508.01522
+  url: https://dblp.org/rec/journals/corr/abs-2508-01522
+- author: Ignacy Stepka, Nicholas Gisolfi, Kacper Trebacz, Artur Dubrawski
+  title: Mitigating Persistent Client Dropout in Asynchronous Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-01807
+  doi: 10.48550/ARXIV.2508.01807
+  ee: https://doi.org/10.48550/arXiv.2508.01807
+  url: https://dblp.org/rec/journals/corr/abs-2508-01807
+- author: Jiahui Bai, Hai Dong, Alex Kai Qin
+  title: 'On the Fast Adaptation of Delayed Clients in Decentralized Federated Learning:
+    A Centroid-Aligned Distillation Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-02993
+  doi: 10.48550/ARXIV.2508.02993
+  ee: https://doi.org/10.48550/arXiv.2508.02993
+  url: https://dblp.org/rec/journals/corr/abs-2508-02993

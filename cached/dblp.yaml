@@ -13624,3 +13624,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2508.02993
   ee: https://doi.org/10.48550/arXiv.2508.02993
   url: https://dblp.org/rec/journals/corr/abs-2508-02993
+- author: Xinyu Zhou, Songhao Piao, Wenzheng Chi, Liguo Chen, Wei Li 0258
+  title: 'HeR-DRL: Heterogeneous Relational Deep Reinforcement Learning for Decentralized
+    Multi-Robot Crowd Navigation.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2403-10083
+  doi: 10.48550/ARXIV.2403.10083
+  ee: https://doi.org/10.48550/arXiv.2403.10083
+  url: https://dblp.org/rec/journals/corr/abs-2403-10083

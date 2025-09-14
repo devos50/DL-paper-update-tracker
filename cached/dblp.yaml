@@ -13635,3 +13635,71 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2403.10083
   ee: https://doi.org/10.48550/arXiv.2403.10083
   url: https://dblp.org/rec/journals/corr/abs-2403-10083
+- author: Hamidreza Asadian-Rad, Hossein Soleimani, Shahrokh Farahmand
+  title: Energy Efficient Task Offloading in UAV-Enabled MEC Using a Fully Decentralized
+    Deep Reinforcement Learning Approach.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-06863
+  doi: 10.48550/ARXIV.2508.06863
+  ee: https://doi.org/10.48550/arXiv.2508.06863
+  url: https://dblp.org/rec/journals/corr/abs-2508-06863
+- author: Myeung Suk Oh, Zhiyao Zhang, FNU Hairi, Alvaro Velasquez, Jia Liu 0002
+  title: Consensus-based Decentralized Multi-agent Reinforcement Learning for Random
+    Access Network Optimization.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-07001
+  doi: 10.48550/ARXIV.2508.07001
+  ee: https://doi.org/10.48550/arXiv.2508.07001
+  url: https://dblp.org/rec/journals/corr/abs-2508-07001
+- author: Yuze Liu, Tiehua Zhang, Zhishu Shen, Libing Wu, Shiping Chen, Jiong Jin
+  title: Towards Heterogeneity-Aware and Energy-Efficient Topology Optimization for
+    Decentralized Federated Learning in Edge Environment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-08278
+  doi: 10.48550/ARXIV.2508.08278
+  ee: https://doi.org/10.48550/arXiv.2508.08278
+  url: https://dblp.org/rec/journals/corr/abs-2508-08278
+- author: Yipeng Du 0001, Zihao Wang, Ahmad Farhan, Claudio Angione, Harry Yang, Fielding
+    Johnston, James P. Buban, Patrick Colangelo, Yue Zhao, Yuzhe Yang 0006
+  title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-09194
+  doi: 10.48550/ARXIV.2508.09194
+  ee: https://doi.org/10.48550/arXiv.2508.09194
+  url: https://dblp.org/rec/journals/corr/abs-2508-09194
+- author: Rilwan Umar, Aydin Abadi, Basil Aldali, Benito Vincent, Elliot A. J. Hurley,
+    Hotoon Aljazaeri, Jamie Hedley-Cook, Jamie-Lee Bell, Lambert Uwuigbusun, Mujeeb
+    Ahmed, Shishir Nagaraja, Suleiman Sabo, Weaam Alrbeiqi
+  title: Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based
+    Model Validation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-09299
+  doi: 10.48550/ARXIV.2508.09299
+  ee: https://doi.org/10.48550/arXiv.2508.09299
+  url: https://dblp.org/rec/journals/corr/abs-2508-09299
+- author: Yuzhe Yang 0006, Yipeng Du 0001, Ahmad Farhan, Claudio Angione, Yue Zhao,
+    Harry Yang, Fielding Johnston, James P. Buban, Patrick Colangelo
+  title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-21340
+  doi: 10.48550/ARXIV.2410.21340
+  ee: https://doi.org/10.48550/arXiv.2410.21340
+  url: https://dblp.org/rec/journals/corr/abs-2410-21340

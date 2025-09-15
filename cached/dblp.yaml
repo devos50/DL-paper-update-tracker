@@ -3586,6 +3586,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3585542
   ee: https://doi.org/10.1109/JIOT.2025.3585542
   url: https://dblp.org/rec/journals/iotj/LiangTS25
+- author: Tao Chen 0054, Xiaofen Wang, Hong-Ning Dai, Haomiao Yang
+  title: A Dropout-Tolerated Privacy-Preserving Method for Decentralized Crowdsourced
+    Federated Learning.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ChenWDY24
+  doi: 10.1109/JIOT.2023.3315730
+  ee: https://doi.org/10.1109/JIOT.2023.3315730
+  url: https://dblp.org/rec/journals/iotj/ChenWDY24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -4256,6 +4267,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-031-99854-6_13
   ee: https://doi.org/10.1007/978-3-031-99854-6_13
   url: https://dblp.org/rec/conf/europar/XuYXLX25
+- author: Tao Chen 0054, Xiaofen Wang, Hong-Ning Dai
+  title: 'R-PPDFL: A Robust and Privacy-Preserving Decentralized Federated Learning
+    System.'
+  venue: ACISP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acisp/ChenWD24
+  doi: 10.1007/978-981-97-5101-3_9
+  ee: https://doi.org/10.1007/978-981-97-5101-3_9
+  url: https://dblp.org/rec/conf/acisp/ChenWD24
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

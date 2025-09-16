@@ -4468,6 +4468,18 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFOCOM52122.2024.10621347
   ee: https://doi.org/10.1109/INFOCOM52122.2024.10621347
   url: https://dblp.org/rec/conf/infocom/QiaoZYYCZRY24
+- author: Cheng Zhang 0035, Yang Xu 0013, Xiaowei Wu, En Wang, Hongbo Jiang 0001,
+    Yaoxue Zhang
+  title: A Semi-Asynchronous Decentralized Federated Learning Framework via Tree-Graph
+    Blockchain.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/Zhang0WW0Z24
+  doi: 10.1109/INFOCOM52122.2024.10621425
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621425
+  url: https://dblp.org/rec/conf/infocom/Zhang0WW0Z24
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota
@@ -13725,3 +13737,27 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2410.21340
   ee: https://doi.org/10.48550/arXiv.2410.21340
   url: https://dblp.org/rec/journals/corr/abs-2410-21340
+- author: Yuze Liu, Tiehua Zhang, Zhishu Shen, Libing Wu, Shiping Chen 0001, Jiong
+    Jin
+  title: Towards Heterogeneity-Aware and Energy-Efficient Topology Optimization for
+    Decentralized Federated Learning in Edge Environment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-08278
+  doi: 10.48550/ARXIV.2508.08278
+  ee: https://doi.org/10.48550/arXiv.2508.08278
+  url: https://dblp.org/rec/journals/corr/abs-2508-08278
+- author: Lianshuai Guo, Zhongzheng Yuan, Xunkai Li, Yinlin Zhu, Meixia Qu, Wenyu
+    Wang
+  title: 'DFed-SST: Building Semantic- and Structure-aware Topologies for Decentralized
+    Federated Graph Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-11530
+  doi: 10.48550/ARXIV.2508.11530
+  ee: https://doi.org/10.48550/arXiv.2508.11530
+  url: https://dblp.org/rec/journals/corr/abs-2508-11530

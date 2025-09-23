@@ -109,6 +109,49 @@ decentralized%20learning%20venue%3AIJCAI%3A:
   doi: ''
   ee: https://www.ijcai.org/proceedings/2024/971
   url: https://dblp.org/rec/conf/ijcai/Sylvester24
+- author: Saar Cohen 0001, Noa Agmon
+  title: Decentralized Online Learning by Selfish Agents in Coalition Formation.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/0001A25
+  doi: 10.24963/IJCAI.2025/422
+  ee: https://doi.org/10.24963/ijcai.2025/422
+  url: https://dblp.org/rec/conf/ijcai/0001A25
+- author: Weishi Li, Yong Peng, Mengyao Du, Fuhui Sun, Xiaoyan Wang, Li Shen 0008
+  title: Hypernetwork Aggregation for Decentralized Personalized Federated Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/LiPDSW025
+  doi: 10.24963/IJCAI.2025/161
+  ee: https://doi.org/10.24963/ijcai.2025/161
+  url: https://dblp.org/rec/conf/ijcai/LiPDSW025
+- author: Yihe Zhou, Shunyu Liu 0001, Yunpeng Qing, Tongya Zheng, Kaixuan Chen, Jie
+    Song, Mingli Song
+  title: 'CADP: Towards Better Centralized Learning for Decentralized Execution in
+    MARL.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/Zhou0QZCSS25
+  doi: 10.24963/IJCAI.2025/803
+  ee: https://doi.org/10.24963/ijcai.2025/803
+  url: https://dblp.org/rec/conf/ijcai/Zhou0QZCSS25
+- author: Zehan Zhu, Yan Huang, Xin Wang, Shouling Ji, Jinming Xu 0002
+  title: 'Dyn-D2P: Dynamic Differentially Private Decentralized Learning with Provable
+    Utility Guarantee.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/ZhuHWJ025
+  doi: 10.24963/IJCAI.2025/809
+  ee: https://doi.org/10.24963/ijcai.2025/809
+  url: https://dblp.org/rec/conf/ijcai/ZhuHWJ025
 decentralized%20learning%20venue%3AAAAI%3A:
 - author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
     Aleksandr Panov
@@ -1626,6 +1669,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
   doi: ''
   ee: https://jmlr.org/papers/v24/20-700.html
   url: https://dblp.org/rec/journals/jmlr/LiJWYZ23
+- author: Yucheng Lu 0003, Christopher De Sa
+  title: 'Decentralized Learning: Theoretical Optimality and Practical Improvements.'
+  venue: J. Mach. Learn. Res.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/LuS23a
+  doi: ''
+  ee: https://jmlr.org/papers/v24/22-0044.html
+  url: https://dblp.org/rec/journals/jmlr/LuS23a
 decentralized%20learning%20streamid%3Ajournals%2Fpami%3A: []
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
@@ -2296,6 +2349,17 @@ decentralized%20learning%20venue%3ADAC%3A:
   doi: 10.1109/DAC18074.2021.9586101
   ee: https://doi.org/10.1109/DAC18074.2021.9586101
   url: https://dblp.org/rec/conf/dac/CaoLLZJ21
+- author: Dengke Yan, Yanxin Yang, Ming Hu 0003, Xin Fu, Mingsong Chen 0001
+  title: 'MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained
+    AIoT Systems.'
+  venue: DAC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dac/YanYHFC25
+  doi: 10.1109/DAC63849.2025.11133116
+  ee: https://doi.org/10.1109/DAC63849.2025.11133116
+  url: https://dblp.org/rec/conf/dac/YanYHFC25
 decentralized%20learning%20streamid%3Ajournals%2Ftocs%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ftos%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ftcad%3A: []
@@ -3597,6 +3661,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2023.3315730
   ee: https://doi.org/10.1109/JIOT.2023.3315730
   url: https://dblp.org/rec/journals/iotj/ChenWDY24
+- author: Bin Jiang 0003, Junhao Wu, Guanghui Yue 0001, Xuerong Cui, Jian Wang 0061,
+    Houbing Herbert Song
+  title: 'DFedMQ: Decentralized Federated Learning Based on Dynamic Selection Collaboration
+    and Topology Optimization.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/JiangWYCWS25
+  doi: 10.1109/JIOT.2025.3584095
+  ee: https://doi.org/10.1109/JIOT.2025.3584095
+  url: https://dblp.org/rec/journals/iotj/JiangWYCWS25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -13773,3 +13849,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2501.15995
   ee: https://doi.org/10.48550/arXiv.2501.15995
   url: https://dblp.org/rec/journals/corr/abs-2501-15995
+- author: Myeung Suk Oh, Zhiyao Zhang, Hairi, Alvaro Velasquez, Jia Liu 0002
+  title: Consensus-based Decentralized Multi-agent Reinforcement Learning for Random
+    Access Network Optimization.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-07001
+  doi: 10.48550/ARXIV.2508.07001
+  ee: https://doi.org/10.48550/arXiv.2508.07001
+  url: https://dblp.org/rec/journals/corr/abs-2508-07001

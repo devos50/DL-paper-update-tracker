@@ -152,6 +152,40 @@ decentralized%20learning%20venue%3AIJCAI%3A:
   doi: 10.24963/IJCAI.2025/809
   ee: https://doi.org/10.24963/ijcai.2025/809
   url: https://dblp.org/rec/conf/ijcai/ZhuHWJ025
+- author: Weishi Li, Yong Peng 0006, Mengyao Du, Fuhui Sun, Xiaoyan Wang, Li Shen
+    0008
+  title: Hypernetwork Aggregation for Decentralized Personalized Federated Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/LiPDSW025
+  doi: 10.24963/IJCAI.2025/161
+  ee: https://doi.org/10.24963/ijcai.2025/161
+  url: https://dblp.org/rec/conf/ijcai/LiPDSW025
+- author: Yihe Zhou, Shunyu Liu 0001, Yunpeng Qing, Tongya Zheng, Kaixuan Chen 0004,
+    Jie Song 0011, Mingli Song
+  title: 'CADP: Towards Better Centralized Learning for Decentralized Execution in
+    MARL.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/Zhou0QZCSS25
+  doi: 10.24963/IJCAI.2025/803
+  ee: https://doi.org/10.24963/ijcai.2025/803
+  url: https://dblp.org/rec/conf/ijcai/Zhou0QZCSS25
+- author: Zehan Zhu, Yan Huang 0036, Xin Wang, Shouling Ji, Jinming Xu 0002
+  title: 'Dyn-D2P: Dynamic Differentially Private Decentralized Learning with Provable
+    Utility Guarantee.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/ZhuHWJ025
+  doi: 10.24963/IJCAI.2025/809
+  ee: https://doi.org/10.24963/ijcai.2025/809
+  url: https://dblp.org/rec/conf/ijcai/ZhuHWJ025
 decentralized%20learning%20venue%3AAAAI%3A:
 - author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
     Aleksandr Panov
@@ -2847,6 +2881,19 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3584129
   ee: https://doi.org/10.1109/ACCESS.2025.3584129
   url: https://dblp.org/rec/journals/access/ZhangH25
+- author: Salabat Khan, Fariha Nosheen, Syed Shehryar Ali Naqvi, Harun Jamil, Muhammad
+    Faseeh, Murad Ali Khan, Dohyeun Kim 0001
+  title: Bilevel Hyperparameter Optimization and Neural Architecture Search for Enhanced
+    Breast Cancer Detection in Smart Hospitals Interconnected With Decentralized Federated
+    Learning Environment.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/KhanNNJFKK24
+  doi: 10.1109/ACCESS.2024.3392572
+  ee: https://doi.org/10.1109/ACCESS.2024.3392572
+  url: https://dblp.org/rec/journals/access/KhanNNJFKK24
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -13860,3 +13907,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2508.07001
   ee: https://doi.org/10.48550/arXiv.2508.07001
   url: https://dblp.org/rec/journals/corr/abs-2508-07001
+- author: Bicheng Ying, Zhe Li, Haibo Yang 0001
+  title: 'From Interpretation to Correction: A Decentralized Optimization Framework
+    for Exact Convergence in Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20117
+  doi: 10.48550/ARXIV.2503.20117
+  ee: https://doi.org/10.48550/arXiv.2503.20117
+  url: https://dblp.org/rec/journals/corr/abs-2503-20117

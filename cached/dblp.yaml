@@ -2058,7 +2058,18 @@ decentralized%20learning%20venue%3AICDE%3A:
   ee: https://doi.org/10.1109/ICDE55515.2023.00149
   url: https://dblp.org/rec/conf/icde/PanZC23
 decentralized%20learning%20streamid%3Ajournals%2Fpvldb%3A: []
-decentralized%20learning%20venue%3ASIGCOMM%3A: []
+decentralized%20learning%20venue%3ASIGCOMM%3A:
+- author: "Enrique Tom\xE1s Mart\xEDnez Beltr\xE1n, G\xE9r\xF4me Bovet, Gregorio Mart\xED\
+    nez P\xE9rez, Alberto Huertas Celdr\xE1n"
+  title: NEBULA - Decentralized Federated Learning for Heterogeneous Networks.
+  venue: SIGCOMM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sigcomm/BeltranBPC25
+  doi: 10.1145/3744969.3748413
+  ee: https://doi.org/10.1145/3744969.3748413
+  url: https://dblp.org/rec/conf/sigcomm/BeltranBPC25
 decentralized%20learning%20venue%3AINFOCOM%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

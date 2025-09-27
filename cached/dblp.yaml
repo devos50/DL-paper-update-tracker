@@ -2949,6 +2949,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2024.3392572
   ee: https://doi.org/10.1109/ACCESS.2024.3392572
   url: https://dblp.org/rec/journals/access/KhanNNJFKK24
+- author: Lin Zhang 0060, Yufeng Sun, Andrew Barth, Ou Ma
+  title: Decentralized Control of Multi-Robot System in Cooperative Object Transportation
+    Using Deep Reinforcement Learning.
+  venue: IEEE Access
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/access/ZhangSBM20
+  doi: 10.1109/ACCESS.2020.3025287
+  ee: https://doi.org/10.1109/ACCESS.2020.3025287
+  url: https://dblp.org/rec/journals/access/ZhangSBM20
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

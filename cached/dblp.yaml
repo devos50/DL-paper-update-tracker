@@ -13996,3 +13996,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.20117
   ee: https://doi.org/10.48550/arXiv.2503.20117
   url: https://dblp.org/rec/journals/corr/abs-2503-20117
+- author: Zhiyuan Cai, Huanhui Cao, Wenjie Lu, Lin Zhang 0060, Hao Xiong 0004
+  title: Safe Multi-Agent Reinforcement Learning through Decentralized Multiple Control
+    Barrier Functions.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2103-12553
+  doi: ''
+  ee: https://arxiv.org/abs/2103.12553
+  url: https://dblp.org/rec/journals/corr/abs-2103-12553

@@ -610,6 +610,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I13.33524
   ee: https://doi.org/10.1609/aaai.v39i13.33524
   url: https://dblp.org/rec/conf/aaai/Hu0HCLF25
+- author: Junyu Zhang, Amrit Singh Bedi, Mengdi Wang 0001, Alec Koppel
+  title: Multi-Agent Reinforcement Learning with General Utilities via Decentralized
+    Shadow Reward Actor-Critic.
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangBWK22
+  doi: 10.1609/AAAI.V36I8.20887
+  ee: https://doi.org/10.1609/aaai.v36i8.20887
+  url: https://dblp.org/rec/conf/aaai/ZhangBWK22
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -2057,6 +2068,17 @@ decentralized%20learning%20venue%3AICDE%3A:
   doi: 10.1109/ICDE55515.2023.00149
   ee: https://doi.org/10.1109/ICDE55515.2023.00149
   url: https://dblp.org/rec/conf/icde/PanZC23
+- author: Min Chen 0033, Yang Xu 0020, Hongli Xu 0001, Liusheng Huang
+  title: Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous
+    Devices.
+  venue: ICDE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/ChenXXH23
+  doi: 10.1109/ICDE55515.2023.00177
+  ee: https://doi.org/10.1109/ICDE55515.2023.00177
+  url: https://dblp.org/rec/conf/icde/ChenXXH23
 decentralized%20learning%20streamid%3Ajournals%2Fpvldb%3A: []
 decentralized%20learning%20venue%3ASIGCOMM%3A:
 - author: "Enrique Tom\xE1s Mart\xEDnez Beltr\xE1n, G\xE9r\xF4me Bovet, Gregorio Mart\xED\
@@ -4491,6 +4513,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-981-97-5101-3_9
   ee: https://doi.org/10.1007/978-981-97-5101-3_9
   url: https://dblp.org/rec/conf/acisp/ChenWD24
+- author: Yang Xu 0020, Zhiwei Yao, Hongli Xu 0001, Yunming Liao, Zuan Xie
+  title: 'MPLS: Stacking Diverse Layers Into One Model for Decentralized Federated
+    Learning.'
+  venue: Euro-Par
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/europar/XuYXLX25
+  doi: 10.1007/978-3-031-99854-6_13
+  ee: https://doi.org/10.1007/978-3-031-99854-6_13
+  url: https://dblp.org/rec/conf/europar/XuYXLX25
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao
@@ -4704,6 +4737,29 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFOCOMWKSHPS65812.2025.11152750
   ee: https://doi.org/10.1109/INFOCOMWKSHPS65812.2025.11152750
   url: https://dblp.org/rec/conf/infocom/WangCYD25
+- author: Zeyu Meng, Hongli Xu 0001, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
+    Qiao
+  title: Learning-Driven Decentralized Machine Learning in Resource-Constrained Wireless
+    Edge Computing.
+  venue: INFOCOM
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/MengXCXZQ21
+  doi: 10.1109/INFOCOM42981.2021.9488817
+  ee: https://doi.org/10.1109/INFOCOM42981.2021.9488817
+  url: https://dblp.org/rec/conf/infocom/MengXCXZQ21
+- author: Yunming Liao, Yang Xu 0020, Hongli Xu 0001, Lun Wang, Chen Qian 0001
+  title: Adaptive Configuration for Heterogeneous Participants in Decentralized Federated
+    Learning.
+  venue: INFOCOM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/LiaoXXWQ23
+  doi: 10.1109/INFOCOM53939.2023.10228945
+  ee: https://doi.org/10.1109/INFOCOM53939.2023.10228945
+  url: https://dblp.org/rec/conf/infocom/LiaoXXWQ23
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota
@@ -14030,3 +14086,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2103.12553
   url: https://dblp.org/rec/journals/corr/abs-2103-12553
+- author: Yunming Liao, Yang Xu 0020, Hongli Xu 0001, Lun Wang, Chen Qian 0001
+  title: Adaptive Configuration for Heterogeneous Participants in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2212-02136
+  doi: 10.48550/ARXIV.2212.02136
+  ee: https://doi.org/10.48550/arXiv.2212.02136
+  url: https://dblp.org/rec/journals/corr/abs-2212-02136

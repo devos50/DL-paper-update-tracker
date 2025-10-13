@@ -14184,3 +14184,70 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2311.02117
   ee: https://doi.org/10.48550/arXiv.2311.02117
   url: https://dblp.org/rec/journals/corr/abs-2311-02117
+- author: Phani Sahasra Akkinepally, Manaswini Piduguralla, Sushant Joshi, Sathya
+    Peri, Sandeep S. Kulkarni
+  title: Fault-Tolerant Decentralized Distributed Asynchronous Federated Learning
+    with Adaptive Termination Detection.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-02186
+  doi: 10.48550/ARXIV.2509.02186
+  ee: https://doi.org/10.48550/arXiv.2509.02186
+  url: https://dblp.org/rec/journals/corr/abs-2509-02186
+- author: Yigal Koifman, Erez Koifman, Eran Iceland, Ariel Barel, Alfred M. Bruckstein
+  title: 'VariAntNet: Learning Decentralized Control of Multi-Agent Systems.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-02271
+  doi: 10.48550/ARXIV.2509.02271
+  ee: https://doi.org/10.48550/arXiv.2509.02271
+  url: https://dblp.org/rec/journals/corr/abs-2509-02271
+- author: Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, Qianpiao Ma, Liusheng
+    Huang
+  title: Towards Communication-Efficient Decentralized Federated Graph Learning over
+    Non-IID Data.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-08409
+  doi: 10.48550/ARXIV.2509.08409
+  ee: https://doi.org/10.48550/arXiv.2509.08409
+  url: https://dblp.org/rec/journals/corr/abs-2509-08409
+- author: Qinglun Li, Miao Zhang 0037, Mengzhu Wang, Quanjun Yin, Li Shen 0008
+  title: 'OledFL: Unleashing the Potential of Decentralized Federated Learning via
+    Opposite Lookahead Enhancement.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-06482
+  doi: 10.48550/ARXIV.2410.06482
+  ee: https://doi.org/10.48550/arXiv.2410.06482
+  url: https://dblp.org/rec/journals/corr/abs-2410-06482
+- author: Qinglun Li, Miao Zhang 0037, Yingqi Liu, Quanjun Yin, Li Shen 0008, Xiaochun
+    Cao
+  title: Boosting the Performance of Decentralized Federated Learning via Catalyst
+    Acceleration.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2410-07272
+  doi: 10.48550/ARXIV.2410.07272
+  ee: https://doi.org/10.48550/arXiv.2410.07272
+  url: https://dblp.org/rec/journals/corr/abs-2410-07272
+- author: Qinglun Li, Miao Zhang 0037, Nan Yin, Quanjun Yin, Li Shen 0008
+  title: Asymmetrically Decentralized Federated Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-05093
+  doi: 10.48550/ARXIV.2310.05093
+  ee: https://doi.org/10.48550/arXiv.2310.05093
+  url: https://dblp.org/rec/journals/corr/abs-2310-05093

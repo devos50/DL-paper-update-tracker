@@ -14251,3 +14251,56 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2310.05093
   ee: https://doi.org/10.48550/arXiv.2310.05093
   url: https://dblp.org/rec/journals/corr/abs-2310-05093
+- author: Mengchen Fan, Keren Li, Tianyun Zhang, Qing Tian 0003, Baocheng Geng
+  title: 'PFedDST: Personalized Federated Learning with Decentralized Selection Training.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-07750
+  doi: 10.48550/ARXIV.2502.07750
+  ee: https://doi.org/10.48550/arXiv.2502.07750
+  url: https://dblp.org/rec/journals/corr/abs-2502-07750
+- author: Yiting Hu, Lingjie Duan
+  title: Human-in-the-loop Learning Through Decentralized Communication Mechanisms.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-09574
+  doi: 10.48550/ARXIV.2509.09574
+  ee: https://doi.org/10.48550/arXiv.2509.09574
+  url: https://dblp.org/rec/journals/corr/abs-2509-09574
+- author: Fardin Jalil Piran, Zhiling Chen, Yang Zhang, Qianyu Zhou 0007, Jiong Tang,
+    Farhad Imani
+  title: Privacy-Preserving Decentralized Federated Learning via Explainable Adaptive
+    Differential Privacy.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-10691
+  doi: 10.48550/ARXIV.2509.10691
+  ee: https://doi.org/10.48550/arXiv.2509.10691
+  url: https://dblp.org/rec/journals/corr/abs-2509-10691
+- author: Lin Wang, Yang Chen, Yongxin Guo 0001, Xiaoying Tang 0002
+  title: 'Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated
+    Learning.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-04460
+  doi: 10.48550/ARXIV.2407.04460
+  ee: https://doi.org/10.48550/arXiv.2407.04460
+  url: https://dblp.org/rec/journals/corr/abs-2407-04460
+- author: Yanjiang Guo, Zheyuan Jiang, Yen-Jen Wang, Jingyue Gao, Jianyu Chen 0002
+  title: Decentralized Motor Skill Learning for Complex Robotic Systems.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-17411
+  doi: 10.48550/ARXIV.2306.17411
+  ee: https://doi.org/10.48550/arXiv.2306.17411
+  url: https://dblp.org/rec/journals/corr/abs-2306-17411

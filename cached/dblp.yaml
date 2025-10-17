@@ -14304,3 +14304,23 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2306.17411
   ee: https://doi.org/10.48550/arXiv.2306.17411
   url: https://dblp.org/rec/journals/corr/abs-2306-17411
+- author: Bing Xie, Junqi Yin, Zhenyu Zhou, Sarp Oral, Feiyi Wang
+  title: Scaling Up Data Parallelism in Decentralized Deep Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-12213
+  doi: 10.48550/ARXIV.2509.12213
+  ee: https://doi.org/10.48550/arXiv.2509.12213
+  url: https://dblp.org/rec/journals/corr/abs-2509-12213
+- author: Bikram Pandit, Aayam Kumar Shrestha, Alan Fern
+  title: 'Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-14342
+  doi: 10.48550/ARXIV.2509.14342
+  ee: https://doi.org/10.48550/arXiv.2509.14342
+  url: https://dblp.org/rec/journals/corr/abs-2509-14342

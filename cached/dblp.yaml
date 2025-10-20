@@ -4913,6 +4913,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
   doi: 10.1109/TSIPN.2019.2928176
   ee: https://doi.org/10.1109/TSIPN.2019.2928176
   url: https://dblp.org/rec/journals/tsipn/YangB19
+- author: Geethu Joseph, Chen Zhong 0007, Mustafa Cenk Gursoy, Senem Velipasalar,
+    Pramod K. Varshney
+  title: Scalable and Decentralized Algorithms for Anomaly Detection via Learning-Based
+    Controlled Sensing.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/JosephZGVV23
+  doi: 10.1109/TSIPN.2023.3313818
+  ee: https://doi.org/10.1109/TSIPN.2023.3313818
+  url: https://dblp.org/rec/journals/tsipn/JosephZGVV23
 decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
 - author: Michael Duchesne, Kaiwen Zhang 0001, Chamseddine Talhi
   title: 'MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized

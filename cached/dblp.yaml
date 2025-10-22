@@ -14359,3 +14359,48 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2112.04912
   url: https://dblp.org/rec/journals/corr/abs-2112-04912
+- author: "Amir Ziaeddini, Yauhen Yakimenka, J\xF6rg Kliewer"
+  title: Differentially-Private Decentralized Learning in Heterogeneous Multicast
+    Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-21688
+  doi: 10.48550/ARXIV.2509.21688
+  ee: https://doi.org/10.48550/arXiv.2509.21688
+  url: https://dblp.org/rec/journals/corr/abs-2509-21688
+- author: Danni Yang, Zhikang Chen, Sen Cui, Mengyue Yang, Ding Li, Abudukelimu Wuerkaixi,
+    Haoxuan Li 0001, Jinke Ren, Mingming Gong
+  title: Decentralized Dynamic Cooperation of Personalized Models for Federated Continual
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-23683
+  doi: 10.48550/ARXIV.2509.23683
+  ee: https://doi.org/10.48550/arXiv.2509.23683
+  url: https://dblp.org/rec/journals/corr/abs-2509-23683
+- author: Manan Tayal, Aditya Singh, Shishir Kolathaya, Somil Bansal
+  title: 'MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for
+    Safe and Optimal Multi-Agent Control.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-23960
+  doi: 10.48550/ARXIV.2509.23960
+  ee: https://doi.org/10.48550/arXiv.2509.23960
+  url: https://dblp.org/rec/journals/corr/abs-2509-23960
+- author: Alessio Masano, Matteo Pennisi, Federica Proietto Salanitri, Concetto Spampinato,
+    Giovanni Bellitto
+  title: Zero-Shot Decentralized Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-26462
+  doi: 10.48550/ARXIV.2509.26462
+  ee: https://doi.org/10.48550/arXiv.2509.26462
+  url: https://dblp.org/rec/journals/corr/abs-2509-26462

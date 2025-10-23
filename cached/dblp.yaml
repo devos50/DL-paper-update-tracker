@@ -3117,6 +3117,29 @@ decentralized%20learning%20venue%3AICDCS%3A:
   doi: 10.1109/ICDCS57875.2023.00067
   ee: https://doi.org/10.1109/ICDCS57875.2023.00067
   url: https://dblp.org/rec/conf/icdcs/DhasadeKPSVW23
+- author: Shan Chang, Xianbo Wang, Hao Yu, Denghui Li, Guanghao Liang, Hongzi Zhu,
+    Bo Li 0001
+  title: 'PRISAM: Efficient Personalization via BN Masks in Heterogeneous Decentralized
+    Federated Learning.'
+  venue: ICDCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/ChangWYLLZ025
+  doi: 10.1109/ICDCS63083.2025.00083
+  ee: https://doi.org/10.1109/ICDCS63083.2025.00083
+  url: https://dblp.org/rec/conf/icdcs/ChangWYLLZ025
+- author: Lina Wang, Yunsheng Yuan, Chunxiao Wang, Feng Li
+  title: 'PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous
+    Data Distribution.'
+  venue: ICDCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/WangYWL25
+  doi: 10.1109/ICDCS63083.2025.00077
+  ee: https://doi.org/10.1109/ICDCS63083.2025.00077
+  url: https://dblp.org/rec/conf/icdcs/WangYWL25
 decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
 - author: Anne-Marie Kermarrec
   title: Frugal Decentralized Learning.
@@ -14404,3 +14427,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2509.26462
   ee: https://doi.org/10.48550/arXiv.2509.26462
   url: https://dblp.org/rec/journals/corr/abs-2509-26462
+- author: Yifan Hua, Jinlong Pang, Xiaoxue Zhang 0001, Yi Liu 0115, Xiaofeng Shi,
+    Bao Wang, Yang Liu 0003, Chen Qian 0001
+  title: Towards Practical Overlay Networks for Decentralized Federated Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2409-05331
+  doi: 10.48550/ARXIV.2409.05331
+  ee: https://doi.org/10.48550/arXiv.2409.05331
+  url: https://dblp.org/rec/journals/corr/abs-2409-05331

@@ -3016,6 +3016,16 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2020.3025287
   ee: https://doi.org/10.1109/ACCESS.2020.3025287
   url: https://dblp.org/rec/journals/access/ZhangSBM20
+- author: Yunseok Kang, Jaeyoung Song 0001
+  title: Low-Similarity Client Sampling for Decentralized Federated Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/Kang025
+  doi: 10.1109/ACCESS.2025.3615459
+  ee: https://doi.org/10.1109/ACCESS.2025.3615459
+  url: https://dblp.org/rec/journals/access/Kang025
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

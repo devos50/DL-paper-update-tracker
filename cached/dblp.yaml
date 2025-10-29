@@ -14448,3 +14448,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2409.05331
   ee: https://doi.org/10.48550/arXiv.2409.05331
   url: https://dblp.org/rec/journals/corr/abs-2409-05331
+- author: Mansi Sakarvadia, Nathaniel Hudson 0001, Tian Li, Ian T. Foster, Kyle Chard
+  title: Topology-Aware Knowledge Propagation in Decentralized Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-11760
+  doi: 10.48550/ARXIV.2505.11760
+  ee: https://doi.org/10.48550/arXiv.2505.11760
+  url: https://dblp.org/rec/journals/corr/abs-2505-11760
+- author: Qinglun Li, Li Shen 0008, Guanghao Li 0002, Quanjun Yin, Dacheng Tao
+  title: 'DFedADMM: Dual Constraints Controlled Model Inconsistency for Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-08290
+  doi: 10.48550/ARXIV.2308.08290
+  ee: https://doi.org/10.48550/arXiv.2308.08290
+  url: https://dblp.org/rec/journals/corr/abs-2308-08290

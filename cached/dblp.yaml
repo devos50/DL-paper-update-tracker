@@ -2462,6 +2462,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2023.3303967
   ee: https://doi.org/10.1109/TPDS.2023.3303967
   url: https://dblp.org/rec/journals/tpds/JiangXXWQH23
+- author: Zhida Jiang, Yang Xu 0020, Hongli Xu 0001, Lun Wang 0003, Chunming Qiao,
+    Liusheng Huang
+  title: Joint Model Pruning and Topology Construction for Accelerating Decentralized
+    Machine Learning.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/JiangXXWQH23
+  doi: 10.1109/TPDS.2023.3303967
+  ee: https://doi.org/10.1109/TPDS.2023.3303967
+  url: https://dblp.org/rec/journals/tpds/JiangXXWQH23
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'

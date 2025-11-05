@@ -3899,6 +3899,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2023.3262669
   ee: https://doi.org/10.1109/JIOT.2023.3262669
   url: https://dblp.org/rec/journals/iotj/ZhaoGYWMY23
+- author: Jibo Shi, Yexuan Hu, Ruichang Yang, Qiao Tian 0002, Jiangzhi Fu, Yun Lin
+    0005
+  title: 'FedDePF: Decentralized Personalized Federated Few-Shot Learning for Specific
+    Emitter Identification.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ShiHYTFL25
+  doi: 10.1109/JIOT.2025.3551335
+  ee: https://doi.org/10.1109/JIOT.2025.3551335
+  url: https://dblp.org/rec/journals/iotj/ShiHYTFL25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

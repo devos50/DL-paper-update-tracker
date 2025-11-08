@@ -14526,3 +14526,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2212.02136
   ee: https://doi.org/10.48550/arXiv.2212.02136
   url: https://dblp.org/rec/journals/corr/abs-2212-02136
+- author: Siji Chen, Yanshen Sun, Peihan Li, Lifeng Zhou 0001, Chang-Tien Lu
+  title: Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural
+    Network.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-17437
+  doi: 10.48550/ARXIV.2309.17437
+  ee: https://doi.org/10.48550/arXiv.2309.17437
+  url: https://dblp.org/rec/journals/corr/abs-2309-17437
+- author: Elijah S. Lee, Lifeng Zhou 0001, Alejandro Ribeiro, Vijay Kumar 0001
+  title: Learning Decentralized Strategies for a Perimeter Defense Game with Graph
+    Neural Networks.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-01757
+  doi: 10.48550/ARXIV.2211.01757
+  ee: https://doi.org/10.48550/arXiv.2211.01757
+  url: https://dblp.org/rec/journals/corr/abs-2211-01757

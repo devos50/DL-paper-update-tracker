@@ -2485,6 +2485,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2025.3611304
   ee: https://doi.org/10.1109/TPDS.2025.3611304
   url: https://dblp.org/rec/journals/tpds/HuangHKY25
+- author: Jun Li 0004, Yumeng Shao, Kang Wei 0004, Ming Ding 0001, Chuan Ma 0001,
+    Long Shi 0001, Zhu Han 0001, H. Vincent Poor
+  title: 'Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance
+    Analysis and Resource Allocation.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/LiSWDMSHP22
+  doi: 10.1109/TPDS.2021.3138848
+  ee: https://doi.org/10.1109/TPDS.2021.3138848
+  url: https://dblp.org/rec/journals/tpds/LiSWDMSHP22
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -3922,6 +3934,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3551335
   ee: https://doi.org/10.1109/JIOT.2025.3551335
   url: https://dblp.org/rec/journals/iotj/ShiHYTFL25
+- author: Weihao Zhu, Long Shi 0001, Jun Li 0004, Bin Cao 0002, Kang Wei 0004, Zhe
+    Wang 0005, Tao Huang 0008
+  title: 'Trustworthy Blockchain-Assisted Federated Learning: Decentralized Reputation
+    Management and Performance Optimization.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhuSLCWWH25
+  doi: 10.1109/JIOT.2024.3480995
+  ee: https://doi.org/10.1109/JIOT.2024.3480995
+  url: https://dblp.org/rec/journals/iotj/ZhuSLCWWH25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

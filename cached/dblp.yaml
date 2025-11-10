@@ -1266,6 +1266,17 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: https://openreview.net/forum?id=Dwc0RwiNI5
   url: https://dblp.org/rec/conf/icml/HuangZ24
+- author: Yifan Shi, Li Shen 0008, Kang Wei 0004, Yan Sun, Bo Yuan 0003, Xueqian Wang
+    0001, Dacheng Tao
+  title: Improving the Model Consistency of Decentralized Federated Learning.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Shi0WS00T23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/shi23d.html
+  url: https://dblp.org/rec/conf/icml/Shi0WS00T23
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'
@@ -14572,3 +14583,38 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2211.01757
   ee: https://doi.org/10.48550/arXiv.2211.01757
   url: https://dblp.org/rec/journals/corr/abs-2211-01757
+- author: Yifan Shi, Li Shen 0008, Kang Wei 0004, Yan Sun, Bo Yuan 0003, Xueqian Wang
+    0001, Dacheng Tao
+  title: Improving the Model Consistency of Decentralized Federated Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-04083
+  doi: 10.48550/ARXIV.2302.04083
+  ee: https://doi.org/10.48550/arXiv.2302.04083
+  url: https://dblp.org/rec/journals/corr/abs-2302-04083
+- author: Jun Li 0004, Yumeng Shao, Kang Wei 0004, Ming Ding 0001, Chuan Ma 0001,
+    Long Shi 0001, Zhu Han 0001, H. Vincent Poor
+  title: 'Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance
+    Analysis and Resource Allocation.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2101-06905
+  doi: ''
+  ee: https://arxiv.org/abs/2101.06905
+  url: https://dblp.org/rec/journals/corr/abs-2101-06905
+- author: Jun Li 0004, Yumeng Shao, Ming Ding 0001, Chuan Ma 0001, Kang Wei 0004,
+    Zhu Han 0001, H. Vincent Poor
+  title: Blockchain Assisted Decentralized Federated Learning (BLADE-FL) with Lazy
+    Clients.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2012-02044
+  doi: ''
+  ee: https://arxiv.org/abs/2012.02044
+  url: https://dblp.org/rec/journals/corr/abs-2012-02044

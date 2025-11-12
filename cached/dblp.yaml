@@ -14652,3 +14652,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2411.05591
   ee: https://doi.org/10.48550/arXiv.2411.05591
   url: https://dblp.org/rec/journals/corr/abs-2411-05591
+- author: Murtaza Rangwala, Farag Azzedin, Richard O. Sinnott, Rajkumar Buyya
+  title: 'SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via
+    Sketch-Based Screening.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-07922
+  doi: 10.48550/ARXIV.2510.07922
+  ee: https://doi.org/10.48550/arXiv.2510.07922
+  url: https://dblp.org/rec/journals/corr/abs-2510-07922

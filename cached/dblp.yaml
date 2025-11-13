@@ -2610,6 +2610,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftc%3A:
   doi: 10.1109/TC.2025.3569185
   ee: https://doi.org/10.1109/TC.2025.3569185
   url: https://dblp.org/rec/journals/tc/LiZYYSC25
+- author: Yuan Yuan 0014, Anhao Zhou, Xiao Zhang 0015, Yifei Zou, Yangguang Shi, Dongxiao
+    Yu
+  title: 'BaDFL: Mitigating Model Poisoning in Decentralized Federated Learning.'
+  venue: IEEE Trans. Computers
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/YuanZZZSY25
+  doi: 10.1109/TC.2025.3603683
+  ee: https://doi.org/10.1109/TC.2025.3603683
+  url: https://dblp.org/rec/journals/tc/YuanZZZSY25
 decentralized%20learning%20streamid%3Aconf%2Ficse%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fstoc%3A: []
@@ -3957,6 +3968,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3480995
   ee: https://doi.org/10.1109/JIOT.2024.3480995
   url: https://dblp.org/rec/journals/iotj/ZhuSLCWWH25
+- author: Cuiwei Liu, Siang Xu, Huaijun Qiu, Jing Zhang, Zhi Liu 0002, Liang Zhao
+    0004
+  title: Few-Shot Class-Incremental Learning With Non-IID Decentralized Data.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiuXQZLZ25
+  doi: 10.1109/JIOT.2025.3605647
+  ee: https://doi.org/10.1109/JIOT.2025.3605647
+  url: https://dblp.org/rec/journals/iotj/LiuXQZLZ25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

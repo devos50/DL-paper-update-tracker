@@ -14685,3 +14685,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2510.07922
   ee: https://doi.org/10.48550/arXiv.2510.07922
   url: https://dblp.org/rec/journals/corr/abs-2510-07922
+- author: Yingying Li 0005, Yujie Tang 0002, Runyu Zhang 0001, Na Li 0002
+  title: 'Distributed Reinforcement Learning for Decentralized Linear Quadratic Control:
+    A Derivative-Free Policy Optimization Approach.'
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1912-09135
+  doi: ''
+  ee: http://arxiv.org/abs/1912.09135
+  url: https://dblp.org/rec/journals/corr/abs-1912-09135

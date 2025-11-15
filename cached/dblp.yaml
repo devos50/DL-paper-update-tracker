@@ -14696,3 +14696,23 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: http://arxiv.org/abs/1912.09135
   url: https://dblp.org/rec/journals/corr/abs-1912-09135
+- author: "Tom\xE0s Ortega, Hamid Jafarkhani"
+  title: Decentralized Parameter-Free Online Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-15644
+  doi: 10.48550/ARXIV.2510.15644
+  ee: https://doi.org/10.48550/arXiv.2510.15644
+  url: https://dblp.org/rec/journals/corr/abs-2510-15644
+- author: "Hongyi Zhang 0001, Jan Bosch, Helena Holmstr\xF6m Olsson"
+  title: 'EdgeFL: A Lightweight Decentralized Federated Learning Framework.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-02936
+  doi: 10.48550/ARXIV.2309.02936
+  ee: https://doi.org/10.48550/arXiv.2309.02936
+  url: https://dblp.org/rec/journals/corr/abs-2309-02936

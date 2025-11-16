@@ -14716,3 +14716,70 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2309.02936
   ee: https://doi.org/10.48550/arXiv.2309.02936
   url: https://dblp.org/rec/journals/corr/abs-2309-02936
+- author: Abdulrahman Alhaidari, Balaji Palanisamy, Prashant Krishnamurthy
+  title: On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack
+    Mitigation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-16024
+  doi: 10.48550/ARXIV.2510.16024
+  ee: https://doi.org/10.48550/arXiv.2510.16024
+  url: https://dblp.org/rec/journals/corr/abs-2510-16024
+- author: Shantnav Agarwal, Javier Alonso-Mora, Sihao Sun
+  title: Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via
+    Imitation Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-17143
+  doi: 10.48550/ARXIV.2510.17143
+  ee: https://doi.org/10.48550/arXiv.2510.17143
+  url: https://dblp.org/rec/journals/corr/abs-2510-17143
+- author: "Aur\xE9lien Bellet, Edwige Cyffers, Davide Frey, Romaric Gaudel, Dimitri\
+    \ Ler\xE9v\xE9rend, Fran\xE7ois Ta\xEFani"
+  title: Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-17480
+  doi: 10.48550/ARXIV.2510.17480
+  ee: https://doi.org/10.48550/arXiv.2510.17480
+  url: https://dblp.org/rec/journals/corr/abs-2510-17480
+- author: Xiang Li, Buxin Su, Chendi Wang, Qi Long, Weijie J. Su
+  title: Mitigating Privacy-Utility Trade-off in Decentralized Federated Learning
+    via f-Differential Privacy.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-19934
+  doi: 10.48550/ARXIV.2510.19934
+  ee: https://doi.org/10.48550/arXiv.2510.19934
+  url: https://dblp.org/rec/journals/corr/abs-2510-19934
+- author: Xiaoming Wu, Teng Liu, Xin Wang, Ming Yang, Jiguo Yu
+  title: 'ADP-VRSGP: Decentralized Learning with Adaptive Differential Privacy via
+    Variance-Reduced Stochastic Gradient Push.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20157
+  doi: 10.48550/ARXIV.2510.20157
+  ee: https://doi.org/10.48550/arXiv.2510.20157
+  url: https://dblp.org/rec/journals/corr/abs-2510-20157
+- author: Ashutosh Mishra, Shreya Santra, Elian Neppel, Edoardo M. Rossi Lombardi,
+    Shamistan Karimov, Kentaro Uno, Kazuya Yoshida
+  title: Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable
+    Lunar Robots.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20347
+  doi: 10.48550/ARXIV.2510.20347
+  ee: https://doi.org/10.48550/arXiv.2510.20347
+  url: https://dblp.org/rec/journals/corr/abs-2510-20347

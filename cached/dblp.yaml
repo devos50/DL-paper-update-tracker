@@ -14783,3 +14783,51 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2510.20347
   ee: https://doi.org/10.48550/arXiv.2510.20347
   url: https://dblp.org/rec/journals/corr/abs-2510-20347
+- author: Federico Lozano-Cuadra, Beatriz Soret, Marc Sanchez Net, Abhishek Cauligi,
+    Federico Rossi 0001
+  title: Learning Decentralized Routing Policies via Graph Attention-based Multi-Agent
+    Reinforcement Learning in Lunar Delay-Tolerant Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20436
+  doi: 10.48550/ARXIV.2510.20436
+  ee: https://doi.org/10.48550/arXiv.2510.20436
+  url: https://dblp.org/rec/journals/corr/abs-2510-20436
+- author: Chi-Sheng Chen, Aidan Hung-Wen Tsai
+  title: 'Quantum and Classical Machine Learning in Decentralized Finance: Comparative
+    Evidence from Multi-Asset Backtesting of Automated Market Makers.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-15903
+  doi: 10.48550/ARXIV.2510.15903
+  ee: https://doi.org/10.48550/arXiv.2510.15903
+  url: https://dblp.org/rec/journals/corr/abs-2510-15903
+- author: Aditya Akella
+  title: On the Fundamental Limitations of Decentralized Learnable Reward Shaping
+    in Cooperative Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-00034
+  doi: 10.48550/ARXIV.2511.00034
+  ee: https://doi.org/10.48550/arXiv.2511.00034
+  url: https://dblp.org/rec/journals/corr/abs-2511-00034
+- author: "Leonhard Duda, Khadijeh Alibabaei, Elena Vollmer, Leon Klug, Valentin Kozlov,\
+    \ Lisana Berberi, Mishal Benz, Rebekka Volk, Juan Pedro Guti\xE9rrez H. Muriedas,\
+    \ Markus G\xF6tz, Judith S\xE1inz-Pardo D\xEDaz, \xC1lvaro L\xF3pez Garc\xEDa,\
+    \ Frank Schultmann, Achim Streit"
+  title: Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison
+    of Centralized and Decentralized Approaches.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-00055
+  doi: 10.48550/ARXIV.2511.00055
+  ee: https://doi.org/10.48550/arXiv.2511.00055
+  url: https://dblp.org/rec/journals/corr/abs-2511-00055

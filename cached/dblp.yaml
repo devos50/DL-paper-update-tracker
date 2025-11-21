@@ -1790,6 +1790,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
   doi: ''
   ee: https://jmlr.org/papers/v24/20-700.html
   url: https://dblp.org/rec/journals/jmlr/LiJWYZ23
+- author: Wenhao Li 0001, Bo Jin 0003, Xiangfeng Wang 0001, Junchi Yan, Hongyuan Zha
+  title: 'F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative
+    Multi-agent Reinforcement Learning.'
+  venue: J. Mach. Learn. Res.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/LiJWYZ23
+  doi: ''
+  ee: https://jmlr.org/papers/v24/20-700.html
+  url: https://dblp.org/rec/journals/jmlr/LiJWYZ23
 decentralized%20learning%20streamid%3Ajournals%2Fpami%3A: []
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
@@ -14841,3 +14852,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2311.04817
   ee: https://doi.org/10.48550/arXiv.2311.04817
   url: https://dblp.org/rec/journals/corr/abs-2311-04817
+- author: Wenhao Li 0001, Bo Jin 0003, Xiangfeng Wang 0001, Junchi Yan, Hongyuan Zha
+  title: 'F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative
+    Multi-agent Reinforcement Learning.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2004-11145
+  doi: ''
+  ee: https://arxiv.org/abs/2004.11145
+  url: https://dblp.org/rec/journals/corr/abs-2004-11145

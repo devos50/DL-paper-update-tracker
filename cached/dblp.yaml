@@ -14863,3 +14863,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2004.11145
   url: https://dblp.org/rec/journals/corr/abs-2004-11145
+- author: Guangsheng Yu, Xu Wang 0004, Caijun Sun, Qin Wang 0008, Ping Yu, Wei Ni
+    0001, Ren Ping Liu 0001, Xiwei Xu 0001
+  title: 'IronForge: An Open, Secure, Fair, Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2301-04006
+  doi: 10.48550/ARXIV.2301.04006
+  ee: https://doi.org/10.48550/arXiv.2301.04006
+  url: https://dblp.org/rec/journals/corr/abs-2301-04006

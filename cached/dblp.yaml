@@ -3990,6 +3990,28 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3605647
   ee: https://doi.org/10.1109/JIOT.2025.3605647
   url: https://dblp.org/rec/journals/iotj/LiuXQZLZ25
+- author: Yuchao Liu, Shuguo Xie, Xiao Sun, Xue Fu, Guan Gui 0001
+  title: Channel-Distortion-Agnostic Specific Emitter Identification Based on Decentralized
+    Learning.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiuXSFG25
+  doi: 10.1109/JIOT.2025.3612404
+  ee: https://doi.org/10.1109/JIOT.2025.3612404
+  url: https://dblp.org/rec/journals/iotj/LiuXSFG25
+- author: Biao Xie, Chunqiang Hu, Hongyu Huang 0001, Jiguo Yu, Hui Xia 0001
+  title: 'DCI-PFGL: Decentralized Cross-Institutional Personalized Federated Graph
+    Learning for IoT Service Recommendation.'
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/XieHHYX24
+  doi: 10.1109/JIOT.2023.3340880
+  ee: https://doi.org/10.1109/JIOT.2023.3340880
+  url: https://dblp.org/rec/journals/iotj/XieHHYX24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

@@ -14928,3 +14928,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2301.04006
   ee: https://doi.org/10.48550/arXiv.2301.04006
   url: https://dblp.org/rec/journals/corr/abs-2301-04006
+- author: Dong Chen 0016, Kaixiang Zhang 0001, Yongqiang Wang 0001, Xunyuan Yin, Zhaojian
+    Li 0001
+  title: Communication-Efficient Decentralized Multi-Agent Reinforcement Learning
+    for Cooperative Adaptive Cruise Control.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-02345
+  doi: 10.48550/ARXIV.2308.02345
+  ee: https://doi.org/10.48550/arXiv.2308.02345
+  url: https://dblp.org/rec/journals/corr/abs-2308-02345
+- author: Jingchen Li 0003, Haobin Shi, Kao-Shing Hwang
+  title: A Decentralized Communication Framework based on Dual-Level Recurrence for
+    Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-10612
+  doi: ''
+  ee: https://arxiv.org/abs/2202.10612
+  url: https://dblp.org/rec/journals/corr/abs-2202-10612

@@ -14951,3 +14951,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2202.10612
   url: https://dblp.org/rec/journals/corr/abs-2202-10612
+- author: Qingyi Chen, Ruiqi Ni, Jun Kim, Ahmed H. Qureshi
+  title: Manifold-constrained Hamilton-Jacobi Reachability Learning for Decentralized
+    Multi-Agent Motion Planning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-03591
+  doi: 10.48550/ARXIV.2511.03591
+  ee: https://doi.org/10.48550/arXiv.2511.03591
+  url: https://dblp.org/rec/journals/corr/abs-2511-03591

@@ -14962,3 +14962,27 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2511.03591
   ee: https://doi.org/10.48550/arXiv.2511.03591
   url: https://dblp.org/rec/journals/corr/abs-2511-03591
+- author: "Huong Nguyen, Hong-Tri Nguyen 0001, Praveen Kumar Donta, Susanna Pirttikangas,\
+    \ Lauri Lov\xE9n"
+  title: Graph-based Gossiping for Communication Efficiency in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-10607
+  doi: 10.48550/ARXIV.2506.10607
+  ee: https://doi.org/10.48550/arXiv.2506.10607
+  url: https://dblp.org/rec/journals/corr/abs-2506-10607
+- author: Pinxin Long, Tingxiang Fan, Xinyi Liao, Wenxi Liu, Hao Zhang 0170, Jia Pan
+    0001
+  title: Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2017'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1709-10082
+  doi: ''
+  ee: http://arxiv.org/abs/1709.10082
+  url: https://dblp.org/rec/journals/corr/abs-1709-10082

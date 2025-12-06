@@ -1277,6 +1277,39 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v202/shi23d.html
   url: https://dblp.org/rec/conf/icml/Shi0WS00T23
+- author: Gabriel Thompson, Kai Yue, Chau-Wai Wong, Huaiyu Dai
+  title: 'NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings
+    via Neural Tangent Kernel.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ThompsonYWD25
+  doi: ''
+  ee: https://openreview.net/forum?id=hC7zCFk5Dp
+  url: https://dblp.org/rec/conf/icml/ThompsonYWD25
+- author: Xiaoyu Wang, Wenhao Yang, Chang Yao 0001, Mingli Song, Yuanyu Wan
+  title: Revisiting Differentially Private Algorithms for Decentralized Online Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangY0SW25
+  doi: ''
+  ee: https://openreview.net/forum?id=12oD7HIckz
+  url: https://dblp.org/rec/conf/icml/WangY0SW25
+- author: Zhiyao Zhang, Myeung Suk Oh, Hairi, Ziyue Luo, Alvaro Velasquez, Jia Liu
+    0002
+  title: Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methods
+    for Decentralized Multi-Agent Reinforcement Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangOHLV025
+  doi: ''
+  ee: https://openreview.net/forum?id=ZcvGJH4ps7
+  url: https://dblp.org/rec/conf/icml/ZhangOHLV025
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'

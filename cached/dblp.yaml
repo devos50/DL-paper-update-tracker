@@ -2552,6 +2552,16 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2021.3138848
   ee: https://doi.org/10.1109/TPDS.2021.3138848
   url: https://dblp.org/rec/journals/tpds/LiSWDMSHP22
+- author: Jinru Chen, Jingke Tu, Lei Yang 0024, Jiannong Cao 0001
+  title: Autonomous Model Aggregation for Decentralized Learning on Edge Devices.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/ChenTYC26
+  doi: 10.1109/TPDS.2025.3621058
+  ee: https://doi.org/10.1109/TPDS.2025.3621058
+  url: https://dblp.org/rec/journals/tpds/ChenTYC26
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'

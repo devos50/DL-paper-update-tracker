@@ -3159,6 +3159,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3629864
   ee: https://doi.org/10.1109/ACCESS.2025.3629864
   url: https://dblp.org/rec/journals/access/CajaravilleAboyVRF25
+- author: "Mart\xEDn Gonz\xE1lez Soto, Manuel Fern\xE1ndez-Veiga, Rebeca P. D\xED\
+    az Redondo, Bruno Fern\xE1ndez Castro, Ana Fern\xE1ndez Vilas"
+  title: 'IC4Net: Decentralized Communication for Continual Multi-Agent Learning.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/SotoFRCV25
+  doi: 10.1109/ACCESS.2025.3631242
+  ee: https://doi.org/10.1109/ACCESS.2025.3631242
+  url: https://dblp.org/rec/journals/access/SotoFRCV25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

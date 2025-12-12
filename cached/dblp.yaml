@@ -621,6 +621,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V36I8.20887
   ee: https://doi.org/10.1609/aaai.v36i8.20887
   url: https://dblp.org/rec/conf/aaai/ZhangBWK22
+- author: S. Rasoul Etesami 0001, R. Srikant 0001
+  title: 'Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic
+    Approach.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Etesami025
+  doi: 10.1609/AAAI.V39I22.34481
+  ee: https://doi.org/10.1609/aaai.v39i22.34481
+  url: https://dblp.org/rec/conf/aaai/Etesami025
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -4088,6 +4099,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2023.3340880
   ee: https://doi.org/10.1109/JIOT.2023.3340880
   url: https://dblp.org/rec/journals/iotj/XieHHYX24
+- author: Hongbiao Zhu, Qiong Wu 0002, Xiao-Jun Wu 0001, Qiang Fan 0002, Pingyi Fan,
+    Jiangzhou Wang
+  title: Decentralized Power Allocation for MIMO-NOMA Vehicular Edge Computing Based
+    on Deep Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/Zhu0WFFW22
+  doi: 10.1109/JIOT.2021.3138434
+  ee: https://doi.org/10.1109/JIOT.2021.3138434
+  url: https://dblp.org/rec/journals/iotj/Zhu0WFFW22
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -15062,3 +15085,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2103.12553
   url: https://dblp.org/rec/journals/corr/abs-2103-12553
+- author: Hongbiao Zhu, Qiong Wu 0002, Xiaojun Wu 0001, Qiang Fan 0002, Pingyi Fan,
+    Jiangzhou Wang
+  title: Decentralized Power Allocation for MIMO-NOMA Vehicular Edge Computing Based
+    on Deep Reinforcement Learning.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2107-14772
+  doi: ''
+  ee: https://arxiv.org/abs/2107.14772
+  url: https://dblp.org/rec/journals/corr/abs-2107-14772

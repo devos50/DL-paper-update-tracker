@@ -4835,6 +4835,17 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-032-10486-1_48
   ee: https://doi.org/10.1007/978-3-032-10486-1_48
   url: https://dblp.org/rec/conf/ideal/RinconCLM25
+- author: Mingyang Geng, Xing Zhou 0004, Bo Ding 0001, Huaimin Wang, Lei Zhang 0200
+  title: Learning to Cooperate in Decentralized Multi-robot Exploration of Dynamic
+    Environments.
+  venue: ICONIP
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/GengZDWZ18
+  doi: 10.1007/978-3-030-04239-4_4
+  ee: https://doi.org/10.1007/978-3-030-04239-4_4
+  url: https://dblp.org/rec/conf/iconip/GengZDWZ18
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

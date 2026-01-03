@@ -3181,6 +3181,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3631242
   ee: https://doi.org/10.1109/ACCESS.2025.3631242
   url: https://dblp.org/rec/journals/access/SotoFRCV25
+- author: Xiao Chen, Chao Feng 0001, Shaohua Wang
+  title: 'AIDFL: An Information-Driven Anomaly Detector for Data Poisoning in Decentralized
+    Federated Learning.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChenFW25
+  doi: 10.1109/ACCESS.2025.3552168
+  ee: https://doi.org/10.1109/ACCESS.2025.3552168
+  url: https://dblp.org/rec/journals/access/ChenFW25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -15108,3 +15119,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2107.14772
   url: https://dblp.org/rec/journals/corr/abs-2107-14772
+- author: "Lorenzo Mario Amorosa, Zhan Gao, Roberto Verdone, Petar Popovski, Deniz\
+    \ G\xFCnd\xFCz"
+  title: Learning a Decentralized Medium Access Control Protocol for Shared Message
+    Transmission.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-06001
+  doi: 10.48550/ARXIV.2511.06001
+  ee: https://doi.org/10.48550/arXiv.2511.06001
+  url: https://dblp.org/rec/journals/corr/abs-2511-06001
+- author: Adam Piaseczny, Eric Ruzomberka, Rohit Parasnis, Christopher G. Brinton
+  title: 'Adversarial Node Placement in Decentralized Federated Learning: Maximum
+    Spanning-Centrality Strategy and Performance Analysis.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-06742
+  doi: 10.48550/ARXIV.2511.06742
+  ee: https://doi.org/10.48550/arXiv.2511.06742
+  url: https://dblp.org/rec/journals/corr/abs-2511-06742

@@ -4857,6 +4857,18 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-030-04239-4_4
   ee: https://doi.org/10.1007/978-3-030-04239-4_4
   url: https://dblp.org/rec/conf/iconip/GengZDWZ18
+- author: "Francisco Enguix, Jaime Andres Rincon, Alberto Huertas Celdr\xE1n, Carlos\
+    \ Carrascosa"
+  title: 'Royal FLush: A MAS-Based Platform for Decentralized Federated Learning Based
+    on SPADE Agents.'
+  venue: PAAMS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/paams/EnguixRCC25
+  doi: 10.1007/978-3-032-07638-0_7
+  ee: https://doi.org/10.1007/978-3-032-07638-0_7
+  url: https://dblp.org/rec/conf/paams/EnguixRCC25
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

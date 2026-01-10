@@ -3192,6 +3192,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3552168
   ee: https://doi.org/10.1109/ACCESS.2025.3552168
   url: https://dblp.org/rec/journals/access/ChenFW25
+- author: Wanjun Huang, Kangyu Gong, Zhufeng Jiang, Xinran Zhang, Le Zheng
+  title: A Decentralized Unsupervised Learning Approach for AC-OPF Based on Multi-Branch
+    Deep Neural Network.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/HuangGJZZ25
+  doi: 10.1109/ACCESS.2025.3637542
+  ee: https://doi.org/10.1109/ACCESS.2025.3637542
+  url: https://dblp.org/rec/journals/access/HuangGJZZ25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze
@@ -15165,3 +15176,35 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2511.06742
   ee: https://doi.org/10.48550/arXiv.2511.06742
   url: https://dblp.org/rec/journals/corr/abs-2511-06742
+- author: Kayla Boggess, Sarit Kraus, Lu Feng 0001
+  title: Explaining Decentralized Multi-Agent Reinforcement Learning Policies.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-10409
+  doi: 10.48550/ARXIV.2511.10409
+  ee: https://doi.org/10.48550/arXiv.2511.10409
+  url: https://dblp.org/rec/journals/corr/abs-2511-10409
+- author: Angelo Rodio, Giovanni Neglia, Zheng Chen, Erik G. Larsson
+  title: 'A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled
+    vs. Sampled-to-All Communication.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-11560
+  doi: 10.48550/ARXIV.2511.11560
+  ee: https://doi.org/10.48550/arXiv.2511.11560
+  url: https://dblp.org/rec/journals/corr/abs-2511-11560
+- author: Hung Du, Hy Nguyen, Srikanth Thudumu, Rajesh Vasa, Kon Mouzakis
+  title: Goal-Oriented Multi-Agent Reinforcement Learning for Decentralized Agent
+    Teams.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-11992
+  doi: 10.48550/ARXIV.2511.11992
+  ee: https://doi.org/10.48550/arXiv.2511.11992
+  url: https://dblp.org/rec/journals/corr/abs-2511-11992

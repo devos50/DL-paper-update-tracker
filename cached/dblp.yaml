@@ -4133,6 +4133,28 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2021.3138434
   ee: https://doi.org/10.1109/JIOT.2021.3138434
   url: https://dblp.org/rec/journals/iotj/Zhu0WFFW22
+- author: Sanqiu Liu, Qiang Li 0009, Zhimin Yu, Mingcheng Mo, Xiaohu Ge
+  title: 'Collaborative D2D Caching: A Decentralized and Personalized Federated Learning
+    Approach.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/LiuLYMG25
+  doi: 10.1109/JIOT.2025.3625448
+  ee: https://doi.org/10.1109/JIOT.2025.3625448
+  url: https://dblp.org/rec/journals/iotj/LiuLYMG25
+- author: Xiaoming Wu, Teng Liu, Xin Wang, Ming Yang 0023, Jiguo Yu
+  title: 'ADP-VRSGP: Decentralized Learning With Adaptive Differential Privacy via
+    Variance-Reduced Stochastic Gradient Push.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WuLWYY25
+  doi: 10.1109/JIOT.2025.3627149
+  ee: https://doi.org/10.1109/JIOT.2025.3627149
+  url: https://dblp.org/rec/journals/iotj/WuLWYY25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

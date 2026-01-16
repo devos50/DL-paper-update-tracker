@@ -3215,6 +3215,29 @@ decentralized%20learning%20venue%3AMiddleware%3A:
   doi: 10.1145/3464298.3493403
   ee: https://doi.org/10.1145/3464298.3493403
   url: https://dblp.org/rec/conf/middleware/BeilharzPSGAP21
+- author: Sarang S, Druva Dhakshinamoorthy, Aditya Shiva Sharma, Yuvraj Singh Bhadauria,
+    Siddharth Chaitra Vivek, Arihant Bansal, Arnab K. Paul
+  title: 'UnifyFL: Enabling Decentralized Cross-Silo Federated Learning.'
+  venue: Middleware
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/middleware/SDSBVBP25
+  doi: 10.1145/3721462.3730955
+  ee: https://doi.org/10.1145/3721462.3730955
+  url: https://dblp.org/rec/conf/middleware/SDSBVBP25
+- author: "Ousmane Touat, Jezekael Brunon, Yacine Belal, Julien Nicolas, C\xE9sar\
+    \ Sabater, Mohamed Maouche, Sonia Ben Mokhtar"
+  title: Exposing the Vulnerability of Decentralized Learning to Membership Inference
+    Attacks Through the Lens of Graph Mixing.
+  venue: Middleware
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/middleware/TouatBBNSMM25
+  doi: 10.1145/3721462.3770770
+  ee: https://doi.org/10.1145/3721462.3770770
+  url: https://dblp.org/rec/conf/middleware/TouatBBNSMM25
 decentralized%20learning%20venue%3AICDCS%3A:
 - author: Oluwaseun T. Ajayi, Yu Cheng 0003
   title: Decentralized Learning of Bayesian Networks from Private Data with Applications
@@ -15285,3 +15308,47 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2510.20157
   ee: https://doi.org/10.48550/arXiv.2510.20157
   url: https://dblp.org/rec/journals/corr/abs-2510-20157
+- author: Timur Anvar, Jeffrey Chen, Yuyan Wang, Rohan Chandra
+  title: Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning
+    for Decentralized Autonomous Driving.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-12751
+  doi: 10.48550/ARXIV.2511.12751
+  ee: https://doi.org/10.48550/arXiv.2511.12751
+  url: https://dblp.org/rec/journals/corr/abs-2511-12751
+- author: Bing Liu, Boao Kong, Limin Lu, Kun Yuan, Chengcheng Zhao
+  title: Row-stochastic matrices can provably outperform doubly stochastic matrices
+    in decentralized learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-19513
+  doi: 10.48550/ARXIV.2511.19513
+  ee: https://doi.org/10.48550/arXiv.2511.19513
+  url: https://dblp.org/rec/journals/corr/abs-2511-19513
+- author: Pius Onobhayedo, Paul Osemudiame Oamen
+  title: 'Trustless Federated Learning at Edge-Scale: A Compositional Architecture
+    for Decentralized, Verifiable, and Incentive-Aligned Coordination.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-21118
+  doi: 10.48550/ARXIV.2511.21118
+  ee: https://doi.org/10.48550/arXiv.2511.21118
+  url: https://dblp.org/rec/journals/corr/abs-2511-21118
+- author: Cristiana Punzo, Italo Napolitano, Cinzia Tomaselli, Mario di Bernardo
+  title: Decentralized Shepherding of Non-Cohesive Swarms Through Cluttered Environments
+    via Deep Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-21405
+  doi: 10.48550/ARXIV.2511.21405
+  ee: https://doi.org/10.48550/arXiv.2511.21405
+  url: https://dblp.org/rec/journals/corr/abs-2511-21405

@@ -4189,6 +4189,28 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3627149
   ee: https://doi.org/10.1109/JIOT.2025.3627149
   url: https://dblp.org/rec/journals/iotj/WuLWYY25
+- author: Pengxiang Qin, Qiao Li, Dongyang Xu 0003
+  title: 'Decentralized Federated Learning in LEO-Satellite-Based IoE Communications:
+    Latency Optimization Under Reliability Constraints.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/QinLX26
+  doi: 10.1109/JIOT.2025.3557128
+  ee: https://doi.org/10.1109/JIOT.2025.3557128
+  url: https://dblp.org/rec/journals/iotj/QinLX26
+- author: Suidan Yuan, Chao Yang 0005, Jiajie Zhou, Shengli Xie
+  title: Hierarchical Aggregation and Cooperative Caching for Decentralized Federated
+    Learning in UAV-Assisted Internet of Vehicles.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/YuanYZX26
+  doi: 10.1109/JIOT.2025.3629070
+  ee: https://doi.org/10.1109/JIOT.2025.3629070
+  url: https://dblp.org/rec/journals/iotj/YuanYZX26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

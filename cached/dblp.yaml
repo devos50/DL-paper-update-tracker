@@ -1845,6 +1845,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
   doi: ''
   ee: https://jmlr.org/papers/v24/20-700.html
   url: https://dblp.org/rec/journals/jmlr/LiJWYZ23
+- author: Ping Xu 0002, Yue Wang 0019, Xiang Chen 0010, Zhi Tian
+  title: 'COKE: Communication-Censored Decentralized Kernel Learning.'
+  venue: J. Mach. Learn. Res.
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/jmlr/XuWCT21
+  doi: ''
+  ee: https://jmlr.org/papers/v22/20-070.html
+  url: https://dblp.org/rec/journals/jmlr/XuWCT21
 decentralized%20learning%20streamid%3Ajournals%2Fpami%3A: []
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
@@ -15506,3 +15516,101 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2512.12737
   ee: https://doi.org/10.48550/arXiv.2512.12737
   url: https://dblp.org/rec/journals/corr/abs-2512-12737
+- author: Kaichuang Zhang, Wei Yin, Jinghao Yang, Ping Xu 0002
+  title: 'DFedReweighting: A Unified Framework for Objective-Oriented Reweighting
+    in Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-12022
+  doi: 10.48550/ARXIV.2512.12022
+  ee: https://doi.org/10.48550/arXiv.2512.12022
+  url: https://dblp.org/rec/journals/corr/abs-2512-12022
+- author: Ansar Ahmed
+  title: Federated Learning Based Decentralized Adaptive Intelligent Transmission
+    Protocol for Privacy Preserving 6G Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-18432
+  doi: 10.48550/ARXIV.2512.18432
+  ee: https://doi.org/10.48550/arXiv.2512.18432
+  url: https://dblp.org/rec/journals/corr/abs-2512-18432
+- author: Murtaza Rangwala, Richard O. Sinnott, Rajkumar Buyya
+  title: Evidential Trust-Aware Model Personalization in Decentralized Federated Learning
+    for Wearable IoT.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-19131
+  doi: 10.48550/ARXIV.2512.19131
+  ee: https://doi.org/10.48550/arXiv.2512.19131
+  url: https://dblp.org/rec/journals/corr/abs-2512-19131
+- author: Donghwa Kang, Shana Moothedath
+  title: 'Beyond Centralization: Provable Communication Efficient Decentralized Multi-Task
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-22675
+  doi: 10.48550/ARXIV.2512.22675
+  ee: https://doi.org/10.48550/arXiv.2512.22675
+  url: https://dblp.org/rec/journals/corr/abs-2512-22675
+- author: Mario Colosi, Reza Farahani, Maria Fazio, Radu Prodan, Massimo Villari
+  title: 'Osmotic Learning: A Self-Supervised Paradigm for Decentralized Contextual
+    Data Representation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-23096
+  doi: 10.48550/ARXIV.2512.23096
+  ee: https://doi.org/10.48550/arXiv.2512.23096
+  url: https://dblp.org/rec/journals/corr/abs-2512-23096
+- author: Donghwa Kang, Shana Moothedath
+  title: Diffusion-based Decentralized Federated Multi-Task Representation Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-23161
+  doi: 10.48550/ARXIV.2512.23161
+  ee: https://doi.org/10.48550/arXiv.2512.23161
+  url: https://dblp.org/rec/journals/corr/abs-2512-23161
+- author: Xusheng Zhang, Tuan Nguyen, Ting He 0001
+  title: Time-varying Mixing Matrix Design for Energy-efficient Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-24069
+  doi: 10.48550/ARXIV.2512.24069
+  ee: https://doi.org/10.48550/arXiv.2512.24069
+  url: https://dblp.org/rec/journals/corr/abs-2512-24069
+- author: Reza Jahani, Md Farhamdur Reza, Richeng Jin, Huaiyu Dai
+  title: 'Mobility-Assisted Decentralized Federated Learning: Convergence Analysis
+    and A Data-Driven Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-24694
+  doi: 10.48550/ARXIV.2512.24694
+  ee: https://doi.org/10.48550/arXiv.2512.24694
+  url: https://dblp.org/rec/journals/corr/abs-2512-24694
+- author: Ping Xu 0002, Yue Wang 0019, Xiang Chen 0010, Zhi Tian
+  title: 'QC-ODKLA: Quantized and Communication-Censored Online Decentralized Kernel
+    Learning via Linearized ADMM.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2208-02777
+  doi: 10.48550/ARXIV.2208.02777
+  ee: https://doi.org/10.48550/arXiv.2208.02777
+  url: https://dblp.org/rec/journals/corr/abs-2208-02777

@@ -4278,6 +4278,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2020.2986803
   ee: https://doi.org/10.1109/JIOT.2020.2986803
   url: https://dblp.org/rec/journals/iotj/0001WLLT20
+- author: Jingjing Wang, Hui Zhang 0113, Xu Han, Jiaxiang Zhao, Jiangzhou Wang
+  title: Lyapunov-Assisted Decentralized Dynamic Offloading Strategy Based on Deep
+    Reinforcement Learning.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WangZHZW25
+  doi: 10.1109/JIOT.2024.3498839
+  ee: https://doi.org/10.1109/JIOT.2024.3498839
+  url: https://dblp.org/rec/journals/iotj/WangZHZW25
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

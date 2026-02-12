@@ -15753,3 +15753,81 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2503.06468
   ee: https://doi.org/10.48550/arXiv.2503.06468
   url: https://dblp.org/rec/journals/corr/abs-2503-06468
+- author: Hanzaleh Akbari Nodehi, Viveck R. Cadambe, Mohammad Ali Maddah-Ali
+  title: 'Game of Coding: Coding Theory in the Presence of Rational Adversaries, Motivated
+    by Decentralized Machine Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02313
+  doi: 10.48550/ARXIV.2601.02313
+  ee: https://doi.org/10.48550/arXiv.2601.02313
+  url: https://dblp.org/rec/journals/corr/abs-2601-02313
+- author: Jie Peng, Weiyu Li, Stefan Vlaski, Qing Ling
+  title: Topology-Independent Robustness of the Weighted Mean under Label Poisoning
+    Attacks in Heterogeneous Decentralized Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02682
+  doi: 10.48550/ARXIV.2601.02682
+  ee: https://doi.org/10.48550/arXiv.2601.02682
+  url: https://dblp.org/rec/journals/corr/abs-2601-02682
+- author: Yuqiao Xu, Mina Namazi, Sahith Reddy Jalapally, Osama Zafar, Youngjin Yoo,
+    Erman Ayday
+  title: Privacy-Preserving AI-Enabled Decentralized Learning and Employment Records
+    System.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02720
+  doi: 10.48550/ARXIV.2601.02720
+  ee: https://doi.org/10.48550/arXiv.2601.02720
+  url: https://dblp.org/rec/journals/corr/abs-2601-02720
+- author: Yigal Koifman, Eran Iceland, Erez Koifman, Ariel Barel, Alfred M. Bruckstein
+  title: 'Sensor to Pixels: Decentralized Swarm Gathering via Image-Based Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-03413
+  doi: 10.48550/ARXIV.2601.03413
+  ee: https://doi.org/10.48550/arXiv.2601.03413
+  url: https://dblp.org/rec/journals/corr/abs-2601-03413
+- author: Gorka Nieto, Idoia de la Iglesia, Cristina Perfecto, Unai Lopez-Novoa
+  title: On-Device Deep Reinforcement Learning for Decentralized Task Offloading Performance
+    trade-offs in the training process.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-03976
+  doi: 10.48550/ARXIV.2601.03976
+  ee: https://doi.org/10.48550/arXiv.2601.03976
+  url: https://dblp.org/rec/journals/corr/abs-2601-03976
+- author: "Damian Harenc\xE1k, Luk\xE1s Gajdosech, Martin Madaras"
+  title: Decentralized Privacy-Preserving Federal Learning of Computer Vision Models
+    on Edge Devices.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-04912
+  doi: 10.48550/ARXIV.2601.04912
+  ee: https://doi.org/10.48550/arXiv.2601.04912
+  url: https://dblp.org/rec/journals/corr/abs-2601-04912
+- author: Hengliang Wu, Youming Tao, Anhao Zhou, Shuzhen Chen 0001, Falko Dressler,
+    Dongxiao Yu
+  title: Certified Unlearning in Decentralized Federated Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-06436
+  doi: 10.48550/ARXIV.2601.06436
+  ee: https://doi.org/10.48550/arXiv.2601.06436
+  url: https://dblp.org/rec/journals/corr/abs-2601-06436

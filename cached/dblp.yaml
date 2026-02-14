@@ -632,6 +632,18 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I22.34481
   ee: https://doi.org/10.1609/aaai.v39i22.34481
   url: https://dblp.org/rec/conf/aaai/Etesami025
+- author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
+    Aleksandr Panov 0001
+  title: 'Learn to Follow: Decentralized Lifelong Multi-Agent Pathfinding via Planning
+    and Learning.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/SkrynnikANYP24
+  doi: 10.1609/AAAI.V38I16.29704
+  ee: https://doi.org/10.1609/aaai.v38i16.29704
+  url: https://dblp.org/rec/conf/aaai/SkrynnikANYP24
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -15842,3 +15854,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2601.06436
   ee: https://doi.org/10.48550/arXiv.2601.06436
   url: https://dblp.org/rec/journals/corr/abs-2601-06436
+- author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
+    Aleksandr Panov 0001
+  title: 'Learn to Follow: Decentralized Lifelong Multi-agent Pathfinding via Planning
+    and Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-01207
+  doi: 10.48550/ARXIV.2310.01207
+  ee: https://doi.org/10.48550/arXiv.2310.01207
+  url: https://dblp.org/rec/journals/corr/abs-2310-01207

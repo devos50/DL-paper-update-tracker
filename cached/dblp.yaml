@@ -15866,3 +15866,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2310.01207
   ee: https://doi.org/10.48550/arXiv.2310.01207
   url: https://dblp.org/rec/journals/corr/abs-2310-01207
+- author: Bohan Liu 0006, Yang Xiao, Ruimeng Ye, Zinan Ling, Xiaolong Ma, Bo Hui 0001
+  title: Towards Distributed Backdoor Attacks with Network Detection in Decentralized
+    Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-15005
+  doi: 10.48550/ARXIV.2501.15005
+  ee: https://doi.org/10.48550/arXiv.2501.15005
+  url: https://dblp.org/rec/journals/corr/abs-2501-15005

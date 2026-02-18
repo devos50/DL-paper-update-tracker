@@ -1974,6 +1974,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fpami%3A:
   doi: 10.1109/TPAMI.2025.3640709
   ee: https://doi.org/10.1109/TPAMI.2025.3640709
   url: https://dblp.org/rec/journals/pami/ZhaiYWL26
+- author: Zhiyuan Zhai, Xiaojun Yuan 0002, Xin Wang 0003, Geoffrey Ye Li
+  title: Decentralized Federated Learning With Distributed Aggregation Weight Optimization.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/ZhaiYWL26
+  doi: 10.1109/TPAMI.2025.3640709
+  ee: https://doi.org/10.1109/TPAMI.2025.3640709
+  url: https://dblp.org/rec/journals/pami/ZhaiYWL26
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
     Yanfeng Wang, Siheng Chen
@@ -15942,3 +15952,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2601.12693
   ee: https://doi.org/10.48550/arXiv.2601.12693
   url: https://dblp.org/rec/journals/corr/abs-2601-12693
+- author: Yanhang Shi, Xiaoyu Wang 0015, Houwei Cao, Jian Li, Yong Liu 0013
+  title: PID-Guided Partial Alignment for Multimodal Decentralized Federated Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-10012
+  doi: 10.48550/ARXIV.2601.10012
+  ee: https://doi.org/10.48550/arXiv.2601.10012
+  url: https://dblp.org/rec/journals/corr/abs-2601-10012
+- author: Angelo Rodio, Giovanni Neglia, Zheng Chen 0002, Erik G. Larsson
+  title: 'A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled
+    vs. Sampled-to-All Communication.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-11560
+  doi: 10.48550/ARXIV.2511.11560
+  ee: https://doi.org/10.48550/arXiv.2511.11560
+  url: https://dblp.org/rec/journals/corr/abs-2511-11560

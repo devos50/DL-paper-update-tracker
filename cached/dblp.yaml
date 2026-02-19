@@ -5175,6 +5175,18 @@ decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
   doi: 10.1007/978-3-032-05291-9_14
   ee: https://doi.org/10.1007/978-3-032-05291-9_14
   url: https://dblp.org/rec/conf/birthday/LuangphasyZ26
+- author: Haokai Xu, Xiaomei Dong, Gang Wang 0012, Zeshun Peng, Xiaohua Li, Ge Yu
+    0001
+  title: 'ByzTierFL: A Tiered Approach to Byzantine Robust and Decentralized Federated
+    Learning.'
+  venue: APWeb-WAIM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/apweb/XuDWPLY25
+  doi: 10.1007/978-981-95-5719-6_42
+  ee: https://doi.org/10.1007/978-981-95-5719-6_42
+  url: https://dblp.org/rec/conf/apweb/XuDWPLY25
 decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
 - author: Zeyu Meng, Hongli Xu, Min Chen 0033, Yang Xu 0020, Yangming Zhao, Chunming
     Qiao

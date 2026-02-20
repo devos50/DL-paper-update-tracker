@@ -644,6 +644,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V38I16.29704
   ee: https://doi.org/10.1609/aaai.v38i16.29704
   url: https://dblp.org/rec/conf/aaai/SkrynnikANYP24
+- author: Wenhan Xian, Feihu Huang 0001, Heng Huang 0001
+  title: Communication-Efficient Frank-Wolfe Algorithm for Nonconvex Decentralized
+    Distributed Learning.
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/XianHH21
+  doi: 10.1609/AAAI.V35I12.17246
+  ee: https://doi.org/10.1609/aaai.v35i12.17246
+  url: https://dblp.org/rec/conf/aaai/XianHH21
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -15985,3 +15996,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2511.11560
   ee: https://doi.org/10.48550/arXiv.2511.11560
   url: https://dblp.org/rec/journals/corr/abs-2511-11560
+- author: Chengzhe Piao, Taiyu Zhu, Yu Wang 0115, Stephanie E. Baldeweg, Paul Taylor,
+    Pantelis Georgiou, Jiahao Sun, Jun Wang, Kezhi Li
+  title: 'Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous
+    Decentralized Federated Learning Approach.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2406-15346
+  doi: 10.48550/ARXIV.2406.15346
+  ee: https://doi.org/10.48550/arXiv.2406.15346
+  url: https://dblp.org/rec/journals/corr/abs-2406-15346

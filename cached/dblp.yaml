@@ -2858,6 +2858,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftc%3A:
   doi: 10.1109/TC.2025.3603683
   ee: https://doi.org/10.1109/TC.2025.3603683
   url: https://dblp.org/rec/journals/tc/YuanZZZSY25
+- author: Ting Wang 0001, Xin Jiang 0027, Qin Li 0002, Haibin Cai
+  title: 'GreedW: A Flexible and Efficient Decentralized Framework for Distributed
+    Machine Learning.'
+  venue: IEEE Trans. Computers
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/WangJLC24
+  doi: 10.1109/TC.2023.3343110
+  ee: https://doi.org/10.1109/TC.2023.3343110
+  url: https://dblp.org/rec/journals/tc/WangJLC24
 decentralized%20learning%20streamid%3Aconf%2Ficse%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fstoc%3A: []

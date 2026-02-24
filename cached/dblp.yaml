@@ -3375,6 +3375,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2025.3637542
   ee: https://doi.org/10.1109/ACCESS.2025.3637542
   url: https://dblp.org/rec/journals/access/HuangGJZZ25
+- author: Wanjun Huang, Kangyu Gong, Zhufeng Jiang, Xinran Zhang 0001, Le Zheng
+  title: A Decentralized Unsupervised Learning Approach for AC-OPF Based on Multi-Branch
+    Deep Neural Network.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/HuangGJZZ25
+  doi: 10.1109/ACCESS.2025.3637542
+  ee: https://doi.org/10.1109/ACCESS.2025.3637542
+  url: https://dblp.org/rec/journals/access/HuangGJZZ25
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

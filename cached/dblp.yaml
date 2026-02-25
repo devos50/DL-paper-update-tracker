@@ -16042,3 +16042,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2406.15346
   ee: https://doi.org/10.48550/arXiv.2406.15346
   url: https://dblp.org/rec/journals/corr/abs-2406-15346
+- author: "Inderjeet Singh, El\xE9onore Vissol-Gaudin, Andikan Otung, Motoyoshi Sekiya"
+  title: 'Learning to Collaborate: An Orchestrated-Decentralized Framework for Peer-to-Peer
+    LLM Federation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-17133
+  doi: 10.48550/ARXIV.2601.17133
+  ee: https://doi.org/10.48550/arXiv.2601.17133
+  url: https://dblp.org/rec/journals/corr/abs-2601-17133

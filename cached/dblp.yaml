@@ -2183,6 +2183,17 @@ decentralized%20learning%20venue%3ACVPR%3A:
   doi: 10.1109/CVPR52734.2025.00954
   ee: https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html
   url: https://dblp.org/rec/conf/cvpr/XieLCYCXFSW025
+- author: Peng Sun, Xinyang Liu, Zhibo Wang 0001, Bo Liu
+  title: Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering
+    and Trust Bootstrapping.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/SunLWL24
+  doi: 10.1109/CVPR52733.2024.02338
+  ee: https://doi.org/10.1109/CVPR52733.2024.02338
+  url: https://dblp.org/rec/conf/cvpr/SunLWL24
 decentralized%20learning%20venue%3AICCV%3A:
 - author: Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto, Concetto
     Spampinato, Simone Palazzo, Bruno Casella, Marco Aldinucci
@@ -16053,3 +16064,48 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2601.17133
   ee: https://doi.org/10.48550/arXiv.2601.17133
   url: https://dblp.org/rec/journals/corr/abs-2601-17133
+- author: Adnan Ahmad, Chiara Boldrini, Lorenzo Valerio, Andrea Passarella, Marco
+    Conti
+  title: 'DecHW: Heterogeneous Decentralized Federated Learning Exploiting Second-Order
+    Information.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-19938
+  doi: 10.48550/ARXIV.2601.19938
+  ee: https://doi.org/10.48550/arXiv.2601.19938
+  url: https://dblp.org/rec/journals/corr/abs-2601-19938
+- author: "Anna Van Elst, Igor Colin, St\xE9phan Cl\xE9men\xE7on"
+  title: 'Robust Distributed Learning under Resource Constraints: Decentralized Quantile
+    Estimation via (Asynchronous) ADMM.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-20571
+  doi: 10.48550/ARXIV.2601.20571
+  ee: https://doi.org/10.48550/arXiv.2601.20571
+  url: https://dblp.org/rec/journals/corr/abs-2601-20571
+- author: Shuo Liu, Tianle Chen, Ryan Amiri, Christopher Amato
+  title: Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-21972
+  doi: 10.48550/ARXIV.2601.21972
+  ee: https://doi.org/10.48550/arXiv.2601.21972
+  url: https://dblp.org/rec/journals/corr/abs-2601-21972
+- author: Baris Askin, Shivam Patel, Anupam Nayak, Andrea Vigano, Jiin Woo, Gauri
+    Joshi, Carlee Joe-Wong
+  title: 'Federate the Router: Learning Language Model Routers with Sparse and Decentralized
+    Evaluations.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-22318
+  doi: 10.48550/ARXIV.2601.22318
+  ee: https://doi.org/10.48550/arXiv.2601.22318
+  url: https://dblp.org/rec/journals/corr/abs-2601-22318

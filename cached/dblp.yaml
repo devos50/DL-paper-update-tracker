@@ -16131,3 +16131,15 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2601.22318
   ee: https://doi.org/10.48550/arXiv.2601.22318
   url: https://dblp.org/rec/journals/corr/abs-2601-22318
+- author: Shilong Wang, Jianchun Liu, Hongli Xu 0001, Chenxia Tang, Qianpiao Ma, Liusheng
+    Huang
+  title: Towards Communication-Efficient Decentralized Federated Graph Learning over
+    Non-IID Data.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-08409
+  doi: 10.48550/ARXIV.2509.08409
+  ee: https://doi.org/10.48550/arXiv.2509.08409
+  url: https://dblp.org/rec/journals/corr/abs-2509-08409

@@ -1723,6 +1723,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fml%3A:
   doi: 10.1007/S10994-024-06537-8
   ee: https://doi.org/10.1007/s10994-024-06537-8
   url: https://dblp.org/rec/journals/ml/TangLM24
+- author: Chi Zhang 0123, Peilin Zhao, Shuji Hao, Yeng Chai Soh, Bu-Sung Lee, Chunyan
+    Miao, Steven C. H. Hoi
+  title: 'Distributed multi-task classification: a decentralized online learning approach.'
+  venue: Mach. Learn.
+  year: '2018'
+  type: Journal Articles
+  access: open
+  key: journals/ml/ZhangZHSLMH18
+  doi: 10.1007/S10994-017-5676-Y
+  ee: https://doi.org/10.1007/s10994-017-5676-y
+  url: https://dblp.org/rec/journals/ml/ZhangZHSLMH18
 decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
 - author: Wenhao Li, Bo Jin 0003, Xiangfeng Wang, Junchi Yan, Hongyuan Zha
   title: 'F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative
@@ -16178,3 +16189,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2602.01185
   ee: https://doi.org/10.48550/arXiv.2602.01185
   url: https://dblp.org/rec/journals/corr/abs-2602-01185
+- author: Rodrigo Tertulino, Ricardo Almeida, Laercio Alencar
+  title: 'Trustworthy Blockchain-based Federated Learning for Electronic Health Records:
+    Securing Participant Identity with Decentralized Identifiers and Verifiable Credentials.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-02629
+  doi: 10.48550/ARXIV.2602.02629
+  ee: https://doi.org/10.48550/arXiv.2602.02629
+  url: https://dblp.org/rec/journals/corr/abs-2602-02629
+- author: Chao Li, Bingkun Bao, Yang Gao 0001
+  title: Fully Decentralized Cooperative Multi-Agent Reinforcement Learning is A Context
+    Modeling Problem.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-15519
+  doi: 10.48550/ARXIV.2509.15519
+  ee: https://doi.org/10.48550/arXiv.2509.15519
+  url: https://dblp.org/rec/journals/corr/abs-2509-15519

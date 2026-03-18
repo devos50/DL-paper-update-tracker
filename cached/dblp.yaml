@@ -16264,3 +16264,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2208.00848
   ee: https://doi.org/10.48550/arXiv.2208.00848
   url: https://dblp.org/rec/journals/corr/abs-2208-00848
+- author: Jie Peng, Weiyu Li, Stefan Vlaski, Qing Ling 0001
+  title: Topology-Independent Robustness of the Weighted Mean under Label Poisoning
+    Attacks in Heterogeneous Decentralized Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02682
+  doi: 10.48550/ARXIV.2601.02682
+  ee: https://doi.org/10.48550/arXiv.2601.02682
+  url: https://dblp.org/rec/journals/corr/abs-2601-02682

@@ -666,6 +666,18 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V40I48.42287
   ee: https://doi.org/10.1609/aaai.v40i48.42287
   url: https://dblp.org/rec/conf/aaai/TakayamaF26
+- author: Ruisheng Zheng, Mingyi Li, Xiao Zhang 0015, Hongjian Shi, Yanjie Fu, Yuan
+    Yuan 0040, Dongxiao Yu
+  title: 'DGTF: Cross-Domain Decentralized Graph Learning with Topology-Aware Knowledge
+    Fusion.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhengLZSFYY26
+  doi: 10.1609/AAAI.V40I34.40118
+  ee: https://doi.org/10.1609/aaai.v40i34.40118
+  url: https://dblp.org/rec/conf/aaai/ZhengLZSFYY26
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent

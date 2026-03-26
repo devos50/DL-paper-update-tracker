@@ -678,6 +678,28 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V40I34.40118
   ee: https://doi.org/10.1609/aaai.v40i34.40118
   url: https://dblp.org/rec/conf/aaai/ZhengLZSFYY26
+- author: Angelo Rodio, Giovanni Neglia, Zheng Chen 0002, Erik G. Larsson
+  title: 'A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled
+    vs. Sampled-to-All Communication.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/RodioNCL26
+  doi: 10.1609/AAAI.V40I30.39705
+  ee: https://doi.org/10.1609/aaai.v40i30.39705
+  url: https://dblp.org/rec/conf/aaai/RodioNCL26
+- author: "Inderjeet Singh, El\xE9onore Vissol-Gaudin, Andikan Otung, Motoyoshi Sekiya"
+  title: 'Learning to Collaborate: An Orchestrated-Decentralized Framework for Peer-to-Peer
+    LLM Federation.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/SinghVOS26
+  doi: 10.1609/AAAI.V40I30.39742
+  ee: https://doi.org/10.1609/aaai.v40i30.39742
+  url: https://dblp.org/rec/conf/aaai/SinghVOS26
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -16333,3 +16355,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2602.04352
   ee: https://doi.org/10.48550/arXiv.2602.04352
   url: https://dblp.org/rec/journals/corr/abs-2602-04352
+- author: Ajay Kumar Shrestha
+  title: Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning
+    Systems.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-08290
+  doi: 10.48550/ARXIV.2602.08290
+  ee: https://doi.org/10.48550/arXiv.2602.08290
+  url: https://dblp.org/rec/journals/corr/abs-2602-08290

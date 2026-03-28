@@ -700,6 +700,16 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V40I30.39742
   ee: https://doi.org/10.1609/aaai.v40i30.39742
   url: https://dblp.org/rec/conf/aaai/SinghVOS26
+- author: Kayla Boggess, Sarit Kraus, Lu Feng 0001
+  title: Explaining Decentralized Multi-Agent Reinforcement Learning Policies.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BoggessKF26
+  doi: 10.1609/AAAI.V40I21.38788
+  ee: https://doi.org/10.1609/aaai.v40i21.38788
+  url: https://dblp.org/rec/conf/aaai/BoggessKF26
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -2969,6 +2979,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftc%3A:
   doi: 10.1109/TC.2023.3343110
   ee: https://doi.org/10.1109/TC.2023.3343110
   url: https://dblp.org/rec/journals/tc/WangJLC24
+- author: Minghui Xu 0001, Zongrui Zou, Ye Cheng, Qin Hu 0001, Dongxiao Yu, Xiuzhen
+    Cheng
+  title: 'SPDL: A Blockchain-Enabled Secure and Privacy-Preserving Decentralized Learning
+    System.'
+  venue: IEEE Trans. Computers
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/XuZCHYC23
+  doi: 10.1109/TC.2022.3169436
+  ee: https://doi.org/10.1109/TC.2022.3169436
+  url: https://dblp.org/rec/journals/tc/XuZCHYC23
 decentralized%20learning%20streamid%3Aconf%2Ficse%3A: []
 decentralized%20learning%20streamid%3Ajournals%2Ffocs%3A: []
 decentralized%20learning%20streamid%3Aconf%2Fstoc%3A: []
@@ -16366,3 +16388,56 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2602.08290
   ee: https://doi.org/10.48550/arXiv.2602.08290
   url: https://dblp.org/rec/journals/corr/abs-2602-08290
+- author: Seref Taha Kiremitci, Ahmed Said Donmez, Muhammed O. Sayin
+  title: Decentralized Optimal Equilibrium Learning in Stochastic Games via Single-bit
+    Feedback.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-12830
+  doi: 10.48550/ARXIV.2602.12830
+  ee: https://doi.org/10.48550/arXiv.2602.12830
+  url: https://dblp.org/rec/journals/corr/abs-2602-12830
+- author: Kai Zhang, Xuanyu Cao, Khaled B. Letaief
+  title: Decentralized Federated Learning With Energy Harvesting Devices.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-14051
+  doi: 10.48550/ARXIV.2602.14051
+  ee: https://doi.org/10.48550/arXiv.2602.14051
+  url: https://dblp.org/rec/journals/corr/abs-2602-14051
+- author: Mengtong Gao, Yifei Zou, Zuyuan Zhang, Xiuzhen Cheng, Dongxiao Yu
+  title: Cooperative Backdoor Attack in Decentralized Reinforcement Learning with
+    Theoretical Guarantee.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-15245
+  doi: 10.48550/ARXIV.2405.15245
+  ee: https://doi.org/10.48550/arXiv.2405.15245
+  url: https://dblp.org/rec/journals/corr/abs-2405-15245
+- author: Minghui Xu 0001, Zongrui Zou, Ye Cheng, Qin Hu 0001, Dongxiao Yu, Xiuzhen
+    Cheng
+  title: 'SPDL: Blockchain-secured and Privacy-preserving Decentralized Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-01989
+  doi: ''
+  ee: https://arxiv.org/abs/2201.01989
+  url: https://dblp.org/rec/journals/corr/abs-2201-01989
+- author: Shuzhen Chen 0001, Dongxiao Yu, Yifei Zou, Jiguo Yu, Xiuzhen Cheng
+  title: Decentralized Wireless Federated Learning with Differential Privacy.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2109-09142
+  doi: ''
+  ee: https://arxiv.org/abs/2109.09142
+  url: https://dblp.org/rec/journals/corr/abs-2109-09142

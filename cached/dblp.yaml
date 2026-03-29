@@ -2061,6 +2061,17 @@ decentralized%20learning%20streamid%3Ajournals%2Fpami%3A:
   doi: 10.1109/TPAMI.2025.3640709
   ee: https://doi.org/10.1109/TPAMI.2025.3640709
   url: https://dblp.org/rec/journals/pami/ZhaiYWL26
+- author: Yan Sun, Li Shen 0008, Dacheng Tao
+  title: Toward Understanding Generalization and Stability Gaps Between Centralized
+    and Decentralized Federated Learning.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/SunST26
+  doi: 10.1109/TPAMI.2025.3647762
+  ee: https://doi.org/10.1109/TPAMI.2025.3647762
+  url: https://dblp.org/rec/journals/pami/SunST26
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
     Yanfeng Wang, Siheng Chen

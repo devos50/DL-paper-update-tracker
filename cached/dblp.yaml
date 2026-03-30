@@ -16452,3 +16452,58 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: ''
   ee: https://arxiv.org/abs/2109.09142
   url: https://dblp.org/rec/journals/corr/abs-2109-09142
+- author: Nelson Salazar-Pena, Alejandra Tabares, Andres Gonzalez-Mancera
+  title: 'Harnessing Implicit Cooperation: A Multi-Agent Reinforcement Learning Approach
+    Towards Decentralized Local Energy Markets.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-16062
+  doi: 10.48550/ARXIV.2602.16062
+  ee: https://doi.org/10.48550/arXiv.2602.16062
+  url: https://dblp.org/rec/journals/corr/abs-2602-16062
+- author: Nelson Salazar-Pena, Alejandra Tabares, Andres Gonzalez-Mancera
+  title: 'MARLEM: A Multi-Agent Reinforcement Learning Simulation Framework for Implicit
+    Cooperation in Decentralized Local Energy Markets.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-16063
+  doi: 10.48550/ARXIV.2602.16063
+  ee: https://doi.org/10.48550/arXiv.2602.16063
+  url: https://dblp.org/rec/journals/corr/abs-2602-16063
+- author: Mubshra Zulfiqar, Muhammad Ayzed Mirza, Basit Qureshi
+  title: Carbon-aware decentralized dynamic task offloading in MIMO-MEC networks via
+    multi-agent reinforcement learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-18797
+  doi: 10.48550/ARXIV.2602.18797
+  ee: https://doi.org/10.48550/arXiv.2602.18797
+  url: https://dblp.org/rec/journals/corr/abs-2602-18797
+- author: Nazal Mohamed, Ayush Mohanty, Nagi Gebraeel
+  title: Federated Causal Representation Learning in State-Space Systems for Decentralized
+    Counterfactual Reasoning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-19414
+  doi: 10.48550/ARXIV.2602.19414
+  ee: https://doi.org/10.48550/arXiv.2602.19414
+  url: https://dblp.org/rec/journals/corr/abs-2602-19414
+- author: Ayush Mohanty, Paritosh Ramanan, Nagi Gebraeel
+  title: Learning Unknown Interdependencies for Decentralized Root Cause Analysis
+    in Nonlinear Dynamical Systems.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-21928
+  doi: 10.48550/ARXIV.2602.21928
+  ee: https://doi.org/10.48550/arXiv.2602.21928
+  url: https://dblp.org/rec/journals/corr/abs-2602-21928

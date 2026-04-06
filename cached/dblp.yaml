@@ -16529,3 +16529,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2602.21928
   ee: https://doi.org/10.48550/arXiv.2602.21928
   url: https://dblp.org/rec/journals/corr/abs-2602-21928
+- author: Shan Sha, Shenglong Zhou 0001, Xin Wang, Lingchen Kong, Geoffrey Ye Li
+  title: Decentralized Federated Learning by Partial Message Exchange.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-01730
+  doi: 10.48550/ARXIV.2603.01730
+  ee: https://doi.org/10.48550/arXiv.2603.01730
+  url: https://dblp.org/rec/journals/corr/abs-2603-01730

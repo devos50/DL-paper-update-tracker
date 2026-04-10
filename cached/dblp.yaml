@@ -16539,3 +16539,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2603.01730
   ee: https://doi.org/10.48550/arXiv.2603.01730
   url: https://dblp.org/rec/journals/corr/abs-2603-01730
+- author: Kazuki Shibata, Ryosuke Sota, Shandil Dhiresh Bosch, Yuki Kadokawa, Yoshihisa
+    Tsurumine, Takamitsu Matsubara
+  title: 'DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive
+    Decentralized Multi-Robot Cooperative Transport.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-08111
+  doi: 10.48550/ARXIV.2603.08111
+  ee: https://doi.org/10.48550/arXiv.2603.08111
+  url: https://dblp.org/rec/journals/corr/abs-2603-08111
+- author: Sizhe Huang, Shujie Yang
+  title: 'TASER: Task-Aware Spectral Energy Refine for Backdoor Suppression in UAV
+    Swarms Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-10075
+  doi: 10.48550/ARXIV.2603.10075
+  ee: https://doi.org/10.48550/arXiv.2603.10075
+  url: https://dblp.org/rec/journals/corr/abs-2603-10075

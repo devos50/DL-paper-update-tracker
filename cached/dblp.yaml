@@ -16562,3 +16562,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2603.10075
   ee: https://doi.org/10.48550/arXiv.2603.10075
   url: https://dblp.org/rec/journals/corr/abs-2603-10075
+- author: Zhiyu Wang, Mohammad Goudarzi, Mingming Gong, Rajkumar Buyya
+  title: 'DeFRiS: Silo-Cooperative IoT Applications Scheduling via Decentralized Federated
+    Reinforcement Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-14729
+  doi: 10.48550/ARXIV.2603.14729
+  ee: https://doi.org/10.48550/arXiv.2603.14729
+  url: https://dblp.org/rec/journals/corr/abs-2603-14729
+- author: Mikoto Kudo, Takumi Tanabe, Akifumi Wachi, Youhei Akimoto
+  title: Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-14867
+  doi: 10.48550/ARXIV.2603.14867
+  ee: https://doi.org/10.48550/arXiv.2603.14867
+  url: https://dblp.org/rec/journals/corr/abs-2603-14867
+- author: Xiaoyu He, Weicai Li, Tiejun Lv, Xi Yu
+  title: Joint Routing and Model Pruning for Decentralized Federated Learning in Bandwidth-Constrained
+    Multi-Hop Wireless Networks.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-15188
+  doi: 10.48550/ARXIV.2603.15188
+  ee: https://doi.org/10.48550/arXiv.2603.15188
+  url: https://dblp.org/rec/journals/corr/abs-2603-15188

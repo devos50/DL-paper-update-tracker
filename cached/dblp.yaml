@@ -1495,6 +1495,17 @@ decentralized%20learning%20venue%3AICML%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v235/mrini24a.html
   url: https://dblp.org/rec/conf/icml/MriniCB24
+- author: Chun-Yin Huang, Kartik Srinivas, Xin Zhang 0054, Xiaoxiao Li
+  title: Overcoming Data and Model heterogeneities in Decentralized Federated Learning
+    via Synthetic Anchors.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangSZL24
+  doi: ''
+  ee: https://proceedings.mlr.press/v235/huang24v.html
+  url: https://dblp.org/rec/conf/icml/HuangSZL24
 decentralized%20learning%20venue%3AICLR%3A:
 - author: Marco Bornstein, Tahseen Rabbani, Evan Wang, Amrit S. Bedi, Furong Huang
   title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication.'
@@ -16606,3 +16617,48 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2504.05107
   ee: https://doi.org/10.48550/arXiv.2504.05107
   url: https://dblp.org/rec/journals/corr/abs-2504-05107
+- author: Enguang Fan, Yifan Chen, Zihan Shan, Matthew Caesar 0001, Jae Kim
+  title: Communication-Aware Multi-Agent Reinforcement Learning for Decentralized
+    Cooperative UAV Deployment.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-16141
+  doi: 10.48550/ARXIV.2603.16141
+  ee: https://doi.org/10.48550/arXiv.2603.16141
+  url: https://dblp.org/rec/journals/corr/abs-2603-16141
+- author: Sheng Pan, Niansheng Tang
+  title: 'Beyond Passive Aggregation: Active Auditing and Topology-Aware Defense in
+    Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-18538
+  doi: 10.48550/ARXIV.2603.18538
+  ee: https://doi.org/10.48550/arXiv.2603.18538
+  url: https://dblp.org/rec/journals/corr/abs-2603-18538
+- author: "Huong Mai Nguyen, Hong-Tri Nguyen 0001, Praveen Kumar Donta, Susanna Pirttikangas,\
+    \ Lauri Lov\xE9n"
+  title: Graph-based Gossiping for Communication Efficiency in Decentralized Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-10607
+  doi: 10.48550/ARXIV.2506.10607
+  ee: https://doi.org/10.48550/arXiv.2506.10607
+  url: https://dblp.org/rec/journals/corr/abs-2506-10607
+- author: Chun-Yin Huang, Kartik Srinivas, Xin Zhang 0054, Xiaoxiao Li
+  title: Overcoming Data and Model Heterogeneities in Decentralized Federated Learning
+    via Synthetic Anchors.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-11525
+  doi: 10.48550/ARXIV.2405.11525
+  ee: https://doi.org/10.48550/arXiv.2405.11525
+  url: https://dblp.org/rec/journals/corr/abs-2405-11525

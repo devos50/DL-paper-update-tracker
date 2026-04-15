@@ -710,6 +710,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V40I21.38788
   ee: https://doi.org/10.1609/aaai.v40i21.38788
   url: https://dblp.org/rec/conf/aaai/BoggessKF26
+- author: Shubhankar Gupta, Suresh Sundaram 0002
+  title: Moving-Landmark Assisted Distributed Learning Based Decentralized Cooperative
+    Localization (DL-DCL) with Fault Tolerance.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/GuptaS23
+  doi: 10.1609/AAAI.V37I5.25761
+  ee: https://doi.org/10.1609/aaai.v37i5.25761
+  url: https://dblp.org/rec/conf/aaai/GuptaS23
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -5679,6 +5690,18 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFOCOM53939.2023.10228945
   ee: https://doi.org/10.1109/INFOCOM53939.2023.10228945
   url: https://dblp.org/rec/conf/infocom/LiaoXXWQ23
+- author: Jing Qiao, Zuyuan Zhang, Sheng Yue 0001, Yuan Yuan 0014, Zhipeng Cai 0001,
+    Xiao Zhang 0015, Ju Ren 0001, Dongxiao Yu
+  title: 'BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning
+    with Fast Convergence and Communication Efficiency.'
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/QiaoZYYCZRY24
+  doi: 10.1109/INFOCOM52122.2024.10621347
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621347
+  url: https://dblp.org/rec/conf/infocom/QiaoZYYCZRY24
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota
@@ -16662,3 +16685,14 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2405.11525
   ee: https://doi.org/10.48550/arXiv.2405.11525
   url: https://dblp.org/rec/journals/corr/abs-2405-11525
+- author: Shubhankar Gupta, Suresh Sundaram 0002
+  title: Decentralized Distributed Expert Assisted Learning (D2EAL) approach for cooperative
+    target-tracking.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-11113
+  doi: 10.48550/ARXIV.2209.11113
+  ee: https://doi.org/10.48550/arXiv.2209.11113
+  url: https://dblp.org/rec/journals/corr/abs-2209-11113

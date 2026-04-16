@@ -16696,3 +16696,49 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2209.11113
   ee: https://doi.org/10.48550/arXiv.2209.11113
   url: https://dblp.org/rec/journals/corr/abs-2209-11113
+- author: Yude Li, Zhexuan Zhou, Huizhe Li, Yanke Sun, Yenan Wu, Yichen Lai, Yiming
+    Wang, Youmin Gong, Jie Mei 0002
+  title: Decentralized End-to-End Multi-AAV Pursuit Using Predictive Spatio-Temporal
+    Observation via Deep Reinforcement Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-24238
+  doi: 10.48550/ARXIV.2603.24238
+  ee: https://doi.org/10.48550/arXiv.2603.24238
+  url: https://dblp.org/rec/journals/corr/abs-2603-24238
+- author: Yifeng Zhang, Harsh Goel, Peizhuo Li, Mehul Damani, Sandeep Chinchali, Guillaume
+    Sartoretti
+  title: 'CoordLight: Learning Decentralized Coordination for Network-Wide Traffic
+    Signal Control.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-24366
+  doi: 10.48550/ARXIV.2603.24366
+  ee: https://doi.org/10.48550/arXiv.2603.24366
+  url: https://dblp.org/rec/journals/corr/abs-2603-24366
+- author: Daniel Benniah John
+  title: 'Decentralized Task Scheduling in Distributed Systems: A Deep Reinforcement
+    Learning Approach.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-24738
+  doi: 10.48550/ARXIV.2603.24738
+  ee: https://doi.org/10.48550/arXiv.2603.24738
+  url: https://dblp.org/rec/journals/corr/abs-2603-24738
+- author: Jiahui Bai, Hai Dong, A. K. Qin 0001
+  title: 'On the Fast Adaptation of Delayed Clients in Decentralized Federated Learning:
+    A Centroid-Aligned Distillation Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-02993
+  doi: 10.48550/ARXIV.2508.02993
+  ee: https://doi.org/10.48550/arXiv.2508.02993
+  url: https://dblp.org/rec/journals/corr/abs-2508-02993

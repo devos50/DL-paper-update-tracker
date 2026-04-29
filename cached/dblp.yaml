@@ -1811,6 +1811,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fml%3A:
   doi: 10.1007/S10994-017-5676-Y
   ee: https://doi.org/10.1007/s10994-017-5676-y
   url: https://dblp.org/rec/journals/ml/ZhangZHSLMH18
+- author: Xuanyu Chen, Nan Yang, Charles Z. Liu, Dong Yuan
+  title: 'DeNAV: Decentralized Self-Supervised Learning with a Training Navigator.'
+  venue: Mach. Learn.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/ChenYLY26
+  doi: 10.1007/S10994-025-06965-0
+  ee: https://doi.org/10.1007/s10994-025-06965-0
+  url: https://dblp.org/rec/journals/ml/ChenYLY26
 decentralized%20learning%20streamid%3Ajournals%2Fjmlr%3A:
 - author: Wenhao Li, Bo Jin 0003, Xiangfeng Wang, Junchi Yan, Hongyuan Zha
   title: 'F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative

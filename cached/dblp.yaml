@@ -16818,3 +16818,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2602.01185
   ee: https://doi.org/10.48550/arXiv.2602.01185
   url: https://dblp.org/rec/journals/corr/abs-2602-01185
+- author: Chenghao Huang, Jiarong Fan, Weiqing Wang, Hao Wang
+  title: Safe Decentralized Operation of EV Virtual Power Plant with Limited Network
+    Visibility via Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-03278
+  doi: 10.48550/ARXIV.2604.03278
+  ee: https://doi.org/10.48550/arXiv.2604.03278
+  url: https://dblp.org/rec/journals/corr/abs-2604-03278
+- author: Changxin Liu 0001, Nicola Bastianello, Wei Huo 0002, Yang Shi 0001, Karl
+    Henrik Johansson
+  title: A survey on secure decentralized optimization and learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-08628
+  doi: 10.48550/ARXIV.2408.08628
+  ee: https://doi.org/10.48550/arXiv.2408.08628
+  url: https://dblp.org/rec/journals/corr/abs-2408-08628

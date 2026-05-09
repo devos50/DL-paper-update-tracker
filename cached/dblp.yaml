@@ -230,6 +230,17 @@ decentralized%20learning%20venue%3AIJCAI%3A:
   doi: 10.24963/IJCAI.2025/809
   ee: https://doi.org/10.24963/ijcai.2025/809
   url: https://dblp.org/rec/conf/ijcai/ZhuHWJ025
+- author: Zehan Zhu, Yan Huang 0036, Xin Wang 0037, Shouling Ji, Jinming Xu 0002
+  title: 'Dyn-D2P: Dynamic Differentially Private Decentralized Learning with Provable
+    Utility Guarantee.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ZhuHWJ025
+  doi: 10.24963/IJCAI.2025/809
+  ee: https://doi.org/10.24963/ijcai.2025/809
+  url: https://dblp.org/rec/conf/ijcai/ZhuHWJ025
 decentralized%20learning%20venue%3AAAAI%3A:
 - author: Alexey Skrynnik, Anton Andreychuk, Maria Nesterova, Konstantin S. Yakovlev,
     Aleksandr Panov
@@ -16840,3 +16851,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2408.08628
   ee: https://doi.org/10.48550/arXiv.2408.08628
   url: https://dblp.org/rec/journals/corr/abs-2408-08628
+- author: Zonghong Liu, Matthew Dwyer 0004, Salim El Rouayheb
+  title: Decentralized Learning via Random Walk with Jumps.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-12260
+  doi: 10.48550/ARXIV.2604.12260
+  ee: https://doi.org/10.48550/arXiv.2604.12260
+  url: https://dblp.org/rec/journals/corr/abs-2604-12260
+- author: Zehan Zhu, Yan Huang 0036, Xin Wang 0037, Shouling Ji, Jinming Xu 0002
+  title: 'Dyn-D2P: Dynamic Differentially Private Decentralized Learning with Provable
+    Utility Guarantee.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-06651
+  doi: 10.48550/ARXIV.2505.06651
+  ee: https://doi.org/10.48550/arXiv.2505.06651
+  url: https://dblp.org/rec/journals/corr/abs-2505-06651

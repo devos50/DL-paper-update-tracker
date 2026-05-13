@@ -16872,3 +16872,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2505.06651
   ee: https://doi.org/10.48550/arXiv.2505.06651
   url: https://dblp.org/rec/journals/corr/abs-2505-06651
+- author: Yao Zhou 0003, Jun Wu 0019, Jingrui He
+  title: Robust Decentralized Learning for Neural Networks.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2009-09026
+  doi: ''
+  ee: https://arxiv.org/abs/2009.09026
+  url: https://dblp.org/rec/journals/corr/abs-2009-09026

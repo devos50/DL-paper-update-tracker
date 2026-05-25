@@ -3584,6 +3584,18 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2023.3311713
   ee: https://doi.org/10.1109/ACCESS.2023.3311713
   url: https://dblp.org/rec/journals/access/AlsagheerXS23
+- author: "\xC1ngel Luis Perales G\xF3mez, Enrique Tom\xE1s Mart\xEDnez Beltr\xE1\
+    n, Pedro Miguel S\xE1nchez S\xE1nchez, Alberto Huertas Celdr\xE1n"
+  title: 'TemporalFED: A Software Module for Detecting Cyberattacks in Industry 4.0
+    Time-Series Data Using Decentralized Federated Learning.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/GomezBSC26
+  doi: 10.1109/ACCESS.2026.3681545
+  ee: https://doi.org/10.1109/ACCESS.2026.3681545
+  url: https://dblp.org/rec/journals/access/GomezBSC26
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

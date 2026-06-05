@@ -2909,6 +2909,18 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2025.3594694
   ee: https://doi.org/10.1109/TPDS.2025.3594694
   url: https://dblp.org/rec/journals/tpds/ChenZCXL25
+- author: Fang Shi, Yuehong Chen, Qiong Huang 0001, Tiansheng Huang, Guozhi Liu, Li
+    Shen 0008
+  title: Decentralized Federated Learning With Period Gradient Tracking Over Time-Varying
+    Networks.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/ShiCHHLS26
+  doi: 10.1109/TPDS.2026.3685244
+  ee: https://doi.org/10.1109/TPDS.2026.3685244
+  url: https://dblp.org/rec/journals/tpds/ShiCHHLS26
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -16985,3 +16997,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2203.08412
   ee: https://doi.org/10.48550/arXiv.2203.08412
   url: https://dblp.org/rec/journals/corr/abs-2203-08412
+- author: Haihan Duan, Tengfei Ma, Yuyang Qin, Runhao Zeng, Wei Cai 0002, Victor C.
+    M. Leung, Xiping Hu
+  title: 'DeRelayL: Sustainable Decentralized Relay Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-02935
+  doi: 10.48550/ARXIV.2605.02935
+  ee: https://doi.org/10.48550/arXiv.2605.02935
+  url: https://dblp.org/rec/journals/corr/abs-2605-02935
+- author: Wenyang Jia, Qiankang Xu, Ziwei Yan, Chunhua Kang, Yang Yang, Jinglu He,
+    Kai Lei
+  title: 'OpenCLAW-Nexus: A Self-Reinforcing Trust Framework for Byzantine-Resilient
+    Decentralized Federated Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-04091
+  doi: 10.48550/ARXIV.2605.04091
+  ee: https://doi.org/10.48550/arXiv.2605.04091
+  url: https://dblp.org/rec/journals/corr/abs-2605-04091

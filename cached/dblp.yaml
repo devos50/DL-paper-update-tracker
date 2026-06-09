@@ -4751,6 +4751,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2026.3667408
   ee: https://doi.org/10.1109/JIOT.2026.3667408
   url: https://dblp.org/rec/journals/iotj/PalFLMIL26
+- author: Hongliang Zhang 0001, Fenghua Xu, Zhongyuan Yu, Shanchen Pang, Chunqiang
+    Hu, Jiguo Yu
+  title: 'DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data
+    Distributions.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangXYPHY26
+  doi: 10.1109/JIOT.2025.3634124
+  ee: https://doi.org/10.1109/JIOT.2025.3634124
+  url: https://dblp.org/rec/journals/iotj/ZhangXYPHY26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -17031,3 +17043,68 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2402.11799
   ee: https://doi.org/10.48550/arXiv.2402.11799
   url: https://dblp.org/rec/journals/corr/abs-2402-11799
+- author: Yuyang Zhang, Haldun Balim, Na Li
+  title: Decentralized Diffusion Policy Learning for Enhanced Exploration in Cooperative
+    Multi-agent Reinforcement Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-07101
+  doi: 10.48550/ARXIV.2605.07101
+  ee: https://doi.org/10.48550/arXiv.2605.07101
+  url: https://dblp.org/rec/journals/corr/abs-2605-07101
+- author: Michael Lanier, Luise Ge, Sastry Kompella, Yevgeniy Vorobeychik
+  title: Learned Neighbor Trust for Collaborative Deployment in Model-Agnostic Decentralized
+    Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-05009
+  doi: 10.48550/ARXIV.2605.05009
+  ee: https://doi.org/10.48550/arXiv.2605.05009
+  url: https://dblp.org/rec/journals/corr/abs-2605-05009
+- author: Hanzaleh Akbari Nodehi, Parsa Moradi, Soheil Mohajer, Mohammad Ali Maddah-Ali
+  title: '\mathsf{VISTA}: Decentralized Machine Learning in Adversary Dominated Environments.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-07841
+  doi: 10.48550/ARXIV.2605.07841
+  ee: https://doi.org/10.48550/arXiv.2605.07841
+  url: https://dblp.org/rec/journals/corr/abs-2605-07841
+- author: Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki
+  title: 'Function-Space ADMM for Decentralized Federated Learning: A Control Theoretic
+    Perspective.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-09356
+  doi: 10.48550/ARXIV.2605.09356
+  ee: https://doi.org/10.48550/arXiv.2605.09356
+  url: https://dblp.org/rec/journals/corr/abs-2605-09356
+- author: Qingyun Guo, Junyi Shi, Tomasz Piotr Kucner, Dominik Baumann
+  title: Priority-Driven Control and Communication in Decentralized Multi-Agent Systems
+    via Reinforcement Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-10482
+  doi: 10.48550/ARXIV.2605.10482
+  ee: https://doi.org/10.48550/arXiv.2605.10482
+  url: https://dblp.org/rec/journals/corr/abs-2605-10482
+- author: Mikako Ochiai, Masatoshi Nagano, Tadahiro Taniguchi
+  title: Emergent Communication between Heterogeneous Visual Agents through Decentralized
+    Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-11695
+  doi: 10.48550/ARXIV.2605.11695
+  ee: https://doi.org/10.48550/arXiv.2605.11695
+  url: https://dblp.org/rec/journals/corr/abs-2605-11695

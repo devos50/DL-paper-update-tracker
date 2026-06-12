@@ -2631,6 +2631,17 @@ decentralized%20learning%20venue%3AWWW%3A:
   doi: 10.1145/3589334.3645696
   ee: https://doi.org/10.1145/3589334.3645696
   url: https://dblp.org/rec/conf/www/ZhengQCCSY24
+- author: Syahirul Faiz, Huned Materwala, Davor Svetinovic
+  title: Learning-Based Optimization of Atomic Arbitrage in Decentralized Financial
+    Systems.
+  venue: WWW
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/FaizMS26
+  doi: 10.1145/3774905.3794707
+  ee: https://doi.org/10.1145/3774905.3794707
+  url: https://dblp.org/rec/conf/www/FaizMS26
 decentralized%20learning%20venue%3AOSDI%3A: []
 decentralized%20learning%20venue%3ASOSP%3A: []
 decentralized%20learning%20venue%3AISCA%3A: []
@@ -17108,3 +17119,25 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2605.11695
   ee: https://doi.org/10.48550/arXiv.2605.11695
   url: https://dblp.org/rec/journals/corr/abs-2605-11695
+- author: Chaimaa Medjadji, Guilain Leduc, Sylvain Kubler, Yves Le Traon
+  title: 'Centralized vs Decentralized Federated Learning: A trade-off performance
+    analysis.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-16089
+  doi: 10.48550/ARXIV.2605.16089
+  ee: https://doi.org/10.48550/arXiv.2605.16089
+  url: https://dblp.org/rec/journals/corr/abs-2605-16089
+- author: Mohammadhossein Ghahramani, Yan Qiao 0004, Mengchu Zhou
+  title: Edge-AI-Driven Learning-to-Rank for Decentralized Task Allocation in Circular
+    Smart Manufacturing.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-16433
+  doi: 10.48550/ARXIV.2605.16433
+  ee: https://doi.org/10.48550/arXiv.2605.16433
+  url: https://dblp.org/rec/journals/corr/abs-2605-16433

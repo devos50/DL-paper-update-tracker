@@ -4774,6 +4774,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2025.3634124
   ee: https://doi.org/10.1109/JIOT.2025.3634124
   url: https://dblp.org/rec/journals/iotj/ZhangXYPHY26
+- author: Hongliang Zhang 0006, Fenghua Xu, Zhongyuan Yu, Shanchen Pang, Chunqiang
+    Hu, Jiguo Yu
+  title: 'DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data
+    Distributions.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangXYPHY26
+  doi: 10.1109/JIOT.2025.3634124
+  ee: https://doi.org/10.1109/JIOT.2025.3634124
+  url: https://dblp.org/rec/journals/iotj/ZhangXYPHY26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -17141,3 +17153,27 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2605.16433
   ee: https://doi.org/10.48550/arXiv.2605.16433
   url: https://dblp.org/rec/journals/corr/abs-2605-16433
+- author: "Sayan Biswas, Antoine Boutet, Davide Frey, Romaric Gaudel, Rachid Guerraoui,\
+    \ Maxime Jacovella, Anne-Marie Kermarrec, Dimitri Ler\xE9v\xE9rend, Fran\xE7ois\
+    \ Ta\xEFani, Martijn de Vos"
+  title: 'Your Neighbors Know: Leveraging Local Neighborhoods for Backdoor Detection
+    in Decentralized Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-19969
+  doi: 10.48550/ARXIV.2605.19969
+  ee: https://doi.org/10.48550/arXiv.2605.19969
+  url: https://dblp.org/rec/journals/corr/abs-2605-19969
+- author: Mouhamed Amine Bouchiha, Abdelaziz Amara Korba, Yacine Ghamri-Doudane
+  title: Automated Byzantine-Resilient Clustered Decentralized Federated Learning
+    for Battery Intelligence in Connected EVs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-21115
+  doi: 10.48550/ARXIV.2605.21115
+  ee: https://doi.org/10.48550/arXiv.2605.21115
+  url: https://dblp.org/rec/journals/corr/abs-2605-21115

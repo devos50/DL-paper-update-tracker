@@ -17177,3 +17177,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2605.21115
   ee: https://doi.org/10.48550/arXiv.2605.21115
   url: https://dblp.org/rec/journals/corr/abs-2605-21115
+- author: "Tom\xE0s Ortega, Hamid Jafarkhani"
+  title: Decentralized Parameter-Free Online Learning with Compressed Gossip.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-27831
+  doi: 10.48550/ARXIV.2605.27831
+  ee: https://doi.org/10.48550/arXiv.2605.27831
+  url: https://dblp.org/rec/journals/corr/abs-2605-27831

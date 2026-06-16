@@ -732,6 +732,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V37I5.25761
   ee: https://doi.org/10.1609/aaai.v37i5.25761
   url: https://dblp.org/rec/conf/aaai/GuptaS23
+- author: Junyu Zhang 0002, Amrit Singh Bedi, Mengdi Wang 0001, Alec Koppel
+  title: Multi-Agent Reinforcement Learning with General Utilities via Decentralized
+    Shadow Reward Actor-Critic.
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangBWK22
+  doi: 10.1609/AAAI.V36I8.20887
+  ee: https://doi.org/10.1609/aaai.v36i8.20887
+  url: https://dblp.org/rec/conf/aaai/ZhangBWK22
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -1129,6 +1140,37 @@ decentralized%20learning%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2022/hash/0790ef700dd0072f4940abda9b7d0005-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/SongLJ00YY22
+- author: Soham Bonnerjee, Sayar Karmakar, Wei Biao Wu
+  title: Sharp Gaussian approximations for Decentralized Federated Learning.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/BonnerjeeKW25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/e6a11b618402617342f38f5b49430937-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/BonnerjeeKW25
+- author: Chao Li, Bingkun Bao, Yang Gao 0001
+  title: In-Context Fully Decentralized Cooperative Multi-Agent Reinforcement Learning.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiBG25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/d925bda407ada0df3190df323a212661-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiBG25
+- author: Xiang Li, Chendi Wang, Buxin Su, Qi Long, Weijie Su 0001
+  title: Mitigating the Privacy-Utility Trade-off in Decentralized Federated Learning
+    via f-Differential Privacy.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiWSLS25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/f6913c4fd14f608077a4145f2744ec89-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiWSLS25
 decentralized%20learning%20venue%3AICML%3A:
 - author: Matthieu Zimmer, Claire Glanois, Umer Siddique, Paul Weng
   title: Learning Fair Policies in Decentralized Cooperative Multi-Agent Reinforcement

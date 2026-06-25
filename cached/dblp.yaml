@@ -743,6 +743,17 @@ decentralized%20learning%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V36I8.20887
   ee: https://doi.org/10.1609/aaai.v36i8.20887
   url: https://dblp.org/rec/conf/aaai/ZhangBWK22
+- author: Songtao Lu, Kaiqing Zhang, Tianyi Chen 0002, Tamer Basar, Lior Horesh
+  title: Decentralized Policy Gradient Descent Ascent for Safe Multi-Agent Reinforcement
+    Learning.
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LuZCBH21
+  doi: 10.1609/AAAI.V35I10.17062
+  ee: https://doi.org/10.1609/aaai.v35i10.17062
+  url: https://dblp.org/rec/conf/aaai/LuZCBH21
 decentralized%20learning%20venue%3AAISTATS%3A:
 - author: Maheed H. Ahmed, Mahsa Ghasemi
   title: Privacy-Preserving Decentralized Actor-Critic for Cooperative Multi-Agent
@@ -2157,6 +2168,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fpami%3A:
   doi: 10.1109/TPAMI.2025.3647762
   ee: https://doi.org/10.1109/TPAMI.2025.3647762
   url: https://dblp.org/rec/journals/pami/SunST26
+- author: Luqing Wang, Shaofu Yang, Yifan Wan, Wenying Xu, Min-Ling Zhang
+  title: Privacy Preserving Decentralized Learning With Positive-Incentive Noise.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/WangYWXZ26
+  doi: 10.1109/TPAMI.2026.3672569
+  ee: https://doi.org/10.1109/TPAMI.2026.3672569
+  url: https://dblp.org/rec/journals/pami/WangYWXZ26
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
     Yanfeng Wang, Siheng Chen

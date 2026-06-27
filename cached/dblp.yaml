@@ -1182,6 +1182,28 @@ decentralized%20learning%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2025/hash/f6913c4fd14f608077a4145f2744ec89-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/LiWSLS25
+- author: Yuqi Jia, Minghong Fang, Neil Gong 0001
+  title: Competitive Advantage Attacks to Decentralized Federated Learning.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiaFG25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/7c818dd40651b420873af70b8a790e3f-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiaFG25
+- author: Danni Yang, Zhikang Chen, Sen Cui, Mengyue Yang, Ding Li, Abudukelimu Wuerkaixi,
+    Haoxuan Li 0001, Jinke Ren, Mingming Gong
+  title: Decentralized Dynamic Cooperation of Personalized Models for Federated Continual
+    Learning.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/YangCCYLWLRG25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/a2582a9f63edd4dd9489bd59ed0b6fce-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/YangCCYLWLRG25
 decentralized%20learning%20venue%3AICML%3A:
 - author: Matthieu Zimmer, Claire Glanois, Umer Siddique, Paul Weng
   title: Learning Fair Policies in Decentralized Cooperative Multi-Agent Reinforcement

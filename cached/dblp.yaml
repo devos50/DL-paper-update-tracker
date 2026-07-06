@@ -17304,3 +17304,36 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2603.01730
   ee: https://doi.org/10.48550/arXiv.2603.01730
   url: https://dblp.org/rec/journals/corr/abs-2603-01730
+- author: Yunsheng Yuan, Xue Xiao, Lina Wang, Feng Li
+  title: 'DPDL: Towards Differential Privacy Preservation in Decentralized Stochastic
+    Learning on Non-IID Data.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-04399
+  doi: 10.48550/ARXIV.2606.04399
+  ee: https://doi.org/10.48550/arXiv.2606.04399
+  url: https://dblp.org/rec/journals/corr/abs-2606-04399
+- author: Can Savci
+  title: 'Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via
+    Cross-Attention.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-06162
+  doi: 10.48550/ARXIV.2606.06162
+  ee: https://doi.org/10.48550/arXiv.2606.06162
+  url: https://dblp.org/rec/journals/corr/abs-2606-06162
+- author: Su Wang 0007, Mung Chiang, H. Vincent Poor
+  title: Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous
+    Optimizers.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-06687
+  doi: 10.48550/ARXIV.2606.06687
+  ee: https://doi.org/10.48550/arXiv.2606.06687
+  url: https://dblp.org/rec/journals/corr/abs-2606-06687

@@ -17337,3 +17337,35 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2606.06687
   ee: https://doi.org/10.48550/arXiv.2606.06687
   url: https://dblp.org/rec/journals/corr/abs-2606-06687
+- author: Chanuka A. S. Hewa Kaluannakkage, Rajkumar Buyya
+  title: Asynchronous Decentralized Federated Learning over Lossy Wireless Links via
+    Reception- and Age-Aware Aggregation.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-10774
+  doi: 10.48550/ARXIV.2606.10774
+  ee: https://doi.org/10.48550/arXiv.2606.10774
+  url: https://dblp.org/rec/journals/corr/abs-2606-10774
+- author: Hengxuan Tang, Jinbao Zhu, Xiaohu Tang
+  title: Secure Aggregation with Top-K Sparsification in Decentralized Federated Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-10780
+  doi: 10.48550/ARXIV.2606.10780
+  ee: https://doi.org/10.48550/arXiv.2606.10780
+  url: https://dblp.org/rec/journals/corr/abs-2606-10780
+- author: Marcel Gregoriadis, Martijn de Vos, Sayan Biswas, Anne-Marie Kermarrec,
+    Johan Pouwelse
+  title: Efficient and Robust Online Learning to Rank in Decentralized Systems.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-12246
+  doi: 10.48550/ARXIV.2606.12246
+  ee: https://doi.org/10.48550/arXiv.2606.12246
+  url: https://dblp.org/rec/journals/corr/abs-2606-12246

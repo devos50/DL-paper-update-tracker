@@ -17369,3 +17369,13 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2606.12246
   ee: https://doi.org/10.48550/arXiv.2606.12246
   url: https://dblp.org/rec/journals/corr/abs-2606-12246
+- author: Hengxuan Tang, Jinbao Zhu, Xiaohu Tang 0004
+  title: Secure Aggregation with Top-K Sparsification in Decentralized Federated Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-10780
+  doi: 10.48550/ARXIV.2606.10780
+  ee: https://doi.org/10.48550/arXiv.2606.10780
+  url: https://dblp.org/rec/journals/corr/abs-2606-10780

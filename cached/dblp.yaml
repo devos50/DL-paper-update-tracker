@@ -5989,6 +5989,59 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFOCOM52122.2024.10621347
   ee: https://doi.org/10.1109/INFOCOM52122.2024.10621347
   url: https://dblp.org/rec/conf/infocom/QiaoZYYCZRY24
+- author: Yiming Chen, Celimuge Wu, Yangfei Lin, Zhaoyang Du, Jianhang Tang, Soufiene
+    Djahel, Lei Zhong
+  title: 'HDFL: A Hierarchical Decentralized Federated Learning Framework for Dynamic
+    and Heterogeneous IoV Environments.'
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/ChenWLDTDZ26
+  doi: 10.1109/INFOCOM59046.2026.11571476
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571476
+  url: https://dblp.org/rec/conf/infocom/ChenWLDTDZ26
+- author: Jing Qiao, Yu Liu, Yuan Yuan 0040, Yifei Zou, Xiao Zhang, Dongxiao Yu
+  title: Resource-Aware Decentralized Learning with Rate-Adaptive Quantization.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/QiaoLYZZY26
+  doi: 10.1109/INFOCOM59046.2026.11571464
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571464
+  url: https://dblp.org/rec/conf/infocom/QiaoLYZZY26
+- author: Xu Wang, Yuanzhu Peter Chen, Qiang John Ye, Jooyoung Son, Octavia A. Dobre
+  title: Disrupting Cross-Community Information Flow in Decentralized Federated Learning.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WangCYSD26
+  doi: 10.1109/INFOCOM59046.2026.11571733
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571733
+  url: https://dblp.org/rec/conf/infocom/WangCYSD26
+- author: Hengliang Wu, Youming Tao 0001, Anhao Zhou, Shuzhen Chen 0001, Falko Dressler,
+    Dongxiao Yu
+  title: Certified Unlearning in Decentralized Federated Learning.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WuTZCDY26
+  doi: 10.1109/INFOCOM59046.2026.11571416
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571416
+  url: https://dblp.org/rec/conf/infocom/WuTZCDY26
+- author: Xusheng Zhang, Tuan Nguyen, Ting He
+  title: Mixing Matrix Design for Energy-efficient Decentralized Federated Learning.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/ZhangNH26
+  doi: 10.1109/INFOCOM59046.2026.11571245
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571245
+  url: https://dblp.org/rec/conf/infocom/ZhangNH26
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota
@@ -17379,3 +17432,38 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2606.10780
   ee: https://doi.org/10.48550/arXiv.2606.10780
   url: https://dblp.org/rec/journals/corr/abs-2606-10780
+- author: "Ousmane Touat, C\xE9sar Sabater, Mohamed Maouche, Sonia Ben Mokhtar"
+  title: 'Giskard : Byzantine Robust and Confidential Aggregation for Large-Scale
+    Decentralized Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-19129
+  doi: 10.48550/ARXIV.2606.19129
+  ee: https://doi.org/10.48550/arXiv.2606.19129
+  url: https://dblp.org/rec/journals/corr/abs-2606-19129
+- author: Nuocheng Yang, Yechen He, Sihua Wang, Zihan Chen, Tony Q. S. Quek, Changchuan
+    Yin
+  title: Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA
+    Fine-Tuning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-22878
+  doi: 10.48550/ARXIV.2606.22878
+  ee: https://doi.org/10.48550/arXiv.2606.22878
+  url: https://dblp.org/rec/journals/corr/abs-2606-22878
+- author: Ran Piao, Tsai-Ning Wang, Martijn den Dekker, Linda Moonen, Hareld Kemps,
+    Yuan Lu, Aaqib Saeed
+  title: Unlocking In-Context Learning in Audio-Language Models from Decentralized
+    Medical Audio.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-23243
+  doi: 10.48550/ARXIV.2606.23243
+  ee: https://doi.org/10.48550/arXiv.2606.23243
+  url: https://dblp.org/rec/journals/corr/abs-2606-23243

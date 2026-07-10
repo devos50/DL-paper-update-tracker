@@ -3027,6 +3027,16 @@ decentralized%20learning%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2026.3685244
   ee: https://doi.org/10.1109/TPDS.2026.3685244
   url: https://dblp.org/rec/journals/tpds/ShiCHHLS26
+- author: Hao Wang 0022, Di Niu 0002, Baochun Li
+  title: 'Turbo: Dynamic and Decentralized Global Analytics via Machine Learning.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/WangNL20
+  doi: 10.1109/TPDS.2020.2964667
+  ee: https://doi.org/10.1109/TPDS.2020.2964667
+  url: https://dblp.org/rec/journals/tpds/WangNL20
 decentralized%20learning%20venue%3ADAC%3A:
 - author: Jing Cao, Zirui Lian, Weihong Liu, Zongwei Zhu, Cheng Ji
   title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.'
@@ -6042,6 +6052,28 @@ decentralized%20learning%20streamid%3Aconf%2Finfocom%3A:
   doi: 10.1109/INFOCOM59046.2026.11571245
   ee: https://doi.org/10.1109/INFOCOM59046.2026.11571245
   url: https://dblp.org/rec/conf/infocom/ZhangNH26
+- author: Jing Qiao, Yu Liu 0085, Yuan Yuan 0040, Yifei Zou, Xiao Zhang 0015, Dongxiao
+    Yu
+  title: Resource-Aware Decentralized Learning with Rate-Adaptive Quantization.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/QiaoLYZZY26
+  doi: 10.1109/INFOCOM59046.2026.11571464
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571464
+  url: https://dblp.org/rec/conf/infocom/QiaoLYZZY26
+- author: Xu Wang 0022, Yuanzhu Peter Chen, Qiang John Ye, Jooyoung Son, Octavia A.
+    Dobre
+  title: Disrupting Cross-Community Information Flow in Decentralized Federated Learning.
+  venue: INFOCOM
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WangCYSD26
+  doi: 10.1109/INFOCOM59046.2026.11571733
+  ee: https://doi.org/10.1109/INFOCOM59046.2026.11571733
+  url: https://dblp.org/rec/conf/infocom/WangCYSD26
 decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
 - author: Kenta Niwa, Hiro Ishii, Hiroshi Sawada, Akinori Fujino, Noboru Harada, Rio
     Yokota
@@ -17467,3 +17499,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2606.23243
   ee: https://doi.org/10.48550/arXiv.2606.23243
   url: https://dblp.org/rec/journals/corr/abs-2606-23243
+- author: Nuocheng Yang, Yechen He, Sihua Wang, Zihan Chen 0001, Tony Q. S. Quek,
+    Changchuan Yin
+  title: Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA
+    Fine-Tuning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-22878
+  doi: 10.48550/ARXIV.2606.22878
+  ee: https://doi.org/10.48550/arXiv.2606.22878
+  url: https://dblp.org/rec/journals/corr/abs-2606-22878
+- author: Samuele Sabella, Chiara Boldrini, Lorenzo Valerio, Marco Conti, Andrea Passarella
+  title: Operating Regimes of Decentralized Learning Under Mobility and Bandwidth
+    Constraints.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-28342
+  doi: 10.48550/ARXIV.2606.28342
+  ee: https://doi.org/10.48550/arXiv.2606.28342
+  url: https://dblp.org/rec/journals/corr/abs-2606-28342

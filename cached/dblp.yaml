@@ -4913,6 +4913,28 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3486122
   ee: https://doi.org/10.1109/JIOT.2024.3486122
   url: https://dblp.org/rec/journals/iotj/WeiYC25
+- author: Vijayalakshmi K. Kumarasamy, Pengyuan Sun, Yu Liang, Dalei Wu, Mina Sartipi
+  title: A Decentralized Traffic Signal Control Framework Using Multiagent Reinforcement
+    Learning With Real-World Operational Constraints.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/KumarasamySLWS26
+  doi: 10.1109/JIOT.2026.3688386
+  ee: https://doi.org/10.1109/JIOT.2026.3688386
+  url: https://dblp.org/rec/journals/iotj/KumarasamySLWS26
+- author: Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki
+  title: 'Function-Space ADMM for Decentralized Federated Learning: A Control Theoretic
+    Perspective.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/TayaNS26
+  doi: 10.1109/JIOT.2026.3690200
+  ee: https://doi.org/10.1109/JIOT.2026.3690200
+  url: https://dblp.org/rec/journals/iotj/TayaNS26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

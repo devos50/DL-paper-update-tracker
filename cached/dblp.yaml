@@ -4935,6 +4935,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2026.3690200
   ee: https://doi.org/10.1109/JIOT.2026.3690200
   url: https://dblp.org/rec/journals/iotj/TayaNS26
+- author: Chen Zhao 0015, Zhipeng Gao 0001, Yang Yang 0006, Qian Wang 0015, Zijia
+    Mo, Xinlei Yu 0001
+  title: 'FedUSC: Collaborative Unsupervised Representation Learning From Decentralized
+    Data for Internet of Things.'
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhaoGYWMY23
+  doi: 10.1109/JIOT.2023.3262669
+  ee: https://doi.org/10.1109/JIOT.2023.3262669
+  url: https://dblp.org/rec/journals/iotj/ZhaoGYWMY23
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

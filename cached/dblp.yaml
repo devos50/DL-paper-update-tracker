@@ -6318,6 +6318,17 @@ decentralized%20learning%20streamid%3Ajournals%2Ftsipn%3A:
   doi: 10.1109/TSIPN.2023.3313818
   ee: https://doi.org/10.1109/TSIPN.2023.3313818
   url: https://dblp.org/rec/journals/tsipn/JosephZGVV23
+- author: Jie Peng, Weiyu Li, Stefan Vlaski, Qing Ling 0001
+  title: Topology-Independent Learning Error of the Weighted Mean Under Label Poisoning
+    Attacks in Heterogeneous Decentralized Learning.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/PengLVL26
+  doi: 10.1109/TSIPN.2026.3712234
+  ee: https://doi.org/10.1109/TSIPN.2026.3712234
+  url: https://dblp.org/rec/journals/tsipn/PengLVL26
 decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
 - author: Michael Duchesne, Kaiwen Zhang 0001, Chamseddine Talhi
   title: 'MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized

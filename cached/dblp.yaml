@@ -17634,3 +17634,37 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2606.28342
   ee: https://doi.org/10.48550/arXiv.2606.28342
   url: https://dblp.org/rec/journals/corr/abs-2606-28342
+- author: Qingyi Chen, Zachary Kingston, Ahmed H. Qureshi
+  title: 'NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe
+    Multi-Arm Motion Planning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-00326
+  doi: 10.48550/ARXIV.2607.00326
+  ee: https://doi.org/10.48550/arXiv.2607.00326
+  url: https://dblp.org/rec/journals/corr/abs-2607-00326
+- author: "Kaushal Attaluri, Rebeca P. D\xEDaz Redondo, Manuel Fern\xE1ndez-Veiga"
+  title: 'Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized
+    Federated Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-04254
+  doi: 10.48550/ARXIV.2607.04254
+  ee: https://doi.org/10.48550/arXiv.2607.04254
+  url: https://dblp.org/rec/journals/corr/abs-2607-04254
+- author: Longzhu He, Peng Tang 0002, Chaozhuo Li, Jinhu Fu, Litian Zhang, Li Sun,
+    Philip S. Yu, Sen Su
+  title: Towards Personalized Differentially Private Learning for Decentralized Local
+    Graphs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-04777
+  doi: 10.48550/ARXIV.2607.04777
+  ee: https://doi.org/10.48550/arXiv.2607.04777
+  url: https://dblp.org/rec/journals/corr/abs-2607-04777

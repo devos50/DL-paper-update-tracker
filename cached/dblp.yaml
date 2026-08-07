@@ -1204,6 +1204,30 @@ decentralized%20learning%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2025/hash/a2582a9f63edd4dd9489bd59ed0b6fce-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/YangCCYLWLRG25
+- author: Yehya Farhat, Hamza ElMokhtar Shili, Fangshuo Liao, Chen Dun, Mirian Hipolito
+    Garcia, Guoqing Zheng, Ahmed Awadallah 0001, Robert Sim, Dimitrios Dimitriadis,
+    Anastasios Kyrillidis
+  title: 'Learning to Specialize: Joint Gating-Expert Training for Adaptive MoEs in
+    Decentralized Settings.'
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/FarhatSLDGZASDK25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/03bb44eceb94537ee2e2f00a8dca60b1-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/FarhatSLDGZASDK25
+- author: Kenta Niwa, Yuki Takezawa, Guoqiang Zhang 0003, W. Bastiaan Kleijn
+  title: Revisiting 1-peer exponential graph for enhancing decentralized learning
+    efficiency.
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/NiwaTZK25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/0a443a000e1cb2281480b3bac395b3b8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/NiwaTZK25
 decentralized%20learning%20venue%3AICML%3A:
 - author: Matthieu Zimmer, Claire Glanois, Umer Siddique, Paul Weng
   title: Learning Fair Policies in Decentralized Cooperative Multi-Agent Reinforcement
@@ -4971,6 +4995,30 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2024.3519678
   ee: https://doi.org/10.1109/JIOT.2024.3519678
   url: https://dblp.org/rec/journals/iotj/HuangZWQYD25
+- author: Bikash K. Behera, Sarah M. Alhammad, Ahmed A. Khalifa, Shahid Mumtaz, Hussein
+    Abulkasim
+  title: 'Q-MA3DQN: Quantum-Secured Scheduling for Contact-Constrained Decentralized
+    Satellite Federated Learning via Multiagent Quantum-Dueling Double Deep Q-Networks.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/BeheraAKMA26
+  doi: 10.1109/JIOT.2026.3693645
+  ee: https://doi.org/10.1109/JIOT.2026.3693645
+  url: https://dblp.org/rec/journals/iotj/BeheraAKMA26
+- author: Mohammed Mynuddin, Zayed Uddin Chowdhury, Reza Ahmari, Ahmad Alsharif, Abdollah
+    Homaifar, Mahmoud Nabil Mahmoud
+  title: Consensus-Based Fully Decentralized and Privacy-Preserving Federated Learning
+    in Dynamic AAV Networks Without Key Distribution Center.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/MynuddinCAAHM26
+  doi: 10.1109/JIOT.2026.3690582
+  ee: https://doi.org/10.1109/JIOT.2026.3690582
+  url: https://dblp.org/rec/journals/iotj/MynuddinCAAHM26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -17658,6 +17706,29 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   url: https://dblp.org/rec/journals/corr/abs-2607-04254
 - author: Longzhu He, Peng Tang 0002, Chaozhuo Li, Jinhu Fu, Litian Zhang, Li Sun,
     Philip S. Yu, Sen Su
+  title: Towards Personalized Differentially Private Learning for Decentralized Local
+    Graphs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-04777
+  doi: 10.48550/ARXIV.2607.04777
+  ee: https://doi.org/10.48550/arXiv.2607.04777
+  url: https://dblp.org/rec/journals/corr/abs-2607-04777
+- author: "Anna van Elst, Igor Colin, St\xE9phan Cl\xE9men\xE7on"
+  title: 'Robust Distributed Learning under Resource Constraints: Decentralized Quantile
+    Estimation via (Asynchronous) ADMM.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-20571
+  doi: 10.48550/ARXIV.2601.20571
+  ee: https://doi.org/10.48550/arXiv.2601.20571
+  url: https://dblp.org/rec/journals/corr/abs-2601-20571
+- author: Longzhu He, Peng Tang 0002, Chaozhuo Li, Jinhu Fu, Litian Zhang, Li Sun
+    0008, Philip S. Yu, Sen Su
   title: Towards Personalized Differentially Private Learning for Decentralized Local
     Graphs.
   venue: CoRR

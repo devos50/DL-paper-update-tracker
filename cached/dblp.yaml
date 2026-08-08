@@ -5019,6 +5019,16 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2026.3690582
   ee: https://doi.org/10.1109/JIOT.2026.3690582
   url: https://dblp.org/rec/journals/iotj/MynuddinCAAHM26
+- author: Mengxuan Du, Haifeng Zheng, Min Gao 0007, Xinxin Feng
+  title: Adaptive Decentralized Federated Learning in Resource-Constrained IoT Networks.
+  venue: IEEE Internet Things J.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/DuZGF24
+  doi: 10.1109/JIOT.2023.3329128
+  ee: https://doi.org/10.1109/JIOT.2023.3329128
+  url: https://dblp.org/rec/journals/iotj/DuZGF24
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning
@@ -17739,3 +17749,24 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2607.04777
   ee: https://doi.org/10.48550/arXiv.2607.04777
   url: https://dblp.org/rec/journals/corr/abs-2607-04777
+- author: Amirhossein Taherpour, Xiaodong Wang
+  title: Secure Decentralized Federated Learning via Gossip and Virtual Voting.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-08651
+  doi: 10.48550/ARXIV.2607.08651
+  ee: https://doi.org/10.48550/arXiv.2607.08651
+  url: https://dblp.org/rec/journals/corr/abs-2607-08651
+- author: William Weijia Zheng, Hang Liu, Ying-Jun Angela Zhang
+  title: Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster
+    Link Enhancement.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-08797
+  doi: 10.48550/ARXIV.2607.08797
+  ee: https://doi.org/10.48550/arXiv.2607.08797
+  url: https://dblp.org/rec/journals/corr/abs-2607-08797

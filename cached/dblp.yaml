@@ -2506,6 +2506,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fijcv%3A:
   doi: 10.1007/S11263-026-02969-Y
   ee: https://doi.org/10.1007/s11263-026-02969-y
   url: https://dblp.org/rec/journals/ijcv/OuyangDHLZWC26
+- author: Junyan Ouyang, Siqi Du, Rui Han 0001, Chi Harold Liu, Jianxin Zhao 0001,
+    Xiaoning Wu, Lydia Y. Chen
+  title: Adaptive Differential Privacy Noise Injection for Decentralized Federated
+    Learning of Visual Recognition Tasks.
+  venue: Int. J. Comput. Vis.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/OuyangDHLZWC26
+  doi: 10.1007/S11263-026-02969-Y
+  ee: https://doi.org/10.1007/s11263-026-02969-y
+  url: https://dblp.org/rec/journals/ijcv/OuyangDHLZWC26
 decentralized%20learning%20venue%3AACL%3A: []
 decentralized%20learning%20venue%3ANAACL-HLT%3A: []
 decentralized%20learning%20venue%3AEMNLP%3A: []

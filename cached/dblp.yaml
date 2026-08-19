@@ -2234,6 +2234,18 @@ decentralized%20learning%20streamid%3Ajournals%2Fpami%3A:
   doi: 10.1109/TPAMI.2026.3672569
   ee: https://doi.org/10.1109/TPAMI.2026.3672569
   url: https://dblp.org/rec/journals/pami/WangYWXZ26
+- author: Qinglun Li, Miao Zhang 0037, Yingqi Liu, Quanjun Yin, Li Shen 0008, Xiaochun
+    Cao
+  title: Boosting the Performance of Decentralized Federated Learning via Catalyst
+    Acceleration.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiZLYSC26
+  doi: 10.1109/TPAMI.2026.3688672
+  ee: https://doi.org/10.1109/TPAMI.2026.3688672
+  url: https://dblp.org/rec/journals/pami/LiZLYSC26
 decentralized%20learning%20venue%3AKDD%3A:
 - author: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du,
     Yanfeng Wang, Siheng Chen
@@ -3807,6 +3819,17 @@ decentralized%20learning%20streamid%3Ajournals%2Faccess%3A:
   doi: 10.1109/ACCESS.2026.3688646
   ee: https://doi.org/10.1109/ACCESS.2026.3688646
   url: https://dblp.org/rec/journals/access/KangL26
+- author: Daniel Benniah John
+  title: 'Decentralized Task Scheduling in Distributed Systems: A Lightweight Multi-Agent
+    Deep Reinforcement Learning Approach With Gossip-Based Consensus.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/John26
+  doi: 10.1109/ACCESS.2026.3715499
+  ee: https://doi.org/10.1109/ACCESS.2026.3715499
+  url: https://dblp.org/rec/journals/access/John26
 decentralized%20learning%20venue%3AMiddleware%3A:
 - author: Jossekin Beilharz, Bjarne Pfitzner, Robert Schmid, Paul Geppert, Bert Arnrich,
     Andreas Polze

@@ -3987,6 +3987,39 @@ decentralized%20learning%20venue%3AICDCS%3A:
   doi: 10.1109/ICDCS63083.2025.00077
   ee: https://doi.org/10.1109/ICDCS63083.2025.00077
   url: https://dblp.org/rec/conf/icdcs/WangYWL25
+- author: Shuhui Chu, Cheng-Zhong Xu 0001
+  title: 'Decentralized Heterogeneous Task Offloading in Edge Computing: A Mean-Field
+    Learning Approach.'
+  venue: ICDCS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/ChuX26
+  doi: 10.1109/2575-8411.2026.00044
+  ee: https://doi.org/10.1109/2575-8411.2026.00044
+  url: https://dblp.org/rec/conf/icdcs/ChuX26
+- author: Zhongkun Wang, Hailiang Yang, Laizhong Cui
+  title: 'Fast-DFL: Flexible Client Switching for Bandwidth-Constrained Hierarchical
+    Decentralized Federated Learning.'
+  venue: ICDCS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/WangYC26
+  doi: 10.1109/2575-8411.2026.00138
+  ee: https://doi.org/10.1109/2575-8411.2026.00138
+  url: https://dblp.org/rec/conf/icdcs/WangYC26
+- author: "Abdulrezzak Zekiye, \xD6znur \xD6zkasap, Ouns Bouachir, Moayad Aloqaily"
+  title: 'Decentralized and AI-Enhanced IoE Framework: P2P Bartering, Donation, and
+    On-Chain Learning.'
+  venue: ICDCS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/ZekiyeOBA26
+  doi: 10.1109/ICDCSW72724.2026.00035
+  ee: https://doi.org/10.1109/ICDCSW72724.2026.00035
+  url: https://dblp.org/rec/conf/icdcs/ZekiyeOBA26
 decentralized%20learning%20streamid%3Aconf%2Fipps%3A:
 - author: Anne-Marie Kermarrec
   title: Frugal Decentralized Learning.

@@ -5119,6 +5119,40 @@ decentralized%20learning%20streamid%3Ajournals%2Fiotj%3A:
   doi: 10.1109/JIOT.2023.3329128
   ee: https://doi.org/10.1109/JIOT.2023.3329128
   url: https://dblp.org/rec/journals/iotj/DuZGF24
+- author: Jitong Ma, Jianing Li, Tianyu Wang 0002, Si-Nian Jin, Jie Wang 0003
+  title: Robust Decentralized Federated Learning for Automatic Modulation Classification
+    Under Impulsive Noise and Data Heterogeneity.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/MaLWJW26
+  doi: 10.1109/JIOT.2026.3709495
+  ee: https://doi.org/10.1109/JIOT.2026.3709495
+  url: https://dblp.org/rec/journals/iotj/MaLWJW26
+- author: Khushal Haider Syed, Ruben Poghosyan, Hongjian Shi, Ruhui Ma, Yuan Luo,
+    Ejafa Bassam, Ziang Zhou, Zhongle Qu, Haibing Guan
+  title: 'DecentFL: A Decentralized Federated Learning System With Multiple Aggregators
+    and Evaluators.'
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/SyedPSMLBZQG26
+  doi: 10.1109/JIOT.2026.3710438
+  ee: https://doi.org/10.1109/JIOT.2026.3710438
+  url: https://dblp.org/rec/journals/iotj/SyedPSMLBZQG26
+- author: Yushi Wang, Yang Lu, Qiang Ni
+  title: Robust and Privacy-Preserving Decentralized Online Federated Learning for
+    Streaming Data With Outliers.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/WangLN26
+  doi: 10.1109/JIOT.2026.3705543
+  ee: https://doi.org/10.1109/JIOT.2026.3705543
+  url: https://dblp.org/rec/journals/iotj/WangLN26
 decentralized%20learning%20streamid%3Aseries%2Flncs%3A:
 - author: Jianan Wei, Liang Wang 0006, Xianping Tao, Hao Hu 0001, Haijun Wu
   title: Tackling Non-stationarity in Decentralized Multi-Agent Reinforcement Learning

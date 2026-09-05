@@ -17916,3 +17916,26 @@ decentralized%20learning%20streamid%3Ajournals%2Fcorr%3A:
   doi: 10.48550/ARXIV.2601.12662
   ee: https://doi.org/10.48550/arXiv.2601.12662
   url: https://dblp.org/rec/journals/corr/abs-2601-12662
+- author: "Shubham Vaishnav, Murtaza Hatim Rangwala, Ali Beikmohammadi, Sindri Magn\xFA\
+    sson, Rajkumar Buyya"
+  title: Trust-Aware Topology Learning for Dynamic Decentralized Federated Learning
+    under Adversaries.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2608-03156
+  doi: 10.48550/ARXIV.2608.03156
+  ee: https://doi.org/10.48550/arXiv.2608.03156
+  url: https://dblp.org/rec/journals/corr/abs-2608-03156
+- author: Van Truong Vo, Khoa Nguyen, Taehong Kim
+  title: 'FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated
+    learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2608-09208
+  doi: 10.48550/ARXIV.2608.09208
+  ee: https://doi.org/10.48550/arXiv.2608.09208
+  url: https://dblp.org/rec/journals/corr/abs-2608-09208
